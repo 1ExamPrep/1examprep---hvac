@@ -139,3 +139,6 @@ a{color:var(--accent-text)}
 .va-lics .va-lic.hv-st b{flex:none}
 .va-lic.hv-st:hover .hv-st-img{border-color:var(--accent)}
 .va-lics .va-lic.hv-st .va-n::after{content:none}
+.va-lics .va-lic.hv-st .hv-st-map{background:#eef3fa;border-color:#dbe4f0;padding:8px}
+.hv-st-map img{object-fit:contain}
+.va-lic.hv-st:hover .hv-st-map{background:#fff3e6}

@@ -382,8 +382,7 @@ def home_main():
     for g, gname, _ in vaclass.GROUPS:
         if g == "books" or not classes_in(g): continue
         cl, ps, lo, hi = state_stats(g)
-        img = STATE_IMG.get(g, "")
-        pic = ('<span class="hv-st-img"><img src="%s" alt="%s HVAC exam prep package" width="160" height="160" loading="lazy" decoding="async"></span>' % (esc(img + ("&" if "?" in img else "?") + "width=320"), esc(gname))) if img else ""
+        pic = '<span class="hv-st-img hv-st-map"><img src="/shared/states/%s.svg" alt="Outline map of %s" width="76" height="76" loading="lazy" decoding="async"></span>' % (g, esc(gname))
         rows.append('<li><a class="va-lic hv-st" href="%s">%s<span class="hv-st-t"><b>%s</b><span class="va-n">%s &middot; %s</span><span class="va-p"><small>from</small> %s</span></span></a></li>' % (state_url(g), pic, esc(gname), plural(len(cl), "license"), plural(len(ps), "package"), money(lo)))
     states_sec = ('<section id="states" class="va-group" aria-labelledby="h-states"><div class="wrap"><h2 id="h-states">Which states do we cover?</h2><p class="sub-h">%d states and Washington DC. Each state page names the board that issues the license and lists every package for its exams.</p><ul class="va-lics hv-states">%s</ul></div></section>'
                   % (n_states - 1, "".join(rows)))
