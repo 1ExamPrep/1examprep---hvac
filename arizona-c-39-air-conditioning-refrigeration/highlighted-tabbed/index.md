@@ -14,7 +14,7 @@ A/C and Refrigeration, Commercial (C-39) · Highlighted and Tabbed Books
 
 The Arizona Air Conditioning and Refrigeration Commercial Contractor (C-39) Highlighted & Tabbed Book Package is the reference books already highlighted and tabbed for the A/C and Refrigeration, Commercial (C-39) exam (Arizona), at $1,495. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$1,495 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Arizona%20Air%20Conditioning%20and%20Refrigeration%20Commercial%20Contractor%20%28C-39%29%20Highlighted%20%26%20Tabbed%20Book%20Package)
+$1,495 [Buy now, go to checkout](https://1examprep.com/cart/46134444818489:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

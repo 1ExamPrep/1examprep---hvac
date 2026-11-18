@@ -14,7 +14,7 @@ Master HVAC · Live Virtual Training
 
 The Virginia Master HVAC Exam Prep - Live Virtual + Self Study Training is live virtual classes with an instructor plus the self-study course for the Master HVAC exam (Virginia), at $495. Books ship from our fulfillment center; online parts arrive by email. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$495 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Virginia%20Master%20HVAC%20Exam%20Prep%20-%20Live%20Virtual%20%2B%20Self%20Study%20Training)
+$495 [Buy now, go to checkout](https://1examprep.com/cart/45851621982265:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

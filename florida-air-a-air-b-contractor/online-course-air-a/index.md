@@ -14,7 +14,7 @@ Class A and Class B Air Conditioning Contractor (Air A, Air B) · Online Exam Pr
 
 The Florida Air A Contractor Trade Exam - Online Exam Prep Course is a self-study online course built around the exam for the Class A and Class B Air Conditioning Contractor (Air A, Air B) exam (Florida), at $395. Online access arrives by email after purchase. Call (877) 775-9400 with questions first.
 
-$395 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Florida%20Air%20A%20Contractor%20Trade%20Exam%20-%20Online%20Exam%20Prep%20Course)
+$395 [Buy now, go to checkout](https://1examprep.com/cart/45922593603641:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Online access arrives by email after purchase

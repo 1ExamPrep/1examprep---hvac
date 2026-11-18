@@ -15,6 +15,7 @@ import hvclass, hvcopy
 
 rows = [l.rsplit("|", 1) for l in open(os.path.join(ROOT, "tools", "test-titles.txt"), encoding="utf-8").read().splitlines() if l.strip()]
 cat, full = [], {}
+OVR = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "product_overrides.json")))
 for i, (t, pr) in enumerate(rows):
     t = t.replace("&amp;", "&")
     c = hvclass.classify(t, "")
@@ -30,6 +31,11 @@ for i, (t, pr) in enumerate(rows):
                 "url": "https://1examprep.com/search?type=product&q=" + quote(t), "desc": desc,
                 "variants": [{"id": "pv-" + quote(t), "title": "Default Title", "price": pr, "compareAt": None, "available": True}]})
     full[pid] = {"html": "<p>%s</p>" % desc, "images": []}
+    o = OVR.get(t)
+    if o:  # real store data pulled for this product: handle, variant and picture
+        cat[-1].update(handle=o[0], image=o[2], url="https://1examprep.com/products/" + o[0])
+        cat[-1]["variants"][0]["id"] = o[1]
+        full[pid]["images"] = [o[2]]
 open(os.path.join(ROOT, "shared", "catalog.js"), "w", encoding="utf-8").write(
     "/* STAND-IN catalog from tools/test-titles.txt (%d products). Replace with the dashboard sync. */\nwindow.CATALOG=%s;\nwindow.CATALOG_STATES=[];\n" % (len(cat), json.dumps(cat, ensure_ascii=False)))
 json.dump(full, open(os.path.join(ROOT, "store", "products-full.json"), "w", encoding="utf-8"), ensure_ascii=False)

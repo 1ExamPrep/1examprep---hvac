@@ -14,7 +14,7 @@ HVACR Unlimited Contractor · Ultimate Exam Prep Package
 
 The Oklahoma HVACR Unlimited Contractor Ultimate Exam Prep Rental Package is highlighted and tabbed rental books, a year of course access and help with the application for the HVACR Unlimited Contractor exam (Oklahoma), at $2,745. Books ship from our fulfillment center; online parts arrive by email. Call (877) 775-9400 with questions first.
 
-$2,745 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Oklahoma%20HVACR%20Unlimited%20Contractor%20Ultimate%20Exam%20Prep%20Rental%20Package)
+$2,745 [Buy now, go to checkout](https://1examprep.com/cart/45604177936441:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email

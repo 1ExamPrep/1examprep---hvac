@@ -69,7 +69,7 @@ Live Virtual Training
 Live virtual classes with an instructor plus the self-study course.
 
 $495
-[Buy now](https://1examprep.com/search?type=product&q=Virginia%20Master%20HVAC%20Exam%20Prep%20-%20Live%20Virtual%20%2B%20Self%20Study%20Training) · [Details](https://passyourhvacexam.com/virginia-master-hvac/live-training/)
+[Buy now](https://1examprep.com/cart/45851621982265:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/virginia-master-hvac/live-training/)
 
 Complete Book Package
 [Virginia Master HVAC Exam Complete Book Package](https://passyourhvacexam.com/virginia-master-hvac/book-package/)

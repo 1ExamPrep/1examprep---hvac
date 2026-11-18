@@ -77,7 +77,7 @@ Complete Book Package
 Every reference book the exam is written to, new and unmarked.
 
 $795
-[Buy now](https://1examprep.com/search?type=product&q=Maryland%20Master%20HVAC%20Contractor%20Exam%20Book%20Package) · [Details](https://passyourhvacexam.com/maryland-master-hvacr-contractor/book-package/)
+[Buy now](https://1examprep.com/cart/50597817647161:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/maryland-master-hvacr-contractor/book-package/)
 
 Highlighted and Tabbed Books
 [Maryland Master HVAC Contractor Highlighted & Tabbed Book Package](https://passyourhvacexam.com/maryland-master-hvacr-contractor/highlighted-tabbed/)

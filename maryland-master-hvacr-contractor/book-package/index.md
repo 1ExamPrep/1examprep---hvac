@@ -14,7 +14,7 @@ Master HVACR Contractor · Complete Book Package
 
 The Maryland Master HVAC Contractor Exam Book Package is every reference book the exam is written to, new and unmarked for the Master HVACR Contractor exam (Maryland), at $795. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$795 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Maryland%20Master%20HVAC%20Contractor%20Exam%20Book%20Package)
+$795 [Buy now, go to checkout](https://1examprep.com/cart/50597817647161:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep

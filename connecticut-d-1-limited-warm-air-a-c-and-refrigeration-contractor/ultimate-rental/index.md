@@ -14,7 +14,7 @@ Limited Warm Air, A/C and Refrigeration Contractor (D-1) · Ultimate Exam Prep P
 
 The Connecticut Limited Warm Air, Air Conditioning and Refrigeration System Contractor (D-1) Ultimate Exam Prep Rental is highlighted and tabbed rental books, a year of course access and help with the application for the Limited Warm Air, A/C and Refrigeration Contractor (D-1) exam (Connecticut), at $3,360. Call (877) 775-9400 with questions first.
 
-$3,360 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Connecticut%20Limited%20Warm%20Air%2C%20Air%20Conditioning%20and%20Refrigeration%20System%20Contractor%20%28D-1%29%20Ultimate%20Exam%20Prep%20Rental)
+$3,360 [Buy now, go to checkout](https://1examprep.com/cart/45866043867193:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email
