@@ -52,8 +52,8 @@ Complete Book Package
 
 Every reference book the exam is written to, new and unmarked.
 
-$745
-[Buy now](https://1examprep.com/search?type=product&q=Iowa%20Journeyperson%20HVAC%20%26%20Refrigeration%20with%20Gas%20Book%20Package) · [Details](https://passyourhvacexam.com/iowa-journeyperson-hvac-refrigeration-gas/book-package/)
+$745 (was $845) Save 12%
+[Buy now](https://1examprep.com/cart/46524468002873:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/iowa-journeyperson-hvac-refrigeration-gas/book-package/)
 
 ## How do the Journeyperson HVAC and Refrigeration with Gas options compare?
 
@@ -107,21 +107,20 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Iowa
 
-- [Disconnecting and Reconnecting A/C and Refrigeration Systems](https://passyourhvacexam.com/iowa-disconnecting-reconnecting-ac-refrigeration/)
 - [Master HVAC and Refrigeration with Gas](https://passyourhvacexam.com/iowa-master-hvac-refrigeration-gas/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
 
 ### Also on this site
 

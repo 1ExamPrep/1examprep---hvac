@@ -3,14 +3,14 @@ title: Virginia HVAC License Exam Prep
 url: https://passyourhvacexam.com/virginia/
 updated: 2026-11-18
 site: Pass Your HVAC Exam
-description: Virginia HVAC license exam prep: 4 licenses and 23 packages from $65, with books, highlighted and tabbed sets, online courses and one-click checkout.
+description: Virginia HVAC license exam prep: 3 licenses and 16 packages from $65, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
 
 [All states](https://passyourhvacexam.com/) /Virginia
 
 # Virginia HVAC license exam prep
 
-Virginia HVAC licenses come from the Virginia Board for Contractors (DPOR). We carry prep for 4 licenses in Virginia, Refrigeration Contractor, Residential HVAC Tradesman and more, with 23 packages from $65 to $3,210. Pick your license below to compare books, courses and complete packages.
+Virginia HVAC licenses come from the Virginia Board for Contractors (DPOR). We carry prep for 3 licenses in Virginia, Residential HVAC Tradesman, Journeyman HVAC and more, with 16 packages from $65 to $3,210. Pick your license below to compare books, courses and complete packages.
 See the Virginia licenses
 LicensesCompareHow licensing worksFAQSources
 
@@ -30,11 +30,11 @@ See the candidate bulletin
 
 Licenses here
 
-4
+3
 
 Packages
 
-23, from $65
+16, from $65
 
 [Official site](https://www.dpor.virginia.gov/)
 See the licenses
@@ -43,7 +43,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 ## Key takeaways
 
 - The Virginia Board for Contractors certifies HVAC tradesmen as journeyman and master, plus residential HVAC tradesman.
-- 23 packages covering 4 licenses in Virginia, from $65 to $3,210.
+- 16 packages covering 3 licenses in Virginia, from $65 to $3,210.
 - Refrigeration contractor prep is listed separately from the HVAC tradesman licenses.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
@@ -51,9 +51,8 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Virginia HVAC licenses do we cover?
 
-4 licenses and 23 packages. Pick one to compare every package for that exam.
+3 licenses and 16 packages. Pick one to compare every package for that exam.
 
-- [**Refrigeration Contractor** 7 options from $295](https://passyourhvacexam.com/virginia-refrigeration-contractor/)
 - [**Residential HVAC Tradesman** 5 options from $295](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/)
 - [**Journeyman HVAC** 5 options from $295](https://passyourhvacexam.com/virginia-journeyman-hvac/)
 - [**Master HVAC** 6 options from $65](https://passyourhvacexam.com/virginia-master-hvac/)
@@ -63,7 +62,6 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 Starting price and the most complete package for each license.
 
 License | Options | From | Most complete
-[Refrigeration Contractor](https://passyourhvacexam.com/virginia-refrigeration-contractor/) | 7 | $295 | The 1 Package, $2,410
 [Residential HVAC Tradesman](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/) | 5 | $295 | The 1 Package, $3,210
 [Journeyman HVAC](https://passyourhvacexam.com/virginia-journeyman-hvac/) | 5 | $295 | Books and Courses Rental, $1,685
 [Master HVAC](https://passyourhvacexam.com/virginia-master-hvac/) | 6 | $65 | Books and Courses Rental, $1,685
@@ -91,11 +89,11 @@ Many HVAC trade exams are open book, but the rule depends on the exam. Your cand
 
 ### How much does Virginia HVAC exam prep cost?
 
-Prep for the Virginia licenses here runs from $65 to $3,210 across 23 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
+Prep for the Virginia licenses here runs from $65 to $3,210 across 16 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
 
 ### Which Virginia license should I study for?
 
-The one your approval or application names. 4 licenses are listed here: Refrigeration Contractor; Residential HVAC Tradesman; Journeyman HVAC; Master HVAC.
+The one your approval or application names. 3 licenses are listed here: Residential HVAC Tradesman; Journeyman HVAC; Master HVAC.
 
 ### Do I need EPA 608 certification as well?
 
@@ -113,25 +111,24 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 
 ### Popular Virginia licenses
 
-- [Refrigeration Contractor](https://passyourhvacexam.com/virginia-refrigeration-contractor/)
 - [Master HVAC](https://passyourhvacexam.com/virginia-master-hvac/)
 - [Residential HVAC Tradesman](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/)
 - [Journeyman HVAC](https://passyourhvacexam.com/virginia-journeyman-hvac/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
-- [Hawaii](https://passyourhvacexam.com/hawaii/)
 - [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
+- [Oklahoma](https://passyourhvacexam.com/oklahoma/)
 
 ### Also on this site
 

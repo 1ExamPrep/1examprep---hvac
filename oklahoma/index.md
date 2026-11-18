@@ -3,14 +3,14 @@ title: Oklahoma HVAC License Exam Prep
 url: https://passyourhvacexam.com/oklahoma/
 updated: 2026-11-18
 site: Pass Your HVAC Exam
-description: Oklahoma HVAC license exam prep: 6 licenses and 47 packages from $64.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
+description: Oklahoma HVAC license exam prep: 4 licenses and 32 packages from $64.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
 
 [All states](https://passyourhvacexam.com/) /Oklahoma
 
 # Oklahoma HVAC license exam prep
 
-Oklahoma HVAC licenses come from the Oklahoma Construction Industries Board (CIB). We carry prep for 6 licenses in Oklahoma, Refrigeration Journeyman, Refrigeration Contractor and more, with 47 packages from $64.99 to $3,845. Pick your license below to compare books, courses and complete packages.
+Oklahoma HVAC licenses come from the Oklahoma Construction Industries Board (CIB). We carry prep for 4 licenses in Oklahoma, HVACR Limited Journeyman, HVACR Unlimited Journeyman and more, with 32 packages from $64.99 to $3,845. Pick your license below to compare books, courses and complete packages.
 See the Oklahoma licenses
 LicensesCompareHow licensing worksFAQSources
 
@@ -30,11 +30,11 @@ Approved books for several exams
 
 Licenses here
 
-6
+4
 
 Packages
 
-47, from $64.99
+32, from $64.99
 
 [Official site](https://oklahoma.gov/cib.html)
 See the licenses
@@ -43,7 +43,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 ## Key takeaways
 
 - The HVACR Unlimited Contractor trade exam is open book: 90 questions in 240 minutes, with a 70 percent passing score (63 correct).
-- 47 packages covering 6 licenses in Oklahoma, from $64.99 to $3,845.
+- 32 packages covering 4 licenses in Oklahoma, from $64.99 to $3,845.
 - From December 15, 2026 the affected HVACR exams use the 2024 International Mechanical Code and International Fuel Gas Code only.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
@@ -51,10 +51,8 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Oklahoma HVAC licenses do we cover?
 
-6 licenses and 47 packages. Pick one to compare every package for that exam.
+4 licenses and 32 packages. Pick one to compare every package for that exam.
 
-- [**Refrigeration Journeyman** 7 options from $79.99](https://passyourhvacexam.com/oklahoma-refrigeration-journeyman/)
-- [**Refrigeration Contractor** 8 options from $79.99](https://passyourhvacexam.com/oklahoma-refrigeration-contractor/)
 - [**HVACR Limited Journeyman** 7 options from $79.99](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/)
 - [**HVACR Unlimited Journeyman** 7 options from $79.99](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-journeyman/)
 - [**HVACR Limited Contractor** 9 options from $79.99](https://passyourhvacexam.com/oklahoma-hvacr-limited-contractor/)
@@ -65,8 +63,6 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 Starting price and the most complete package for each license.
 
 License | Options | From | Most complete
-[Refrigeration Journeyman](https://passyourhvacexam.com/oklahoma-refrigeration-journeyman/) | 7 | $79.99 | Ultimate Exam Prep Package, $1,445
-[Refrigeration Contractor](https://passyourhvacexam.com/oklahoma-refrigeration-contractor/) | 8 | $79.99 | The 1 Package, $2,995
 [HVACR Limited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/) | 7 | $79.99 | Ultimate Exam Prep Package, $1,845
 [HVACR Unlimited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-journeyman/) | 7 | $79.99 | Ultimate Exam Prep Package, $1,845
 [HVACR Limited Contractor](https://passyourhvacexam.com/oklahoma-hvacr-limited-contractor/) | 9 | $79.99 | The 1 Package, $3,845
@@ -96,11 +92,11 @@ Several exams in this state let you bring approved books, which is why exam-room
 
 ### How much does Oklahoma HVAC exam prep cost?
 
-Prep for the Oklahoma licenses here runs from $64.99 to $3,845 across 47 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
+Prep for the Oklahoma licenses here runs from $64.99 to $3,845 across 32 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
 
 ### Which Oklahoma license should I study for?
 
-The one your approval or application names. 6 licenses are listed here: Refrigeration Journeyman; Refrigeration Contractor; HVACR Limited Journeyman; HVACR Unlimited Journeyman; HVACR Limited Contractor; HVACR Unlimited Contractor.
+The one your approval or application names. 4 licenses are listed here: HVACR Limited Journeyman; HVACR Unlimited Journeyman; HVACR Limited Contractor; HVACR Unlimited Contractor.
 
 ### Do I need EPA 608 certification as well?
 
@@ -120,25 +116,23 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 
 - [HVACR Limited Contractor](https://passyourhvacexam.com/oklahoma-hvacr-limited-contractor/)
 - [HVACR Unlimited Contractor](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/)
-- [Refrigeration Contractor](https://passyourhvacexam.com/oklahoma-refrigeration-contractor/)
-- [Refrigeration Journeyman](https://passyourhvacexam.com/oklahoma-refrigeration-journeyman/)
 - [HVACR Limited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/)
 - [HVACR Unlimited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-journeyman/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
-- [Hawaii](https://passyourhvacexam.com/hawaii/)
 - [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
+- [South Carolina](https://passyourhvacexam.com/south-carolina/)
 
 ### Also on this site
 

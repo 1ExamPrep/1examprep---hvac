@@ -52,56 +52,56 @@ Online Practice Questions
 
 Online practice questions with explanations.
 
-$79.99
-[Buy now](https://1examprep.com/search?type=product&q=Oklahoma%20HVACR%20Journeyman%20Limited%20Contractor%20Exam%20-%20Online%20Practice%20Questions) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/online-practice-exams/)
+$79.99 (was $129.99) Save 38%
+[Buy now](https://1examprep.com/cart/45947323678777:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/online-practice-exams/)
 
 Online Exam Prep Course
 [Oklahoma HVACR Limited Journeyman Contractor - Online Exam Prep Course](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/online-course/)
 
 A self-study online course built around the exam.
 
-$295
-[Buy now](https://1examprep.com/search?type=product&q=Oklahoma%20HVACR%20Limited%20Journeyman%20Contractor%20-%20Online%20Exam%20Prep%20Course) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/online-course/)
+$295 (was $395) Save 25%  to $495
+[Buy now](https://1examprep.com/cart/15671835787321:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/online-course/)
 
 Live Virtual Training
 [Oklahoma HVACR Limited Journeyman Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/live-training/)
 
 Live virtual classes with an instructor plus the self-study course.
 
-$595
-[Buy now](https://1examprep.com/search?type=product&q=Oklahoma%20HVACR%20Limited%20Journeyman%20Contractor%20Exam%20Prep%20-%20Live%20Virtual%20%2B%20Self%20Study%20Training) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/live-training/)
+$595 (was $795) Save 25%
+[Buy now](https://1examprep.com/cart/45851037696057:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/live-training/)
 
 Complete Book Package
 [Oklahoma HVACR Limited Journeyman Contractor Exam Book Package](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/book-package/)
 
 Every reference book the exam is written to, new and unmarked.
 
-$845
-[Buy now](https://1examprep.com/search?type=product&q=Oklahoma%20HVACR%20Limited%20Journeyman%20Contractor%20Exam%20Book%20Package) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/book-package/)
+$845 (was $945) Save 11%  to $1,195
+[Buy now](https://1examprep.com/cart/46303703924793:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/book-package/)
 
 Highlighted and Tabbed Books
 [Oklahoma HVACR Limited Journeyman Contractor Highlighted & Tabbed Book Package](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/highlighted-tabbed/)
 
 The reference books already highlighted and tabbed.
 
-$1,195
-[Buy now](https://1examprep.com/search?type=product&q=Oklahoma%20HVACR%20Limited%20Journeyman%20Contractor%20Highlighted%20%26%20Tabbed%20Book%20Package) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/highlighted-tabbed/)
+$1,195 (was $1,390) Save 14%  to $1,490
+[Buy now](https://1examprep.com/cart/46303700254777:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/highlighted-tabbed/)
 
 Books and Courses Rental
 [Oklahoma HVACR Limited Journeyman Contractor - Book Rental Package](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/rental-package/)
 
 The reference books on rental plus the online course, returned after your exam.
 
-$1,420
-[Buy now](https://1examprep.com/search?type=product&q=Oklahoma%20HVACR%20Limited%20Journeyman%20Contractor%20-%20Book%20Rental%20Package) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/rental-package/)
+$1,420 (was $1,620) Save 12%  to $2,020
+[Buy now](https://1examprep.com/cart/45605512085561:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/rental-package/)
 
 Ultimate Exam Prep Package
 [Oklahoma HVACR Limited Journeyman Contractor Ultimate Exam Prep Rental Package](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/ultimate-rental/)
 
 Highlighted and tabbed rental books, a year of course access and help with the application.
 
-$1,845
-[Buy now](https://1examprep.com/search?type=product&q=Oklahoma%20HVACR%20Limited%20Journeyman%20Contractor%20Ultimate%20Exam%20Prep%20Rental%20Package) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/ultimate-rental/)
+$1,845 (was $2,245) Save 18%
+[Buy now](https://1examprep.com/cart/45604093329465:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/ultimate-rental/)
 
 ## How do the HVACR Limited Journeyman options compare?
 
@@ -162,24 +162,22 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Oklahoma
 
-- [Refrigeration Journeyman](https://passyourhvacexam.com/oklahoma-refrigeration-journeyman/)
-- [Refrigeration Contractor](https://passyourhvacexam.com/oklahoma-refrigeration-contractor/)
 - [HVACR Unlimited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-journeyman/)
 - [HVACR Limited Contractor](https://passyourhvacexam.com/oklahoma-hvacr-limited-contractor/)
 - [HVACR Unlimited Contractor](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
 
 ### Also on this site
 

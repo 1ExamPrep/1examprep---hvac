@@ -52,56 +52,56 @@ Online Exam Prep Course
 
 A self-study online course built around the exam.
 
-$395
-[Buy now](https://1examprep.com/search?type=product&q=Tennessee%20CMC-C%20Mechanical%20HVAC%20/%20Refrigeration%20Contractor%20-%20Online%20Exam%20Prep%20Course%20%28Prov%29) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/online-course/)
+$395 (was $495) Save 20%  to $695
+[Buy now](https://1examprep.com/cart/30176196853817:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/online-course/)
 
 Live Virtual Training
 [Tennessee CMC-C Mechanical HVAC / Refrigeration Contractor Exam Prep - Live Virtual + Self Study Training](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/live-training/)
 
 Live virtual classes with an instructor plus the self-study course.
 
-$595
-[Buy now](https://1examprep.com/search?type=product&q=Tennessee%20CMC-C%20Mechanical%20HVAC%20/%20Refrigeration%20Contractor%20Exam%20Prep%20-%20Live%20Virtual%20%2B%20Self%20Study%20Training) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/live-training/)
+$595 (was $795) Save 25%
+[Buy now](https://1examprep.com/cart/45851172405305:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/live-training/)
 
 Complete Book Package
 [Tennessee CMC-C Mechanical HVAC / Refrigeration Contractor Book Package (Prov)](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/book-package/)
 
 Every reference book the exam is written to, new and unmarked.
 
-$1,195
-[Buy now](https://1examprep.com/search?type=product&q=Tennessee%20CMC-C%20Mechanical%20HVAC%20/%20Refrigeration%20Contractor%20Book%20Package%20%28Prov%29) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/book-package/)
+$1,195 (was $1,295) Save 8%  to $1,595
+[Buy now](https://1examprep.com/cart/46135154311225:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/book-package/)
 
 Highlighted and Tabbed Books
 [Tennessee CMC-C Mechanical HVAC / Refrigeration Contractor Exam Complete Highlighted & Tabbed Book Package (Prov)](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/highlighted-tabbed/)
 
 The reference books already highlighted and tabbed.
 
-$1,595
-[Buy now](https://1examprep.com/search?type=product&q=Tennessee%20CMC-C%20Mechanical%20HVAC%20/%20Refrigeration%20Contractor%20Exam%20Complete%20Highlighted%20%26%20Tabbed%20Book%20Package%20%28Prov%29) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/highlighted-tabbed/)
+$1,595 (was $1,795) Save 11%  to $1,990
+[Buy now](https://1examprep.com/cart/46135165091897:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/highlighted-tabbed/)
 
 Books and Courses Rental
 [Tennessee CMC-C Mechanical HVAC / Refrigeration Contractor - Books & Courses Rental Package (Prov)](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/rental-package/)
 
 The reference books on rental plus the online course, returned after your exam.
 
-$2,285
-[Buy now](https://1examprep.com/search?type=product&q=Tennessee%20CMC-C%20Mechanical%20HVAC%20/%20Refrigeration%20Contractor%20-%20Books%20%26%20Courses%20Rental%20Package%20%28Prov%29) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/rental-package/)
+$2,285 (was $2,585) Save 12%  to $3,010
+[Buy now](https://1examprep.com/cart/44297225830457:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/rental-package/)
 
 Ultimate Exam Prep Package
 [Tennessee CMC-C Mechanical HVAC / Refrigeration Contractor Ultimate Exam Prep Rental Package (Prov)](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/ultimate-rental/)
 
 Highlighted and tabbed rental books, a year of course access and help with the application.
 
-$2,710
-[Buy now](https://1examprep.com/search?type=product&q=Tennessee%20CMC-C%20Mechanical%20HVAC%20/%20Refrigeration%20Contractor%20Ultimate%20Exam%20Prep%20Rental%20Package%20%28Prov%29) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/ultimate-rental/)
+$2,710 (was $3,110) Save 13%
+[Buy now](https://1examprep.com/cart/44407589404729:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/ultimate-rental/)
 
 The 1 Package (all-inclusive)
 [The 1 Package: All-Inclusive Tennessee CMC-C Mechanical HVAC / Refrigeration Contractor Exam, Licensing & Business Setup Solution (Prov)](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/the-1-package/)
 
 Everything in the ultimate package plus llc or corporation setup, ein filing and compliance guidance.
 
-$3,275
-[Buy now](https://1examprep.com/search?type=product&q=The%201%20Package%3A%20All-Inclusive%20Tennessee%20CMC-C%20Mechanical%20HVAC%20/%20Refrigeration%20Contractor%20Exam%2C%20Licensing%20%26%20Business%20Setup%20Solution%20%28Prov%29) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/the-1-package/)
+$3,275 (was $3,775) Save 13%
+[Buy now](https://1examprep.com/cart/44410452312121:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/the-1-package/)
 
 ## How do the CMC-C Mechanical HVAC and Refrigeration Contractor options compare?
 
@@ -165,16 +165,16 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
 
 ### Also on this site
 

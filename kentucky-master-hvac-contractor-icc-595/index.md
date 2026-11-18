@@ -52,56 +52,56 @@ Online Practice Questions
 
 Online practice questions with explanations.
 
-$79.99
-[Buy now](https://1examprep.com/search?type=product&q=Kentucky%20ICC%20Master%20HVAC%20-%20595-KY%20-%20Online%20Practice%20Questions) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/online-practice-exams/)
+$79.99 (was $120) Save 33%
+[Buy now](https://1examprep.com/cart/50783345967161:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/online-practice-exams/)
 
 Online Exam Prep Course
 [Kentucky Master HVAC Contractor (ICC - 595_KY) - Online Exam Prep](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/online-course/)
 
 A self-study online course built around the exam.
 
-$295
-[Buy now](https://1examprep.com/search?type=product&q=Kentucky%20Master%20HVAC%20Contractor%20%28ICC%20-%20595_KY%29%20-%20Online%20Exam%20Prep) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/online-course/)
+$295 (was $395) Save 25%
+[Buy now](https://1examprep.com/cart/45905559584825:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/online-course/)
 
 Complete Book Package
 [Kentucky Master HVAC Contractor (ICC - 595_KY) Exam Book Package](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/book-package/)
 
 Every reference book the exam is written to, new and unmarked.
 
-$745
-[Buy now](https://1examprep.com/search?type=product&q=Kentucky%20Master%20HVAC%20Contractor%20%28ICC%20-%20595_KY%29%20Exam%20Book%20Package) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/book-package/)
+$745 (was $845) Save 12%
+[Buy now](https://1examprep.com/cart/45905401970745:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/book-package/)
 
 Highlighted and Tabbed Books
 [Kentucky Master HVAC Contractor (ICC - 595_KY) Highlighted & Tabbed Book Package](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/highlighted-tabbed/)
 
 The reference books already highlighted and tabbed.
 
-$1,045
-[Buy now](https://1examprep.com/search?type=product&q=Kentucky%20Master%20HVAC%20Contractor%20%28ICC%20-%20595_KY%29%20Highlighted%20%26%20Tabbed%20Book%20Package) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/highlighted-tabbed/)
+$1,045 (was $1,245) Save 16%
+[Buy now](https://1examprep.com/cart/45905439948857:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/highlighted-tabbed/)
 
 Books and Courses Rental
 [Kentucky Master HVAC Contractor (ICC - 595_KY) - Books & Courses Rental Package](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/rental-package/)
 
 The reference books on rental plus the online course, returned after your exam.
 
-$1,585
-[Buy now](https://1examprep.com/search?type=product&q=Kentucky%20Master%20HVAC%20Contractor%20%28ICC%20-%20595_KY%29%20-%20Books%20%26%20Courses%20Rental%20Package) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/rental-package/)
+$1,585 (was $1,885) Save 16%
+[Buy now](https://1examprep.com/cart/45905617354809:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/rental-package/)
 
 Ultimate Exam Prep Package
 [Kentucky Master HVAC Contractor (ICC - 595_KY) Ultimate Exam Prep Rental Package](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/ultimate-rental/)
 
 Highlighted and tabbed rental books, a year of course access and help with the application.
 
-$2,010
-[Buy now](https://1examprep.com/search?type=product&q=Kentucky%20Master%20HVAC%20Contractor%20%28ICC%20-%20595_KY%29%20Ultimate%20Exam%20Prep%20Rental%20Package) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/ultimate-rental/)
+$2,010 (was $2,410) Save 17%
+[Buy now](https://1examprep.com/cart/45905654153273:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/ultimate-rental/)
 
 The 1 Package (all-inclusive)
 [The 1 Package: All-Inclusive Kentucky Master HVAC Contractor (ICC - 595_KY) Exam, Licensing & Business Setup Solution](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/the-1-package/)
 
 Everything in the ultimate package plus llc or corporation setup, ein filing and compliance guidance.
 
-$2,410
-[Buy now](https://1examprep.com/search?type=product&q=The%201%20Package%3A%20All-Inclusive%20Kentucky%20Master%20HVAC%20Contractor%20%28ICC%20-%20595_KY%29%20Exam%2C%20Licensing%20%26%20Business%20Setup%20Solution) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/the-1-package/)
+$2,410 (was $2,910) Save 17%
+[Buy now](https://1examprep.com/cart/45907580452921:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/the-1-package/)
 
 ## How do the Master HVAC Contractor (ICC 595) options compare?
 
@@ -167,16 +167,16 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
 
 ### Also on this site
 

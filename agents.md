@@ -6,7 +6,7 @@ Last updated: 2026-11-18
 
 ## What this site is
 
-Pass Your HVAC Exam sells exam preparation for 140 HVAC, refrigeration and heating licenses in 35 states and Washington DC, grouped by state. Orders are processed, shipped and supported by 1 Exam Prep (https://1examprep.com).
+Pass Your HVAC Exam sells exam preparation for 49 HVAC, refrigeration and heating licenses in 35 states and Washington DC, grouped by state. Orders are processed, shipped and supported by 1 Exam Prep (https://1examprep.com).
 
 ## How it is organised
 

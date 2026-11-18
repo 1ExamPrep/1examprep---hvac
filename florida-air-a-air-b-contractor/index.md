@@ -3,14 +3,14 @@ title: FL Class A and Class B Air Conditioning Contractor Exam Prep
 url: https://passyourhvacexam.com/florida-air-a-air-b-contractor/
 updated: 2026-11-18
 site: Pass Your HVAC Exam
-description: Class A and Class B Air Conditioning Contractor (Air A, Air B) exam prep for Florida: 17 options from $65 to $4,395, including books and courses rental.
+description: Class A and Class B Air Conditioning Contractor (Air A, Air B) exam prep for Florida: 12 options from $65 to $4,395, including books and courses rental.
 ---
 
 [All states](https://passyourhvacexam.com/) /[Florida](https://passyourhvacexam.com/florida/) /Class A and Class B Air Conditioning Contractor (Air A, Air B)
 
 # Florida Class A and Class B Air Conditioning Contractor (Air A, Air B) exam prep
 
-The Florida Class A and Class B Air Conditioning Contractor (Air A, Air B) license comes from the Florida Construction Industry Licensing Board (CILB). Here are 17 packages, from $65 to $4,395, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
+The Florida Class A and Class B Air Conditioning Contractor (Air A, Air B) license comes from the Florida Construction Industry Licensing Board (CILB). Here are 12 packages, from $65 to $4,395, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
 See the packages
 PackagesCompareHow the exam worksFAQSources
 
@@ -22,7 +22,7 @@ $65 to $4,395
 
 Options
 
-17
+12
 
 Licensed by
 
@@ -36,7 +36,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 
 ## Key takeaways
 
-- 17 options for the Class A and Class B Air Conditioning Contractor (Air A, Air B) exam, from $65 to $4,395.
+- 12 options for the Class A and Class B Air Conditioning Contractor (Air A, Air B) exam, from $65 to $4,395.
 - The Florida Construction Industry Licensing Board certifies Class A and Class B air conditioning contractors statewide.
 - Pearson VUE gives the state Air A and Air B trade exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
@@ -52,175 +52,130 @@ Pre-Printed Tabs
 
 Pre-printed tabs for the reference books.
 
-$101.99
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20A%20or%20Air%20B%20Contractor%20Exam%3B%20Pre-Printed%20Tabs%20%28Tabs%20Only%29) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs/)
+$101.99 (was $113.50) Save 10%
+[Buy now](https://1examprep.com/cart/36644366797:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs/)
 
 Complete Book Package
 [Florida Air A and Air B Contractor Exam Complete Book Set - Trade Books](https://passyourhvacexam.com/florida-air-a-air-b-contractor/book-package/)
 
 Every reference book the exam is written to, new and unmarked.
 
-$1,645
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20A%20and%20Air%20B%20Contractor%20Exam%20Complete%20Book%20Set%20-%20Trade%20Books) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/book-package/)
+$1,645 (was $1,845) Save 11%  to $2,195
+[Buy now](https://1examprep.com/cart/45922613723193:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/book-package/)
 
 Highlighted and Tabbed Books
 [Florida Air A or Air B Contractor Exam Complete Book Set - Trade Books - Highlighted and Tabbed](https://passyourhvacexam.com/florida-air-a-air-b-contractor/highlighted-tabbed/)
 
 The reference books already highlighted and tabbed.
 
-$2,195
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20A%20or%20Air%20B%20Contractor%20Exam%20Complete%20Book%20Set%20-%20Trade%20Books%20-%20Highlighted%20and%20Tabbed) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/highlighted-tabbed/)
+$2,195 (was $2,555) Save 14%  to $2,640
+[Buy now](https://1examprep.com/cart/46179556491321:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/highlighted-tabbed/)
 
 ## Class A and Class B Air Conditioning Contractor (Air A, Air B) options: other options
 
-5 products of the 17 Class A and Class B Air Conditioning Contractor (Air A, Air B) options, from $65.
+4 products of the 12 Class A and Class B Air Conditioning Contractor (Air A, Air B) options, from $65.
 
 Pre-Printed Tabs and Highlights
 [Florida Air A or Air B Contractor Exam; Pre-Printed Tabs and Highlights](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs-highlights/)
 
 Pre-printed tabs plus highlighting guides for the reference books.
 
-$150
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20A%20or%20Air%20B%20Contractor%20Exam%3B%20Pre-Printed%20Tabs%20and%20Highlights) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs-highlights/)
+$150 (was $167.50) Save 10%
+[Buy now](https://1examprep.com/cart/32225670797:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs-highlights/)
 
 Flash Cards
 [Florida Air A or B Contractor Exam Prep Study Flash Cards](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards/)
 
 Study flash cards for quick review.
 
-$65
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20A%20or%20B%20Contractor%20Exam%20Prep%20Study%20Flash%20Cards) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards/)
+$65 (was $75) Save 13%
+[Buy now](https://1examprep.com/cart/46454584574009:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards/)
 
 Flash Cards
 [Florida Air A/B Contractor + Business & Finance Flash Card Combo](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards-2/)
 
 Study flash cards for quick review.
 
-$99
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20A/B%20Contractor%20%2B%20Business%20%26%20Finance%20Flash%20Card%20Combo) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards-2/)
+$99 (was $150) Save 34%
+[Buy now](https://1examprep.com/cart/51084521046073:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards-2/)
 
 Introduction Course
 [Introduction to Becoming a Florida Air A Contractor](https://passyourhvacexam.com/florida-air-a-air-b-contractor/intro-course-air-a/)
 
 A short introduction to becoming a licensed contractor in the state.
 
-$79.99
-[Buy now](https://1examprep.com/search?type=product&q=Introduction%20to%20Becoming%20a%20Florida%20Air%20A%20Contractor) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/intro-course-air-a/)
-
-Introduction Course
-[Introduction to Becoming a Florida Air B Contractor](https://passyourhvacexam.com/florida-air-a-air-b-contractor/intro-course-air-b/)
-
-A short introduction to becoming a licensed contractor in the state.
-
-$79.99
-[Buy now](https://1examprep.com/search?type=product&q=Introduction%20to%20Becoming%20a%20Florida%20Air%20B%20Contractor) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/intro-course-air-b/)
+$79.99 (was $129.99) Save 38%
+[Buy now](https://1examprep.com/cart/31000868356153:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/intro-course-air-a/)
 
 ## Class A and Class B Air Conditioning Contractor (Air A, Air B) options: online courses and practice
 
-4 products of the 17 Class A and Class B Air Conditioning Contractor (Air A, Air B) options, from $79.99.
+2 products of the 12 Class A and Class B Air Conditioning Contractor (Air A, Air B) options, from $79.99.
 
 Online Practice Questions
 [Florida Air A Contractor Exam - Online Practice Questions](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-a/)
 
 Online practice questions with explanations.
 
-$79.99
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20A%20Contractor%20Exam%20-%20Online%20Practice%20Questions) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-a/)
-
-Online Practice Questions
-[Florida Air B Contractor Exam - Online Practice Questions](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-b/)
-
-Online practice questions with explanations.
-
-$79.99
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20B%20Contractor%20Exam%20-%20Online%20Practice%20Questions) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-b/)
+$79.99 (was $129.99) Save 38%
+[Buy now](https://1examprep.com/cart/3293165518874:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-a/)
 
 Online Exam Prep Course
 [Florida Air A Contractor Trade Exam - Online Exam Prep Course](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-course-air-a/)
 
 A self-study online course built around the exam.
 
-$395
+$395 (was $440) Save 10%  to $695
 [Buy now](https://1examprep.com/cart/45922593603641:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-course-air-a/)
-
-Online Exam Prep Course
-[Florida Air B Contractor Trade Exam - Online Exam Prep Course](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-course-air-b/)
-
-A self-study online course built around the exam.
-
-$395
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20B%20Contractor%20Trade%20Exam%20-%20Online%20Exam%20Prep%20Course) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-course-air-b/)
 
 ## Class A and Class B Air Conditioning Contractor (Air A, Air B) options: live training and rentals
 
-3 products of the 17 Class A and Class B Air Conditioning Contractor (Air A, Air B) options, from $2,999.
+2 products of the 12 Class A and Class B Air Conditioning Contractor (Air A, Air B) options, from $2,999.
 
 Books and Courses Rental
 [Florida Air A Contractor Exam - Books & Courses Rental](https://passyourhvacexam.com/florida-air-a-air-b-contractor/rental-package-air-a/)
 
 The reference books on rental plus the online course, returned after your exam.
 
-$2,999
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20A%20Contractor%20Exam%20-%20Books%20%26%20Courses%20Rental) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/rental-package-air-a/)
-
-Books and Courses Rental
-[Florida Air B Contractor Exam - Books & Courses Rental](https://passyourhvacexam.com/florida-air-a-air-b-contractor/rental-package-air-b/)
-
-The reference books on rental plus the online course, returned after your exam.
-
-$2,999
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20B%20Contractor%20Exam%20-%20Books%20%26%20Courses%20Rental) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/rental-package-air-b/)
+$2,999 (was $3,333) Save 10%  to $3,799
+[Buy now](https://1examprep.com/cart/31805182214201:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/rental-package-air-a/)
 
 Ultimate Exam Prep Package
 [Florida Air A or Air B Contractor Ultimate Exam Prep Rental Package](https://passyourhvacexam.com/florida-air-a-air-b-contractor/ultimate-rental/)
 
 Highlighted and tabbed rental books, a year of course access and help with the application.
 
-$3,895
-[Buy now](https://1examprep.com/search?type=product&q=Florida%20Air%20A%20or%20Air%20B%20Contractor%20Ultimate%20Exam%20Prep%20Rental%20Package) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/ultimate-rental/)
+$3,895 (was $4,500) Save 13%
+[Buy now](https://1examprep.com/cart/36976370909241:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/ultimate-rental/)
 
-## Class A and Class B Air Conditioning Contractor (Air A, Air B) options: all-inclusive and licensing services
+## Class A and Class B Air Conditioning Contractor (Air A, Air B) option: all-inclusive and licensing services
 
-2 products of the 17 Class A and Class B Air Conditioning Contractor (Air A, Air B) options, from $4,395.
+1 product of the 12 Class A and Class B Air Conditioning Contractor (Air A, Air B) options, from $4,395.
 
 The 1 Package (all-inclusive)
 [The 1 Package: All-Inclusive Florida Air A Contractor Exam, Licensing & Business Setup Solution](https://passyourhvacexam.com/florida-air-a-air-b-contractor/the-1-package-air-a/)
 
 Everything in the ultimate package plus llc or corporation setup, ein filing and compliance guidance.
 
-$4,395
-[Buy now](https://1examprep.com/search?type=product&q=The%201%20Package%3A%20All-Inclusive%20Florida%20Air%20A%20Contractor%20Exam%2C%20Licensing%20%26%20Business%20Setup%20Solution) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/the-1-package-air-a/)
-
-The 1 Package (all-inclusive)
-[The 1 Package: All-Inclusive Florida Air B Contractor Exam, Licensing & Business Setup Solution](https://passyourhvacexam.com/florida-air-a-air-b-contractor/the-1-package-air-b/)
-
-Everything in the ultimate package plus llc or corporation setup, ein filing and compliance guidance.
-
-$4,395
-[Buy now](https://1examprep.com/search?type=product&q=The%201%20Package%3A%20All-Inclusive%20Florida%20Air%20B%20Contractor%20Exam%2C%20Licensing%20%26%20Business%20Setup%20Solution) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/the-1-package-air-b/)
+$4,395 (was $5,395) Save 19%
+[Buy now](https://1examprep.com/cart/44380765192249:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/florida-air-a-air-b-contractor/the-1-package-air-a/)
 
 ## How do the Class A and Class B Air Conditioning Contractor (Air A, Air B) options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
-Option | Price
-[Pre-Printed Tabs](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs/) | $101.99
-[Pre-Printed Tabs and Highlights](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs-highlights/) | $150
-[Flash Cards](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards/) | $65
-[Flash Cards](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards-2/) | $99
-[Online Practice Questions](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-a/) | $79.99
-[Online Practice Questions](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-b/) | $79.99
-[Introduction Course](https://passyourhvacexam.com/florida-air-a-air-b-contractor/intro-course-air-a/) | $79.99
-[Introduction Course](https://passyourhvacexam.com/florida-air-a-air-b-contractor/intro-course-air-b/) | $79.99
-[Online Exam Prep Course](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-course-air-a/) | $395
-[Online Exam Prep Course](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-course-air-b/) | $395
-[Complete Book Package](https://passyourhvacexam.com/florida-air-a-air-b-contractor/book-package/) | $1,645
-[Highlighted and Tabbed Books](https://passyourhvacexam.com/florida-air-a-air-b-contractor/highlighted-tabbed/) | $2,195
-[Books and Courses Rental](https://passyourhvacexam.com/florida-air-a-air-b-contractor/rental-package-air-a/) | $2,999
-[Books and Courses Rental](https://passyourhvacexam.com/florida-air-a-air-b-contractor/rental-package-air-b/) | $2,999
-[Ultimate Exam Prep Package](https://passyourhvacexam.com/florida-air-a-air-b-contractor/ultimate-rental/) | $3,895
-[The 1 Package (all-inclusive)](https://passyourhvacexam.com/florida-air-a-air-b-contractor/the-1-package-air-a/) | $4,395
-[The 1 Package (all-inclusive)](https://passyourhvacexam.com/florida-air-a-air-b-contractor/the-1-package-air-b/) | $4,395
+Option | What you get | Price
+[Pre-Printed Tabs](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs/) | pre-printed tabs for the reference books | $101.99
+[Pre-Printed Tabs and Highlights](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs-highlights/) | pre-printed tabs plus highlighting guides for the reference books | $150
+[Flash Cards](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards/) | study flash cards for quick review | $65
+[Flash Cards](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards-2/) | study flash cards for quick review | $99
+[Online Practice Questions](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-a/) | online practice questions with explanations | $79.99
+[Introduction Course](https://passyourhvacexam.com/florida-air-a-air-b-contractor/intro-course-air-a/) | a short introduction to becoming a licensed contractor in the state | $79.99
+[Online Exam Prep Course](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-course-air-a/) | a self-study online course built around the exam | $395
+[Complete Book Package](https://passyourhvacexam.com/florida-air-a-air-b-contractor/book-package/) | every reference book the exam is written to, new and unmarked | $1,645
+[Highlighted and Tabbed Books](https://passyourhvacexam.com/florida-air-a-air-b-contractor/highlighted-tabbed/) | the reference books already highlighted and tabbed | $2,195
+[Books and Courses Rental](https://passyourhvacexam.com/florida-air-a-air-b-contractor/rental-package-air-a/) | the reference books on rental plus the online course, returned after your exam | $2,999
+[Ultimate Exam Prep Package](https://passyourhvacexam.com/florida-air-a-air-b-contractor/ultimate-rental/) | highlighted and tabbed rental books, a year of course access and help with the application | $3,895
+[The 1 Package (all-inclusive)](https://passyourhvacexam.com/florida-air-a-air-b-contractor/the-1-package-air-a/) | everything in the Ultimate package plus LLC or corporation setup, EIN filing and compliance guidance | $4,395
 
 ## How does the Class A and Class B Air Conditioning Contractor (Air A, Air B) exam work?
 
@@ -238,7 +193,7 @@ The Flash Cards at $65 is the lightest way into the Class A and Class B Air Cond
 
 ### How much does Class A and Class B Air Conditioning Contractor (Air A, Air B) exam prep cost?
 
-Class A and Class B Air Conditioning Contractor (Air A, Air B) exam prep runs from $65 to $4,395 across 17 options: Pre-Printed Tabs $101.99; Pre-Printed Tabs and Highlights $150; Flash Cards $65; Flash Cards $99; Online Practice Questions $79.99; Online Practice Questions $79.99; and 11 more.
+Class A and Class B Air Conditioning Contractor (Air A, Air B) exam prep runs from $65 to $4,395 across 12 options: Pre-Printed Tabs $101.99; Pre-Printed Tabs and Highlights $150; Flash Cards $65; Flash Cards $99; Online Practice Questions $79.99; Introduction Course $79.99; and 6 more.
 
 ### Is the Class A and Class B Air Conditioning Contractor (Air A, Air B) exam open book?
 
@@ -268,25 +223,20 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Florida
 
-- [Rooftop Solar Heating Specialty Contractor](https://passyourhvacexam.com/florida-rooftop-solar-heating-specialty/)
-- [County Class A Air Conditioning Contractor (MCE1B)](https://passyourhvacexam.com/florida-county-class-a-air-conditioning-mce1b/)
-- [County Class B Air Conditioning Contractor (MDE1B)](https://passyourhvacexam.com/florida-county-class-b-air-conditioning-mde1b/)
-- [Palm Beach County HARV Contractor](https://passyourhvacexam.com/florida-palm-beach-harv/)
-- [Broward County Class B Air Conditioning Contractor](https://passyourhvacexam.com/florida-broward-class-b-air-conditioning/)
-- [County Journeyman Air Conditioning](https://passyourhvacexam.com/florida-county-journeyman-air-conditioning/)
+- [Every Florida license](https://passyourhvacexam.com/florida/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
-- [Hawaii](https://passyourhvacexam.com/hawaii/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
 
 ### Also on this site
 

@@ -52,56 +52,56 @@ Online Practice Questions
 
 Online practice questions with explanations.
 
-$79.99
-[Buy now](https://1examprep.com/search?type=product&q=Idaho%20HVAC%20Specialty%20Journeyman%20-%20Online%20Practice%20Questions) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/online-practice-exams/)
+$79.99 (was $120) Save 33%
+[Buy now](https://1examprep.com/cart/46542190182457:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/online-practice-exams/)
 
 Online Exam Prep Course
 [Idaho HVAC Specialty Journeyman Exam - Online Exam Prep](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/online-course/)
 
 A self-study online course built around the exam.
 
-$295
-[Buy now](https://1examprep.com/search?type=product&q=Idaho%20HVAC%20Specialty%20Journeyman%20Exam%20-%20Online%20Exam%20Prep) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/online-course/)
+$295 (was $395) Save 25%  to $395
+[Buy now](https://1examprep.com/cart/46267830763577:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/online-course/)
 
 Live Virtual Training
 [Idaho HVAC Specialty Journeyman Exam Prep - Live Virtual + Self Study Training](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/live-training/)
 
 Live virtual classes with an instructor plus the self-study course.
 
-$395
-[Buy now](https://1examprep.com/search?type=product&q=Idaho%20HVAC%20Specialty%20Journeyman%20Exam%20Prep%20-%20Live%20Virtual%20%2B%20Self%20Study%20Training) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/live-training/)
+$395 (was $595) Save 34%
+[Buy now](https://1examprep.com/cart/46267558920249:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/live-training/)
 
 Complete Book Package
 [Idaho HVAC Specialty Journeyman Exam Book Package](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/book-package/)
 
 Every reference book the exam is written to, new and unmarked.
 
-$145
-[Buy now](https://1examprep.com/search?type=product&q=Idaho%20HVAC%20Specialty%20Journeyman%20Exam%20Book%20Package) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/book-package/)
+$145 (was $245) Save 41%
+[Buy now](https://1examprep.com/cart/45878115500089:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/book-package/)
 
 Highlighted and Tabbed Books
 [Idaho HVAC Specialty Journeyman Highlighted & Tabbed Book Package](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/highlighted-tabbed/)
 
 The reference books already highlighted and tabbed.
 
-$245
-[Buy now](https://1examprep.com/search?type=product&q=Idaho%20HVAC%20Specialty%20Journeyman%20Highlighted%20%26%20Tabbed%20Book%20Package) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/highlighted-tabbed/)
+$245 (was $445) Save 45%
+[Buy now](https://1examprep.com/cart/45885277831225:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/highlighted-tabbed/)
 
 Books and Courses Rental
 [Idaho HVAC Specialty Journeyman - Books & Courses Rental Package](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/rental-package/)
 
 The reference books on rental plus the online course, returned after your exam.
 
-$540
-[Buy now](https://1examprep.com/search?type=product&q=Idaho%20HVAC%20Specialty%20Journeyman%20-%20Books%20%26%20Courses%20Rental%20Package) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/rental-package/)
+$540 (was $840) Save 36%  to $640
+[Buy now](https://1examprep.com/cart/46267831058489:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/rental-package/)
 
 Ultimate Exam Prep Package
 [Idaho HVAC Specialty Journeyman Ultimate Exam Prep Rental](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/ultimate-rental/)
 
 Highlighted and tabbed rental books, a year of course access and help with the application.
 
-$965
-[Buy now](https://1examprep.com/search?type=product&q=Idaho%20HVAC%20Specialty%20Journeyman%20Ultimate%20Exam%20Prep%20Rental) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/ultimate-rental/)
+$965 (was $1,365) Save 29%
+[Buy now](https://1examprep.com/cart/46061163151417:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/ultimate-rental/)
 
 ## How do the HVAC Specialty Journeyman options compare?
 
@@ -163,20 +163,19 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 - [HVAC Journeyman](https://passyourhvacexam.com/idaho-hvac-journeyman/)
 - [HVAC Contractor](https://passyourhvacexam.com/idaho-hvac-contractor/)
-- [Limited Electrical: Refrigeration, Heating and A/C Installer](https://passyourhvacexam.com/idaho-limited-electrical-refrigeration-heating-ac-installer/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
 
 ### Also on this site
 

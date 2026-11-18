@@ -52,56 +52,56 @@ Online Practice Questions
 
 Online practice questions with explanations.
 
-$79.99
-[Buy now](https://1examprep.com/search?type=product&q=Wyoming%20ICC%20Limited%20HVAC%20Technician%20-%20600-WY%20-%20Online%20Practice%20Questions) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/online-practice-exams/)
+$79.99 (was $120) Save 33%
+[Buy now](https://1examprep.com/cart/50797741768761:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/online-practice-exams/)
 
 Online Exam Prep Course
 [Wyoming Limited HVAC Technician (ICC - 600_WY) - Online Exam Prep](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/online-course/)
 
 A self-study online course built around the exam.
 
-$295
-[Buy now](https://1examprep.com/search?type=product&q=Wyoming%20Limited%20HVAC%20Technician%20%28ICC%20-%20600_WY%29%20-%20Online%20Exam%20Prep) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/online-course/)
+$295 (was $395) Save 25%  to $495
+[Buy now](https://1examprep.com/cart/50677851127865:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/online-course/)
 
 Live Virtual Training
 [Wyoming Limited HVAC Technician (ICC - 600_WY) Exam Prep - Live Virtual + Self Study Training](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/live-training/)
 
 Live virtual classes with an instructor plus the self-study course.
 
-$495
-[Buy now](https://1examprep.com/search?type=product&q=Wyoming%20Limited%20HVAC%20Technician%20%28ICC%20-%20600_WY%29%20Exam%20Prep%20-%20Live%20Virtual%20%2B%20Self%20Study%20Training) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/live-training/)
+$495 (was $695) Save 29%
+[Buy now](https://1examprep.com/cart/46267533197369:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/live-training/)
 
 Complete Book Package
 [Wyoming Limited HVAC Technician (ICC - 600_WY) Exam Book Package](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/book-package/)
 
 Every reference book the exam is written to, new and unmarked.
 
-$225
-[Buy now](https://1examprep.com/search?type=product&q=Wyoming%20Limited%20HVAC%20Technician%20%28ICC%20-%20600_WY%29%20Exam%20Book%20Package) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/book-package/)
+$225 (was $325) Save 31%
+[Buy now](https://1examprep.com/cart/45929828843577:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/book-package/)
 
 Highlighted and Tabbed Books
 [Wyoming Limited HVAC Technician (ICC - 600_WY) Highlighted & Tabbed Book Package](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/highlighted-tabbed/)
 
 The reference books already highlighted and tabbed.
 
-$425
-[Buy now](https://1examprep.com/search?type=product&q=Wyoming%20Limited%20HVAC%20Technician%20%28ICC%20-%20600_WY%29%20Highlighted%20%26%20Tabbed%20Book%20Package) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/highlighted-tabbed/)
+$425 (was $625) Save 32%
+[Buy now](https://1examprep.com/cart/45930130800697:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/highlighted-tabbed/)
 
 Books and Courses Rental
 [Wyoming Limited HVAC Technician (ICC - 600_WY) - Books & Courses Rental Package](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/rental-package/)
 
 The reference books on rental plus the online course, returned after your exam.
 
-$720
-[Buy now](https://1examprep.com/search?type=product&q=Wyoming%20Limited%20HVAC%20Technician%20%28ICC%20-%20600_WY%29%20-%20Books%20%26%20Courses%20Rental%20Package) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/rental-package/)
+$720 (was $1,020) Save 29%  to $920
+[Buy now](https://1examprep.com/cart/50677886943289:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/rental-package/)
 
 Ultimate Exam Prep Package
 [Wyoming Limited HVAC Technician (ICC - 600_WY) Ultimate Exam Prep Rental Package](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/ultimate-rental/)
 
 Highlighted and tabbed rental books, a year of course access and help with the application.
 
-$1,145
-[Buy now](https://1examprep.com/search?type=product&q=Wyoming%20Limited%20HVAC%20Technician%20%28ICC%20-%20600_WY%29%20Ultimate%20Exam%20Prep%20Rental%20Package) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/ultimate-rental/)
+$1,145 (was $1,545) Save 26%
+[Buy now](https://1examprep.com/cart/45930457858105:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/ultimate-rental/)
 
 ## How do the Limited HVAC Technician (ICC 600) options compare?
 
@@ -165,16 +165,16 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
 
 ### Also on this site
 

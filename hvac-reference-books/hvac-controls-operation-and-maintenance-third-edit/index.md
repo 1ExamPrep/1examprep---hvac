@@ -12,9 +12,9 @@ HVAC Reference Books · Reference Book
 
 # HVAC Controls: Operation and Maintenance, Third Edition, Guy W. Gupton, 2001
 
-The HVAC Controls: Operation and Maintenance, Third Edition, Guy W. Gupton, 2001 is a reference book used on HVAC licensing exams for the HVAC Reference Books exam (any state), at $75. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep.
+The HVAC Controls: Operation and Maintenance, Third Edition, Guy W. Gupton, 2001 is a reference book used on HVAC licensing exams for the HVAC Reference Books exam (any state), at $75, 10% off the $83.35 list price. Books ship from our fulfillment center, 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$75 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=HVAC%20Controls%3A%20Operation%20and%20Maintenance%2C%20Third%20Edition%2C%20Guy%20W.%20Gupton%2C%202001)
+$75 (was $83.35) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/32604025293:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep
@@ -22,7 +22,7 @@ $75 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=HVAC%2
 
 ## Key takeaways
 
-- Reference Book: $75.
+- Reference Book: $75, down from $83.35.
 - For the HVAC Reference Books exam; a reference book used on HVAC licensing exams.
 - These reference books sit beside the state exam prep and show up on many HVAC exam reference lists.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
@@ -39,7 +39,13 @@ The Reference Book costs $75 and is written for the HVAC Reference Books exam. B
 
 ## About this HVAC Reference Books package
 
-HVAC Controls: Operation and Maintenance, Third Edition, Guy W. Gupton, 2001 is a reference book used on HVAC licensing exams for the HVAC Reference Books exam. Your state board licenses this work, and the candidate bulletin for your exam lists the references and editions allowed. Book packages ship free from Pass Your HVAC Exam by USPS Media Mail; online courses and practice questions arrive by email after purchase. Rental, Ultimate and 1 Package prices include a refundable book deposit, and those orders take up to 15 business days to prepare. Licensing exam questions are confidential, so the courses and practice questions are original material written to the same subjects. Buying study material does not register you for the exam; the board approves your application first.
+### HVAC Controls: Operation and Maintenance, 3rd Edition
+
+The “HVAC Controls: Operation and Maintenance, 3rd Edition” by Guy W. Gupton is a comprehensive handbook covering the operation, maintenance, and upgrading of HVAC control systems including pneumatic, hybrid pneumatic/direct-digital, and full digital control systems. It includes chapters on equipment-to-control interactions, controller mathematics, system set-up, troubleshooting, performance prediction, and a short course in psychrometrics. The edition is widely used as a reference for building-automation and HVAC-maintenance personnel.
+
+**HVAC Controls: Operation and Maintenance, Third Edition**, Guy W. Gupton, 2001. Now in it's newly updated third edition, this handbook was written to serve as a complete and concise reference for those engaged in the operation and maintenance of automatic control systems serving building heating, ventilating and air conditioning systems. The full range of topics pertinent to the effective operation of all types of HVAC control systems currently in use today are explored, including equipment-to-control interactions, control system set-up and functions, local loop to building automation system interfaces, performance prediction and assessment, operational parameters, and maintenance and testing. The third edition includes a new chapter covering the installations and procedures required to update an existing pneumatic control system to a hybrid pneumatic and direct digital system by adding DDC signal sending and control algorithms to existing pneumatic actuators on damper and valves.
+
+Newly revised, this edition has been updated with a new chapter which discusses the installations and procedures required to update an existing pneumatic control system to a hybrid pneumatic and direct digital (DDC) system by adding DDC signal sensing and control algorithms to existing pneumatic actuators on dampers and valves. Aimed at those responsible for operating and maintaining pneumatic control systems, this book is a hands-on guide which fully addresses the latest developments in O&M- related controls technology, from equipment characteristics and operating, to troubleshooting and maintenance, to training of operating and maintenance personnel. The full range of topics pertinent to the effective operation of all types of HVAC controls systems currently in use today is explored. The book provides information on energy saving technology in HVAC plus the latest operation and maintenance criteria. HVAC equipment-to-control interactions, operating and maintaining HVAC control systems, mathematics of control systems, performance predictions, HVAC control system set-up, maintaining electric and electronic control systems, maintaining pneumatic control systems and local loop to BAS interfaces, checkout procedures, fine tuning for pneumatic control systems, operating ATC systems, training, operating and testing DDC systems, psychometrics, and installing hybrid pneumatic and DDC systems.
 
 ## How does the HVAC Reference Books exam work?
 
@@ -50,7 +56,7 @@ The HVAC Reference Books license comes from the board for the license you are te
 
 ## Other HVAC Reference Books options
 
-[**Reference Book** Modern Refrigeration and Air Conditioning, 21st Edition; Pre… $19.95](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-21st-edi/) · [**Reference Book** Modern Refrigeration and Air Conditioning, 22nd Edition; Pre… $19.95](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-22nd-edi-2/) · [**Reference Book** Solar Water and Pool Heating Manual (FSEC-IN-24); 2006 $29.99](https://passyourhvacexam.com/hvac-reference-books/solar-water-and-pool-heating-manual-fsec-in-24-200/) · [**Reference Book** Refrigeration and Air Conditioning Technology 10th Edition; … $34.99](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-10th/) · [**Reference Book** Refrigeration and Air Conditioning Technology 9th Edition; P… $34.99](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-9th/) · [**Reference Book** Trane Air Conditioning Manual, 6th Edition $99.99](https://passyourhvacexam.com/hvac-reference-books/trane-air-conditioning-manual-6th-edition/) · [**Reference Book** Trane Reciprocating Refrigeration Manual, 67th Printing, Rev… $99.99](https://passyourhvacexam.com/hvac-reference-books/trane-reciprocating-refrigeration-manual-67th-prin/) · [**Reference Book** HVAC Basics for Contractors, 3rd Edition $130](https://passyourhvacexam.com/hvac-reference-books/hvac-basics-for-contractors-3rd-edition/) [Compare every HVAC Reference Books package →](https://passyourhvacexam.com/hvac-reference-books/) [Choose a different license →](https://passyourhvacexam.com/)
+[**Reference Book** HVAC Basics for Contractors, 3rd Edition $130](https://passyourhvacexam.com/hvac-reference-books/hvac-basics-for-contractors-3rd-edition/) · [**Reference Book** Washington Appliance Repair Administrator 07D Book Package $295](https://passyourhvacexam.com/hvac-reference-books/washington-appliance-repair-administrator-07d-book/) · [**Reference Book** Washington Equipment Repair Administrator 07E Book Package $295](https://passyourhvacexam.com/hvac-reference-books/washington-equipment-repair-administrator-07e-book/) [Compare every HVAC Reference Books package →](https://passyourhvacexam.com/hvac-reference-books/) [Choose a different license →](https://passyourhvacexam.com/)
 
 ### More HVAC reference books licenses
 [All HVAC reference books licenses](https://passyourhvacexam.com/hvac-reference-books/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)

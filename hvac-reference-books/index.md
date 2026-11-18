@@ -3,14 +3,14 @@ title: HVAC Reference Books Exam Prep
 url: https://passyourhvacexam.com/hvac-reference-books/
 updated: 2026-11-18
 site: Pass Your HVAC Exam
-description: HVAC Reference Books exam prep for HVAC reference books: 16 options from $19.95 to $299.99, including reference book. One-click checkout.
+description: HVAC Reference Books exam prep for HVAC reference books: 4 options from $75 to $295, including reference book. One-click checkout.
 ---
 
 [All states](https://passyourhvacexam.com/) /[HVAC reference books](https://passyourhvacexam.com/hvac-reference-books/) /HVAC Reference Books
 
 # HVAC Reference Books exam prep
 
-HVAC reference books that appear on many state exam reference lists. Here are 16 packages, from $19.95 to $299.99, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
+HVAC reference books that appear on many state exam reference lists. Here are 4 packages, from $75 to $295, each with one-click checkout. Compare what each one includes, see how the exam works and find the answers to the questions people ask most.
 See the packages
 PackagesCompareHow the exam worksFAQSources
 
@@ -18,11 +18,11 @@ Quick facts
 
 Price range
 
-$19.95 to $299.99
+$75 to $295
 
 Options
 
-16
+4
 
 Licensed by
 
@@ -36,170 +36,58 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 
 ## Key takeaways
 
-- 16 options for the HVAC Reference Books exam, from $19.95 to $299.99.
+- 4 options for the HVAC Reference Books exam, from $75 to $295.
 - These reference books sit beside the state exam prep and show up on many HVAC exam reference lists.
 - Check the candidate bulletin for your exam to see which editions it allows.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
 Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
-## HVAC Reference Books options: other options, part 1
+## 4 HVAC Reference Books packages
 
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
-
-Reference Book
-[Modern Refrigeration and Air Conditioning, 21st Edition; Pre-Printed Tabs](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-21st-edi/)
-
-A reference book used on hvac licensing exams.
-
-$19.95
-[Buy now](https://1examprep.com/search?type=product&q=Modern%20Refrigeration%20and%20Air%20Conditioning%2C%2021st%20Edition%3B%20Pre-Printed%20Tabs) · [Details](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-21st-edi/)
-
-Reference Book
-[Modern Refrigeration and Air Conditioning, 22nd Edition; Pre-Printed Tabs](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-22nd-edi-2/)
-
-A reference book used on hvac licensing exams.
-
-$19.95
-[Buy now](https://1examprep.com/search?type=product&q=Modern%20Refrigeration%20and%20Air%20Conditioning%2C%2022nd%20Edition%3B%20Pre-Printed%20Tabs) · [Details](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-22nd-edi-2/)
-
-Reference Book
-[Solar Water and Pool Heating Manual (FSEC-IN-24); 2006](https://passyourhvacexam.com/hvac-reference-books/solar-water-and-pool-heating-manual-fsec-in-24-200/)
-
-A reference book used on hvac licensing exams.
-
-$29.99
-[Buy now](https://1examprep.com/search?type=product&q=Solar%20Water%20and%20Pool%20Heating%20Manual%20%28FSEC-IN-24%29%3B%202006) · [Details](https://passyourhvacexam.com/hvac-reference-books/solar-water-and-pool-heating-manual-fsec-in-24-200/)
-
-Reference Book
-[Refrigeration and Air Conditioning Technology 10th Edition; Pre-Printed Tabs](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-10th/)
-
-A reference book used on hvac licensing exams.
-
-$34.99
-[Buy now](https://1examprep.com/search?type=product&q=Refrigeration%20and%20Air%20Conditioning%20Technology%2010th%20Edition%3B%20Pre-Printed%20Tabs) · [Details](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-10th/)
-
-Reference Book
-[Refrigeration and Air Conditioning Technology 9th Edition; Pre-Printed Tabs](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-9th/)
-
-A reference book used on hvac licensing exams.
-
-$34.99
-[Buy now](https://1examprep.com/search?type=product&q=Refrigeration%20and%20Air%20Conditioning%20Technology%209th%20Edition%3B%20Pre-Printed%20Tabs) · [Details](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-9th/)
 
 Reference Book
 [HVAC Controls: Operation and Maintenance, Third Edition, Guy W. Gupton, 2001](https://passyourhvacexam.com/hvac-reference-books/hvac-controls-operation-and-maintenance-third-edit/)
 
 A reference book used on hvac licensing exams.
 
-$75
-[Buy now](https://1examprep.com/search?type=product&q=HVAC%20Controls%3A%20Operation%20and%20Maintenance%2C%20Third%20Edition%2C%20Guy%20W.%20Gupton%2C%202001) · [Details](https://passyourhvacexam.com/hvac-reference-books/hvac-controls-operation-and-maintenance-third-edit/)
-
-Reference Book
-[Trane Air Conditioning Manual, 6th Edition](https://passyourhvacexam.com/hvac-reference-books/trane-air-conditioning-manual-6th-edition/)
-
-A reference book used on hvac licensing exams.
-
-$99.99
-[Buy now](https://1examprep.com/search?type=product&q=Trane%20Air%20Conditioning%20Manual%2C%206th%20Edition) · [Details](https://passyourhvacexam.com/hvac-reference-books/trane-air-conditioning-manual-6th-edition/)
-
-Reference Book
-[Trane Reciprocating Refrigeration Manual, 67th Printing, Rev. March 1999](https://passyourhvacexam.com/hvac-reference-books/trane-reciprocating-refrigeration-manual-67th-prin/)
-
-A reference book used on hvac licensing exams.
-
-$99.99
-[Buy now](https://1examprep.com/search?type=product&q=Trane%20Reciprocating%20Refrigeration%20Manual%2C%2067th%20Printing%2C%20Rev.%20March%201999) · [Details](https://passyourhvacexam.com/hvac-reference-books/trane-reciprocating-refrigeration-manual-67th-prin/)
+$75 (was $83.35) Save 10%
+[Buy now](https://1examprep.com/cart/32604025293:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/hvac-reference-books/hvac-controls-operation-and-maintenance-third-edit/)
 
 Reference Book
 [HVAC Basics for Contractors, 3rd Edition](https://passyourhvacexam.com/hvac-reference-books/hvac-basics-for-contractors-3rd-edition/)
 
 A reference book used on hvac licensing exams.
 
-$130
-[Buy now](https://1examprep.com/search?type=product&q=HVAC%20Basics%20for%20Contractors%2C%203rd%20Edition) · [Details](https://passyourhvacexam.com/hvac-reference-books/hvac-basics-for-contractors-3rd-edition/)
+$130 (was $144.50) Save 10%
+[Buy now](https://1examprep.com/cart/19713011712057:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/hvac-reference-books/hvac-basics-for-contractors-3rd-edition/)
 
 Reference Book
-[NFPA 90A Installation of Air Conditioning and Ventilating Systems, 2018](https://passyourhvacexam.com/hvac-reference-books/nfpa-90a-installation-of-air-conditioning-and-vent/)
+[Washington Appliance Repair Administrator 07D Book Package](https://passyourhvacexam.com/hvac-reference-books/washington-appliance-repair-administrator-07d-book/)
 
 A reference book used on hvac licensing exams.
 
-$149.99
-[Buy now](https://1examprep.com/search?type=product&q=NFPA%2090A%20Installation%20of%20Air%20Conditioning%20and%20Ventilating%20Systems%2C%202018) · [Details](https://passyourhvacexam.com/hvac-reference-books/nfpa-90a-installation-of-air-conditioning-and-vent/)
-
-## HVAC Reference Books options: other options, part 1
-
-6 products of the 16 HVAC Reference Books options, from $149.99.
+$295 (was $395) Save 25%
+[Buy now](https://1examprep.com/cart/46541663010873:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/hvac-reference-books/washington-appliance-repair-administrator-07d-book/)
 
 Reference Book
-[NFPA 90B Installation of Warm Air Heating and Air Conditioning Systems, 2021](https://passyourhvacexam.com/hvac-reference-books/nfpa-90b-installation-of-warm-air-heating-and-air/)
+[Washington Equipment Repair Administrator 07E Book Package](https://passyourhvacexam.com/hvac-reference-books/washington-equipment-repair-administrator-07e-book/)
 
 A reference book used on hvac licensing exams.
 
-$149.99
-[Buy now](https://1examprep.com/search?type=product&q=NFPA%2090B%20Installation%20of%20Warm%20Air%20Heating%20and%20Air%20Conditioning%20Systems%2C%202021) · [Details](https://passyourhvacexam.com/hvac-reference-books/nfpa-90b-installation-of-warm-air-heating-and-air/)
-
-Reference Book
-[NFPA 90B Installation of Warm Air Heating and Air Conditioning Systems, 2024](https://passyourhvacexam.com/hvac-reference-books/nfpa-90b-installation-of-warm-air-heating-and-air-2/)
-
-A reference book used on hvac licensing exams.
-
-$149.99
-[Buy now](https://1examprep.com/search?type=product&q=NFPA%2090B%20Installation%20of%20Warm%20Air%20Heating%20and%20Air%20Conditioning%20Systems%2C%202024) · [Details](https://passyourhvacexam.com/hvac-reference-books/nfpa-90b-installation-of-warm-air-heating-and-air-2/)
-
-Reference Book
-[Modern Hydronic Heating for Residential and Light Commercial Buildings, 3rd ed](https://passyourhvacexam.com/hvac-reference-books/modern-hydronic-heating-for-residential-and-light/)
-
-A reference book used on hvac licensing exams.
-
-$179.99
-[Buy now](https://1examprep.com/search?type=product&q=Modern%20Hydronic%20Heating%20for%20Residential%20and%20Light%20Commercial%20Buildings%2C%203rd%20ed) · [Details](https://passyourhvacexam.com/hvac-reference-books/modern-hydronic-heating-for-residential-and-light/)
-
-Reference Book
-[Air Conditioning and Refrigeration Troubleshooting Handbook, 2nd Edition](https://passyourhvacexam.com/hvac-reference-books/air-conditioning-and-refrigeration-troubleshooting/)
-
-A reference book used on hvac licensing exams.
-
-$269.99
-[Buy now](https://1examprep.com/search?type=product&q=Air%20Conditioning%20and%20Refrigeration%20Troubleshooting%20Handbook%2C%202nd%20Edition) · [Details](https://passyourhvacexam.com/hvac-reference-books/air-conditioning-and-refrigeration-troubleshooting/)
-
-Reference Book
-[Modern Refrigeration and Air Conditioning, 22nd Edition](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-22nd-edi/)
-
-A reference book used on hvac licensing exams.
-
-$299
-[Buy now](https://1examprep.com/search?type=product&q=Modern%20Refrigeration%20and%20Air%20Conditioning%2C%2022nd%20Edition) · [Details](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-22nd-edi/)
-
-Reference Book
-[Refrigeration and Air Conditioning Technology, 10th Edition](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-10th-2/)
-
-A reference book used on hvac licensing exams.
-
-$299.99
-[Buy now](https://1examprep.com/search?type=product&q=Refrigeration%20and%20Air%20Conditioning%20Technology%2C%2010th%20Edition) · [Details](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-10th-2/)
+$295 (was $395) Save 25%
+[Buy now](https://1examprep.com/cart/46541705281593:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/hvac-reference-books/washington-equipment-repair-administrator-07e-book/)
 
 ## How do the HVAC Reference Books options compare?
 
 Prices are the starting price for each option; some offer add-ons at checkout.
 
-Option | Price
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-21st-edi/) | $19.95
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-22nd-edi-2/) | $19.95
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/solar-water-and-pool-heating-manual-fsec-in-24-200/) | $29.99
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-10th/) | $34.99
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-9th/) | $34.99
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/hvac-controls-operation-and-maintenance-third-edit/) | $75
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/trane-air-conditioning-manual-6th-edition/) | $99.99
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/trane-reciprocating-refrigeration-manual-67th-prin/) | $99.99
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/hvac-basics-for-contractors-3rd-edition/) | $130
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/nfpa-90a-installation-of-air-conditioning-and-vent/) | $149.99
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/nfpa-90b-installation-of-warm-air-heating-and-air/) | $149.99
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/nfpa-90b-installation-of-warm-air-heating-and-air-2/) | $149.99
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/modern-hydronic-heating-for-residential-and-light/) | $179.99
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/air-conditioning-and-refrigeration-troubleshooting/) | $269.99
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-22nd-edi/) | $299
-[Reference Book](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-10th-2/) | $299.99
+Option | What you get | Price
+[Reference Book](https://passyourhvacexam.com/hvac-reference-books/hvac-controls-operation-and-maintenance-third-edit/) | a reference book used on HVAC licensing exams | $75
+[Reference Book](https://passyourhvacexam.com/hvac-reference-books/hvac-basics-for-contractors-3rd-edition/) | a reference book used on HVAC licensing exams | $130
+[Reference Book](https://passyourhvacexam.com/hvac-reference-books/washington-appliance-repair-administrator-07d-book/) | a reference book used on HVAC licensing exams | $295
+[Reference Book](https://passyourhvacexam.com/hvac-reference-books/washington-equipment-repair-administrator-07e-book/) | a reference book used on HVAC licensing exams | $295
 
 ## How does the HVAC Reference Books exam work?
 
@@ -210,13 +98,13 @@ The HVAC Reference Books license comes from the board for the license you are te
 
 ### Which HVAC Reference Books option should I choose?
 
-The Reference Book at $19.95 is the lightest way into the HVAC Reference Books exam: a reference book used on HVAC licensing exams. The Reference Book at $299.99 is the most complete option: a reference book used on HVAC licensing exams. Candidates who fail usually run out of time rather than knowledge, so pick the option that gets you fastest through the references, and call (877) 775-9400 if you are unsure.
+The Reference Book at $75 is the lightest way into the HVAC Reference Books exam: a reference book used on HVAC licensing exams. The Reference Book at $295 is the most complete option: a reference book used on HVAC licensing exams. Candidates who fail usually run out of time rather than knowledge, so pick the option that gets you fastest through the references, and call (877) 775-9400 if you are unsure.
 
 ## HVAC Reference Books exam questions
 
 ### How much does HVAC Reference Books exam prep cost?
 
-HVAC Reference Books exam prep runs from $19.95 to $299.99 across 16 options: Reference Book $19.95; Reference Book $19.95; Reference Book $29.99; Reference Book $34.99; Reference Book $34.99; Reference Book $75; and 10 more.
+HVAC Reference Books exam prep runs from $75 to $295 across 4 options: Reference Book $75; Reference Book $130; Reference Book $295; Reference Book $295.
 
 ### Is the HVAC Reference Books exam open book?
 
@@ -250,16 +138,16 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
 
 ### Also on this site
 

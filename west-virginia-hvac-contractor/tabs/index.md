@@ -12,9 +12,9 @@ HVAC Contractor · Pre-Printed Tabs
 
 # West Virginia HVAC Contractor Exam; Pre-Printed Tabs (Prov)
 
-The West Virginia HVAC Contractor Exam; Pre-Printed Tabs (Prov) is pre-printed tabs for the reference books for the HVAC Contractor exam (West Virginia), at $29.99. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
+The West Virginia HVAC Contractor Exam; Pre-Printed Tabs (Prov) is pre-printed tabs for the reference books for the HVAC Contractor exam (West Virginia), at $29.99, 10% off the $33.36 list price. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$29.99 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=West%20Virginia%20HVAC%20Contractor%20Exam%3B%20Pre-Printed%20Tabs%20%28Prov%29)
+$29.99 (was $33.36) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/44154929971257:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep
@@ -22,7 +22,7 @@ $29.99 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Wes
 
 ## Key takeaways
 
-- Pre-Printed Tabs: $29.99.
+- Pre-Printed Tabs: $29.99, down from $33.36.
 - For the HVAC Contractor exam; pre-printed tabs for the reference books.
 - West Virginia requires an HVAC technician certification from the Division of Labor for HVAC work.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
@@ -39,7 +39,19 @@ The Pre-Printed Tabs costs $29.99 and is written for the HVAC Contractor exam. B
 
 ## About this HVAC Contractor package
 
-West Virginia HVAC Contractor Exam; Pre-Printed Tabs (Prov) is pre-printed tabs for the reference books for the West Virginia HVAC Contractor exam. The West Virginia Contractor Licensing Board and Division of Labor licenses this work, and the candidate bulletin for your exam lists the references and editions allowed. Book packages ship free from Pass Your HVAC Exam by USPS Media Mail; online courses and practice questions arrive by email after purchase. Rental, Ultimate and 1 Package prices include a refundable book deposit, and those orders take up to 15 business days to prepare. Licensing exam questions are confidential, so the courses and practice questions are original material written to the same subjects. Buying study material does not register you for the exam; the board approves your application first.
+The West Virginia HVAC Contractor Exam; Pre-Printed Tabs (Prov) from Pass Your HVAC Exam provides a complete set of durable, pre-labeled index tabs customized for the reference materials used in the West Virginia HVAC Contractor examination administered by Prov. These tabs identify critical sections on heating and cooling system design, ductwork, fuel gas code, load calculations, and safety standards. They allow exam candidates to quickly locate information during open-book testing, ensuring efficient navigation of trade references required for licensure under the West Virginia Division of Labor HVAC contractor regulations.
+
+Our permanent quick reference tabs will help you navigate quickly through the books during your exam. These tabs are self-adhesive and must be added at least one-day prior for sufficient adhesive power.
+
+**Includes pre-printed tabs for the following books used for the West Virginia HVAC Contractor Exam with Prov:**
+
+- HVAC Basics for Contractors, 3rd Edition
+- International Mechanical Code 2021
+- SMACNA-Residential Comfort System Installation Standards Manual
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
+
+All products and company names are trademarks™ or registered® trademarks and/or copyrights of their respective holders. Use of them does not imply any affiliation with or endorsement by the respective holders.
 
 ## How does the HVAC Contractor exam work?
 

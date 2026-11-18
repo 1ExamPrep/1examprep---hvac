@@ -16,7 +16,7 @@ This blog has study plans, state licensing rules and exam strategy for HVAC, ref
 
 - 0 posts so far, written for HVAC, refrigeration and heating license candidates.
 - Topics cover study strategy, using the references and state HVAC licensing rules.
-- Exam prep for 140 HVAC licenses in 35 states and DC, with every rule linked to the board that sets it.
+- Exam prep for 49 HVAC licenses in 35 states and DC, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
 Updated November 18, 2026 · prices checked against the 1 Exam Prep store

@@ -12,9 +12,9 @@ HVAC Reference Books · Reference Book
 
 # HVAC Basics for Contractors, 3rd Edition
 
-The HVAC Basics for Contractors, 3rd Edition is a reference book used on HVAC licensing exams for the HVAC Reference Books exam (any state), at $130. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
+The HVAC Basics for Contractors, 3rd Edition is a reference book used on HVAC licensing exams for the HVAC Reference Books exam (any state), at $130, 10% off the $144.50 list price. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$130 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=HVAC%20Basics%20for%20Contractors%2C%203rd%20Edition)
+$130 (was $144.50) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/19713011712057:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep
@@ -22,7 +22,7 @@ $130 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=HVAC%
 
 ## Key takeaways
 
-- Reference Book: $130.
+- Reference Book: $130, down from $144.50.
 - For the HVAC Reference Books exam; a reference book used on HVAC licensing exams.
 - These reference books sit beside the state exam prep and show up on many HVAC exam reference lists.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
@@ -39,7 +39,9 @@ The Reference Book costs $130 and is written for the HVAC Reference Books exam. 
 
 ## About this HVAC Reference Books package
 
-HVAC Basics for Contractors, 3rd Edition is a reference book used on HVAC licensing exams for the HVAC Reference Books exam. Your state board licenses this work, and the candidate bulletin for your exam lists the references and editions allowed. Book packages ship free from Pass Your HVAC Exam by USPS Media Mail; online courses and practice questions arrive by email after purchase. Rental, Ultimate and 1 Package prices include a refundable book deposit, and those orders take up to 15 business days to prepare. Licensing exam questions are confidential, so the courses and practice questions are original material written to the same subjects. Buying study material does not register you for the exam; the board approves your application first.
+The *HVAC Basics for Contractors, 3rd Edition* offered by Pass Your HVAC Exam provides a foundational understanding of heating, ventilation, and air conditioning principles essential for contractor licensing and certification exams. This edition explains key concepts in thermodynamics, refrigeration cycles, air distribution, duct design, and load calculation in accordance with current International Mechanical Code (IMC) and ASHRAE standards. Frequently referenced in trade and mechanical licensing exams, it supports preparation for both residential and commercial HVAC applications. The text aligns with PSI and NASCLA exam frameworks and is used as a supplemental study guide for mechanical contractor and technician training programs nationwide.
+
+ 978-1-323-72514-6
 
 ## How does the HVAC Reference Books exam work?
 
@@ -50,7 +52,7 @@ The HVAC Reference Books license comes from the board for the license you are te
 
 ## Other HVAC Reference Books options
 
-[**Reference Book** Modern Refrigeration and Air Conditioning, 21st Edition; Pre… $19.95](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-21st-edi/) · [**Reference Book** Modern Refrigeration and Air Conditioning, 22nd Edition; Pre… $19.95](https://passyourhvacexam.com/hvac-reference-books/modern-refrigeration-and-air-conditioning-22nd-edi-2/) · [**Reference Book** Solar Water and Pool Heating Manual (FSEC-IN-24); 2006 $29.99](https://passyourhvacexam.com/hvac-reference-books/solar-water-and-pool-heating-manual-fsec-in-24-200/) · [**Reference Book** Refrigeration and Air Conditioning Technology 10th Edition; … $34.99](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-10th/) · [**Reference Book** Refrigeration and Air Conditioning Technology 9th Edition; P… $34.99](https://passyourhvacexam.com/hvac-reference-books/refrigeration-and-air-conditioning-technology-9th/) · [**Reference Book** HVAC Controls: Operation and Maintenance, Third Edition, Guy… $75](https://passyourhvacexam.com/hvac-reference-books/hvac-controls-operation-and-maintenance-third-edit/) · [**Reference Book** Trane Air Conditioning Manual, 6th Edition $99.99](https://passyourhvacexam.com/hvac-reference-books/trane-air-conditioning-manual-6th-edition/) · [**Reference Book** Trane Reciprocating Refrigeration Manual, 67th Printing, Rev… $99.99](https://passyourhvacexam.com/hvac-reference-books/trane-reciprocating-refrigeration-manual-67th-prin/) [Compare every HVAC Reference Books package →](https://passyourhvacexam.com/hvac-reference-books/) [Choose a different license →](https://passyourhvacexam.com/)
+[**Reference Book** HVAC Controls: Operation and Maintenance, Third Edition, Guy… $75](https://passyourhvacexam.com/hvac-reference-books/hvac-controls-operation-and-maintenance-third-edit/) · [**Reference Book** Washington Appliance Repair Administrator 07D Book Package $295](https://passyourhvacexam.com/hvac-reference-books/washington-appliance-repair-administrator-07d-book/) · [**Reference Book** Washington Equipment Repair Administrator 07E Book Package $295](https://passyourhvacexam.com/hvac-reference-books/washington-equipment-repair-administrator-07e-book/) [Compare every HVAC Reference Books package →](https://passyourhvacexam.com/hvac-reference-books/) [Choose a different license →](https://passyourhvacexam.com/)
 
 ### More HVAC reference books licenses
 [All HVAC reference books licenses](https://passyourhvacexam.com/hvac-reference-books/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)

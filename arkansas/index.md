@@ -3,14 +3,14 @@ title: Arkansas HVAC License Exam Prep
 url: https://passyourhvacexam.com/arkansas/
 updated: 2026-11-18
 site: Pass Your HVAC Exam
-description: Arkansas HVAC license exam prep: 6 licenses and 46 packages from $79.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
+description: Arkansas HVAC license exam prep: 5 licenses and 40 packages from $79.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
 
 [All states](https://passyourhvacexam.com/) /Arkansas
 
 # Arkansas HVAC license exam prep
 
-Arkansas HVAC licenses come from the Arkansas HVACR Licensing Board (Department of Labor and Licensing). We carry prep for 6 licenses in Arkansas, Class A HVACR Contractor, Class B HVACR Contractor and more, with 46 packages from $79.99 to $3,545. Pick your license below to compare books, courses and complete packages.
+Arkansas HVAC licenses come from the Arkansas HVACR Licensing Board (Department of Labor and Licensing). We carry prep for 5 licenses in Arkansas, Class A HVACR Contractor, Class B HVACR Contractor and more, with 40 packages from $79.99 to $3,545. Pick your license below to compare books, courses and complete packages.
 See the Arkansas licenses
 LicensesCompareHow licensing worksFAQSources
 
@@ -30,11 +30,11 @@ See the candidate bulletin
 
 Licenses here
 
-6
+5
 
 Packages
 
-46, from $79.99
+40, from $79.99
 
 [Official site](https://labor.arkansas.gov/labor/code-enforcement/hvac-r/)
 See the licenses
@@ -43,7 +43,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 ## Key takeaways
 
 - Arkansas HVACR licenses run from Class A to Class E; Class A has no limit on BTUH or horsepower.
-- 46 packages covering 6 licenses in Arkansas, from $79.99 to $3,545.
+- 40 packages covering 5 licenses in Arkansas, from $79.99 to $3,545.
 - Prov proctors the Arkansas HVACR exams, and the board must approve you before you can sit for one.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
@@ -51,14 +51,13 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Arkansas HVAC licenses do we cover?
 
-6 licenses and 46 packages. Pick one to compare every package for that exam.
+5 licenses and 40 packages. Pick one to compare every package for that exam.
 
 - [**Class A HVACR Contractor** 8 options from $79.99](https://passyourhvacexam.com/arkansas-class-a-hvacr-contractor/)
 - [**Class B HVACR Contractor** 8 options from $79.99](https://passyourhvacexam.com/arkansas-class-b-hvacr-contractor/)
 - [**Class C HVACR Contractor** 8 options from $79.99](https://passyourhvacexam.com/arkansas-class-c-hvacr-contractor/)
 - [**Class D HVACR Contractor** 8 options from $79.99](https://passyourhvacexam.com/arkansas-class-d-hvacr-contractor/)
 - [**Class E HVACR Contractor** 8 options from $79.99](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/)
-- [**Electrical Heating and A/C Installation Contractor** 6 options from $165](https://passyourhvacexam.com/arkansas-electrical-heating-ac-installation/)
 
 ## How do the Arkansas licenses compare?
 
@@ -70,7 +69,6 @@ License | Options | From | Most complete
 [Class C HVACR Contractor](https://passyourhvacexam.com/arkansas-class-c-hvacr-contractor/) | 8 | $79.99 | The 1 Package, $3,345
 [Class D HVACR Contractor](https://passyourhvacexam.com/arkansas-class-d-hvacr-contractor/) | 8 | $79.99 | The 1 Package, $2,445
 [Class E HVACR Contractor](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/) | 8 | $79.99 | The 1 Package, $2,745
-[Electrical Heating and A/C Installation Contractor](https://passyourhvacexam.com/arkansas-electrical-heating-ac-installation/) | 6 | $165 | The 1 Package, $1,895
 
 ## How does HVAC licensing work in Arkansas?
 
@@ -96,11 +94,11 @@ Many HVAC trade exams are open book, but the rule depends on the exam. Your cand
 
 ### How much does Arkansas HVAC exam prep cost?
 
-Prep for the Arkansas licenses here runs from $79.99 to $3,545 across 46 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
+Prep for the Arkansas licenses here runs from $79.99 to $3,545 across 40 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
 
 ### Which Arkansas license should I study for?
 
-The one your approval or application names. 6 licenses are listed here: Class A HVACR Contractor; Class B HVACR Contractor; Class C HVACR Contractor; Class D HVACR Contractor; Class E HVACR Contractor; Electrical Heating and A/C Installation Contractor.
+The one your approval or application names. 5 licenses are listed here: Class A HVACR Contractor; Class B HVACR Contractor; Class C HVACR Contractor; Class D HVACR Contractor; Class E HVACR Contractor.
 
 ### Do I need EPA 608 certification as well?
 
@@ -123,22 +121,21 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [Class C HVACR Contractor](https://passyourhvacexam.com/arkansas-class-c-hvacr-contractor/)
 - [Class D HVACR Contractor](https://passyourhvacexam.com/arkansas-class-d-hvacr-contractor/)
 - [Class E HVACR Contractor](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/)
-- [Electrical Heating and A/C Installation Contractor](https://passyourhvacexam.com/arkansas-electrical-heating-ac-installation/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
-- [Hawaii](https://passyourhvacexam.com/hawaii/)
 - [Idaho](https://passyourhvacexam.com/idaho/)
 - [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
+- [Oklahoma](https://passyourhvacexam.com/oklahoma/)
+- [South Carolina](https://passyourhvacexam.com/south-carolina/)
 
 ### Also on this site
 

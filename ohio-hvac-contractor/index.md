@@ -52,8 +52,8 @@ Online Exam Prep Course
 
 A self-study online course built around the exam.
 
-$250
-[Buy now](https://1examprep.com/search?type=product&q=Ohio%20HVAC%20Contractor%20-%20Online%20Exam%20Prep%20Course) · [Details](https://passyourhvacexam.com/ohio-hvac-contractor/online-course/)
+$250 (was $279) Save 10%
+[Buy now](https://1examprep.com/cart/31786234118201:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/ohio-hvac-contractor/online-course/)
 
 ## How do the HVAC Contractor options compare?
 
@@ -107,20 +107,20 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Ohio
 
-- [Refrigeration Contractor (ICC)](https://passyourhvacexam.com/ohio-refrigeration-contractor-icc/)
+- [Every Ohio license](https://passyourhvacexam.com/ohio/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
 
 ### Also on this site
 

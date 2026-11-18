@@ -52,24 +52,24 @@ Complete Book Package
 
 Every reference book the exam is written to, new and unmarked.
 
-$1,445
-[Buy now](https://1examprep.com/search?type=product&q=Mississippi%20Residential%20HVAC%20Contractor%20Exam%20Book%20Package) · [Details](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/book-package/)
+$1,445 (was $1,545) Save 6%  to $1,895
+[Buy now](https://1examprep.com/cart/46277519671353:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/book-package/)
 
 Highlighted and Tabbed Books
 [Mississippi Residential HVAC Contractor Exam Complete Highlighted & Tabbed Book Package](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/highlighted-tabbed/)
 
 The reference books already highlighted and tabbed.
 
-$1,895
-[Buy now](https://1examprep.com/search?type=product&q=Mississippi%20Residential%20HVAC%20Contractor%20Exam%20Complete%20Highlighted%20%26%20Tabbed%20Book%20Package) · [Details](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/highlighted-tabbed/)
+$1,895 (was $2,095) Save 10%
+[Buy now](https://1examprep.com/cart/45440737017913:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/highlighted-tabbed/)
 
 Books and Application Accelerator
 [Mississippi Residential HVAC Contractor Exam Complete Books & Application Accelerator – Highlighted Edition](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/accelerator/)
 
 The book set plus help with the state license application.
 
-$2,345
-[Buy now](https://1examprep.com/search?type=product&q=Mississippi%20Residential%20HVAC%20Contractor%20Exam%20Complete%20Books%20%26%20Application%20Accelerator%20%E2%80%93%20Highlighted%20Edition) · [Details](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/accelerator/)
+$2,345 (was $2,795) Save 16%
+[Buy now](https://1examprep.com/cart/45440751992889:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/accelerator/)
 
 ## How do the Residential HVAC Contractor options compare?
 
@@ -125,22 +125,20 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Mississippi
 
-- [Ductwork for Heating, A/C and Ventilation Contractor](https://passyourhvacexam.com/mississippi-ductwork-heating-ac-ventilation/)
-- [Refrigeration Contractor](https://passyourhvacexam.com/mississippi-refrigeration-contractor/)
 - [HVAC Contractor](https://passyourhvacexam.com/mississippi-hvac-contractor/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
 
 ### Also on this site
 

@@ -52,8 +52,8 @@ Complete Book Package
 
 Every reference book the exam is written to, new and unmarked.
 
-$845
-[Buy now](https://1examprep.com/search?type=product&q=Kentucky%20Master%20HVAC%20Contractor%20Exam%20Book%20Package) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor/book-package/)
+$845 (was $945) Save 11%
+[Buy now](https://1examprep.com/cart/45937505042489:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/kentucky-master-hvac-contractor/book-package/)
 
 ## How do the Master HVAC Contractor (state exam) options compare?
 
@@ -113,16 +113,16 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
 
 ### Also on this site
 

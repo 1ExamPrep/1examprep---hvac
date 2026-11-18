@@ -52,8 +52,8 @@ Complete Book Package
 
 Every reference book the exam is written to, new and unmarked.
 
-$1,195
-[Buy now](https://1examprep.com/search?type=product&q=Missouri%20St.%20Louis%20County%20Commercial%20HVAC%20Servicer%20/%20Installer%20Contractor%20%28ICC%20-%20588_MO_SL%29%20Exam%20Book%20Package) · [Details](https://passyourhvacexam.com/missouri-st-louis-county-commercial-hvac-icc-588/book-package/)
+$1,195 (was $1,295) Save 8%
+[Buy now](https://1examprep.com/cart/45912190779449:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/missouri-st-louis-county-commercial-hvac-icc-588/book-package/)
 
 ## How do the St. Louis County Commercial HVAC Servicer/Installer (ICC 588) options compare?
 
@@ -107,21 +107,20 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Missouri
 
-- [Kansas City Refrigeration Operator (ICC 228)](https://passyourhvacexam.com/missouri-kansas-city-refrigeration-operator-icc-228/)
 - [St. Louis County Residential HVAC Servicer/Installer (ICC 589)](https://passyourhvacexam.com/missouri-st-louis-county-residential-hvac-icc-589/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
 
 ### Also on this site
 

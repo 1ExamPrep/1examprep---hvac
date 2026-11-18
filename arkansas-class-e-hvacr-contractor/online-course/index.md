@@ -12,9 +12,9 @@ Class E HVACR Contractor · Online Exam Prep Course
 
 # Arkansas Class E HVACR Contractor Exam - Online Exam Prep
 
-The Arkansas Class E HVACR Contractor Exam - Online Exam Prep is a self-study online course built around the exam for the Class E HVACR Contractor exam (Arkansas), at $295. Online access arrives by email after purchase. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
+The Arkansas Class E HVACR Contractor Exam - Online Exam Prep is a self-study online course built around the exam for the Class E HVACR Contractor exam (Arkansas), at $295, 25% off the $395 list price. Online access arrives by email after purchase. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$295 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Arkansas%20Class%20E%20HVACR%20Contractor%20Exam%20-%20Online%20Exam%20Prep)
+$295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45934597406777:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Online access arrives by email after purchase
@@ -22,7 +22,7 @@ $295 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Arkan
 
 ## Key takeaways
 
-- Online Exam Prep Course: $295.
+- Online Exam Prep Course: $295, down from $395.
 - For the Class E HVACR Contractor exam; a self-study online course built around the exam.
 - Arkansas HVACR licenses run from Class A to Class E; Class A has no limit on BTUH or horsepower.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
@@ -34,12 +34,192 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 - Online Exam Prep Course: a self-study online course built around the exam
 - Written for the Class E HVACR Contractor exam
 - Online access arrives by email after purchase
+- Options from $295 to $595, chosen above before checkout
 
-The Online Exam Prep Course costs $295 and is written for the Class E HVACR Contractor exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+The Online Exam Prep Course costs $295 to $595 with the options above and is written for the Class E HVACR Contractor exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
+**Options at checkout:** Online Self Study Course; Online Self Study + Live & Recorded Classes [+$300]. Pick one above and the price updates.
 
 ## About this Class E HVACR Contractor package
 
-Arkansas Class E HVACR Contractor Exam - Online Exam Prep is a self-study online course built around the exam for the Arkansas Class E HVACR Contractor exam. The Arkansas HVACR Licensing Board (Department of Labor and Licensing) licenses this work, and the candidate bulletin for your exam lists the references and editions allowed. Book packages ship free from Pass Your HVAC Exam by USPS Media Mail; online courses and practice questions arrive by email after purchase. Rental, Ultimate and 1 Package prices include a refundable book deposit, and those orders take up to 15 business days to prepare. Licensing exam questions are confidential, so the courses and practice questions are original material written to the same subjects. Buying study material does not register you for the exam; the board approves your application first.
+Prepare for the Arkansas Class E HVACR Contractor exam with an online exam-preparation course designed around organized technical review, open-book reference navigation, and practice-oriented study. This course is built for HVACR professionals who want a structured way to review Arkansas law, state regulations, mechanical systems, refrigeration principles, air-conditioning technology, installation practices, service procedures, diagnostics, and troubleshooting.
+
+The course is organized around five technical references: Arkansas HVAC/R Law, Arkansas HVAC/R Rules and Regulations, International Mechanical Code, 2021, Modern Refrigeration and Air Conditioning, 22nd Edition, and Refrigeration and Air Conditioning Technology, 10th Edition.
+
+Together, these references support preparation involving Arkansas HVACR licensing material, contractor responsibilities, regulated work, mechanical equipment, ventilation, exhaust systems, ductwork, combustion air, refrigeration systems, heating and cooling equipment, airflow, controls, installation, maintenance, service, diagnostics, and troubleshooting.
+
+Preparing for the Arkansas Class E HVACR Contractor exam requires more than practical field experience. An experienced technician or contractor may understand how to install equipment, evaluate system operation, diagnose refrigeration problems, service heating and cooling systems, and work with controls. The examination may present those familiar subjects through formal code language, technical definitions, diagrams, tables, published procedures, and reference-book terminology.
+
+The online course helps students connect practical HVACR knowledge with the organization and language used in the listed references. Instead of reading every book from beginning to end without a plan, students can divide preparation into manageable sections and build a consistent study routine.
+
+Reference navigation is an important part of open-book exam preparation. Candidates should understand what each book covers, how its chapters are organized, and which terms appear in the table of contents and index. The course supports a repeatable process for identifying the subject of a question, choosing the correct reference, locating the relevant section, and confirming the answer.
+
+The physical reference books are not listed as included with this online course. Students should obtain the correct editions separately so they can follow the lessons, complete reference-navigation exercises, and practice with the same materials used throughout their preparation.
+
+### Exam Details
+
+The Arkansas Class E HVACR Contractor exam requires preparation across state law, licensing regulations, mechanical systems, refrigeration principles, air-conditioning technology, installation practices, maintenance procedures, service methods, diagnostics, and troubleshooting subjects. Candidates should be prepared to connect practical experience with detailed information contained in multiple references.
+
+Arkansas HVAC/R Law supports preparation involving the legal framework associated with HVACR licensing and regulated work in Arkansas. Candidates should become familiar with the responsibilities, requirements, terminology, and statutory subjects addressed in the reference.
+
+Arkansas HVAC/R Rules and Regulations supports review of state-specific administrative and professional requirements. Candidates can use the reference to study classifications, licensing procedures, contractor responsibilities, compliance matters, and other regulated HVACR topics.
+
+The International Mechanical Code, 2021 supports preparation involving mechanical equipment, ventilation, exhaust systems, ductwork, combustion air, refrigeration systems, equipment installation, and related mechanical-code provisions. Questions may require candidates to compare definitions, tables, notes, exceptions, and connected code sections.
+
+Modern Refrigeration and Air Conditioning, 22nd Edition supports broad technical study involving refrigeration principles, heating equipment, cooling systems, airflow, system components, controls, installation, maintenance, service, and troubleshooting.
+
+Refrigeration and Air Conditioning Technology, 10th Edition provides additional technical coverage involving refrigeration cycles, compressors, condensers, evaporators, metering devices, refrigerants, electrical controls, diagnostics, system operation, installation procedures, and service practices.
+
+Because the examination draws from several references, candidates should not rely only on memorized definitions or isolated answers. Stronger preparation combines practical trade knowledge with repeated use of tables of contents, indexes, diagrams, chapter organization, code sections, technical tables, and cross-references.
+
+Each reference plays a different role in the study process. The Arkansas law and rules books support state-specific subjects. The International Mechanical Code supports questions involving mechanical systems and code-based installation requirements. The two refrigeration and air-conditioning textbooks support broader technical questions involving components, system operation, maintenance, diagnostics, and troubleshooting.
+
+### Open Book Test
+
+The Arkansas Class E HVACR Contractor exam is open book. Candidates may use approved references during the examination, subject to current rules concerning permitted editions, highlighting, annotations, permanent tabs, bindings, and loose materials.
+
+An open-book examination still requires serious preparation. Five references contain a substantial amount of material, and candidates may not have enough time to search every book from the beginning for each question. Efficient performance depends on identifying the subject, selecting the correct reference, locating the applicable section, and confirming the answer without unnecessary searching.
+
+A question involving Arkansas HVACR licensing requirements may direct the candidate to Arkansas HVAC/R Law or Arkansas HVAC/R Rules and Regulations.
+
+Questions involving mechanical equipment, ventilation, duct systems, exhaust, combustion air, refrigeration-code requirements, or equipment installation may require the International Mechanical Code.
+
+Questions involving refrigeration cycles, compressors, condensers, evaporators, metering devices, controls, heating equipment, cooling equipment, airflow, installation, maintenance, service, diagnostics, or troubleshooting may require one of the two refrigeration and air-conditioning textbooks.
+
+Students should review the table of contents and index in every reference before beginning timed practice. Learn what each book covers, how it is organized, and which formal terms are used for common HVACR systems, components, and procedures.
+
+During practice, decide which reference should contain the answer before opening a book. This habit helps reduce unnecessary movement between references and strengthens the candidate’s understanding of the role each title plays in exam preparation.
+
+After locating a possible answer, review the surrounding information carefully. A definition, table, diagram, exception, note, or connected section may affect the correct response. The first sentence that appears relevant may not provide the complete information needed.
+
+When working with mechanical-code provisions or technical procedures, candidates should pay close attention to headings, conditions, definitions, notes, and exceptions. A value or statement taken out of context may not apply to the exact situation described in the question.
+
+### Licensing Steps
+
+The Arkansas Class E HVACR contractor licensing process begins with reviewing the current requirements for the classification. Applicants should determine which experience, examination, documentation, and application requirements apply before beginning the formal process.
+
+The applicant should organize personal information, employment history, HVACR experience, addresses, business details, and supporting records according to the current application instructions.
+
+The next step is preparing for the required examination. Candidates should use the online course and listed references to review Arkansas HVACR law, state rules, mechanical-code provisions, refrigeration principles, air-conditioning systems, installation practices, maintenance procedures, service methods, diagnostics, and troubleshooting.
+
+Reference navigation should be practiced throughout the study process. Candidates should not wait until the examination date to learn where major subjects are located. Repeated practice can improve familiarity with the books and reduce time spent searching during the open-book exam.
+
+When prepared, the candidate completes the required examination registration and scheduling process. Identification requirements, approved-reference rules, testing procedures, and examination-center instructions should be reviewed before the scheduled appointment.
+
+After satisfying the examination requirement, the applicant must complete any remaining licensing steps and submit the required application, supporting documentation, and fees. Passing the examination does not independently create or approve an Arkansas Class E HVACR contractor license.
+
+The completed application is reviewed by the appropriate Arkansas licensing authority. Final approval depends on the applicant satisfying the requirements associated with the Class E HVACR contractor license.
+
+This online course provides exam-preparation support only. Physical books, exam registration, licensing fees, Application Service, business formation, EIN filing, insurance, financial-document preparation, and guaranteed licensing approval are not listed as included.
+
+### State Requirements
+
+Arkansas regulates HVACR contractor activity through state licensing requirements. Candidates pursuing the Class E HVACR contractor license should review the current law, rules, application materials, examination information, and supporting-document requirements that apply to the classification.
+
+Arkansas HVAC/R Law and Arkansas HVAC/R Rules and Regulations provide the state-specific materials used for preparation. Candidates should understand how these references address licensing authority, classifications, contractor responsibilities, compliance, professional standards, and regulated HVACR work.
+
+Applicants should provide accurate and consistent information throughout the licensing process. Personal information, employment history, experience records, addresses, business details, and supporting documents should match wherever required.
+
+The licensing process may involve examination results, application forms, experience documentation, fees, and additional supporting information. Applicants should follow the current instructions associated with the Arkansas Class E HVACR contractor license.
+
+Licensed HVACR contractors remain responsible for complying with applicable laws, rules, adopted codes, permit requirements, inspection procedures, professional responsibilities, and renewal obligations.
+
+Course enrollment does not complete the licensing process. Candidates remain responsible for passing the applicable examination, submitting the required application, providing supporting records, paying required fees, and receiving approval before performing work that requires the license.
+
+### Reference Books
+
+- **Arkansas HVAC/R Law**
+This Arkansas-specific reference supports preparation involving the legal framework for HVACR licensing, regulated work, contractor responsibilities, compliance, and related statutory subjects.
+- **Arkansas HVAC/R Rules and Regulations**
+This reference supports preparation involving HVACR classifications, licensing procedures, professional responsibilities, compliance requirements, and regulatory subjects.
+- **International Mechanical Code, 2021**
+This code supports preparation involving mechanical equipment, ventilation, exhaust systems, ductwork, combustion air, refrigeration systems, equipment installation, and related mechanical requirements.
+- **Modern Refrigeration and Air Conditioning, 22nd Edition**
+This technical reference covers refrigeration principles, heating and cooling equipment, airflow, controls, installation, maintenance, service, troubleshooting, and system operation.
+- **Refrigeration and Air Conditioning Technology, 10th Edition**
+This comprehensive HVACR reference supports study involving refrigeration cycles, system components, electrical controls, diagnostics, installation, maintenance, service, and technical procedures.
+
+The physical reference books are not listed as included with this online course. Students should obtain the correct editions separately and keep them available while completing lessons, navigation exercises, and practice questions.
+
+### Test Information and Study Materials
+
+A productive study plan should divide preparation into Arkansas HVACR law and rules, mechanical-code review, refrigeration theory, air-conditioning systems, service procedures, troubleshooting, and open-book reference navigation.
+
+Begin with an orientation to every reference. Review the table of contents, index, chapter arrangement, diagrams, tables, and illustrations. Learn where major subjects are located before beginning timed practice.
+
+For Arkansas-specific preparation, review the organization of the HVACR law and rules. Practice locating information by licensing topic, classification, contractor responsibility, regulated activity, or compliance subject.
+
+For mechanical-code preparation, review mechanical equipment, ventilation, exhaust, duct systems, combustion air, refrigeration systems, and related installation requirements. Pay attention to definitions, cross-references, tables, notes, and exceptions.
+
+For refrigeration preparation, review heat transfer, refrigeration cycles, compressors, condensers, evaporators, metering devices, refrigerants, pressure-temperature relationships, system operation, and component functions.
+
+For air-conditioning preparation, review heating and cooling equipment, airflow, controls, installation practices, maintenance procedures, diagnostic methods, service techniques, and troubleshooting concepts.
+
+Complete practice questions with all five references available. Before opening a book, identify the subject and decide which reference is most likely to contain the answer. This habit can reduce unnecessary searching and reinforce the role of every title.
+
+When a question is missed, locate the correct information and review the surrounding material. Record the reference, chapter, section, or subject involved so the weak area can be included in future study sessions.
+
+Timed practice should begin after the candidate becomes familiar with the references. Speed should develop through subject recognition, technical understanding, and repeated navigation rather than rushed guessing.
+
+A balanced study routine should combine technical lessons, reading, code navigation, index practice, reference searches, and exam-style questions. Consistent preparation is generally more useful than attempting to review every subject immediately before testing.
+
+Students should use the same references throughout their preparation. Familiarity develops through repeated contact with the same chapters, diagrams, tables, definitions, and indexed terms.
+
+### How Pass Your HVAC Exam Helps You Reach Your Goal
+
+Pass Your HVAC Exam helps Arkansas Class E HVACR candidates organize a multi-book technical syllabus into a practical study structure. The online course supports focused review across Arkansas law, state regulations, mechanical systems, refrigeration, air conditioning, service procedures, troubleshooting, and open-book reference navigation.
+
+Trade-focused guidance helps students connect practical HVACR experience with the formal terminology used in laws, regulations, codes, technical textbooks, and contractor exam questions.
+
+Reference-navigation instruction helps candidates use tables of contents, indexes, code structures, definitions, diagrams, and tables more effectively. The goal is to create a repeatable process for moving from a question to the correct supporting information.
+
+Practice-oriented preparation encourages active study instead of passive reading. Students work on identifying the question topic, selecting the correct book, locating relevant information, and reviewing missed concepts.
+
+The online format provides a flexible way to organize preparation around work and personal responsibilities. Students can divide the material into manageable sections and return to subjects that require additional review.
+
+Pass Your HVAC Exam does not guarantee a passing score, contractor license, state approval, earnings, or business outcome. Examination results depend on the candidate’s knowledge, experience, preparation, reference-navigation ability, and performance on test day.
+
+### FAQ Section
+
+### What does the Arkansas Class E HVACR online course cover?
+
+The course supports preparation involving Arkansas HVACR law, state rules, mechanical systems, refrigeration principles, air-conditioning technology, service procedures, troubleshooting, and open-book reference navigation.
+
+### Which reference books are used with the course?
+
+The course is organized around Arkansas HVAC/R Law, Arkansas HVAC/R Rules and Regulations, International Mechanical Code, 2021, Modern Refrigeration and Air Conditioning, 22nd Edition, and Refrigeration and Air Conditioning Technology, 10th Edition.
+
+### Are physical books included with the online course?
+
+No physical reference books are listed as included. Students should obtain the correct editions separately for lessons, navigation exercises, and practice questions.
+
+### Is the Arkansas Class E HVACR exam open book?
+
+Yes. The exam is open book and permits approved references, subject to current rules concerning editions, highlighting, permanent tabs, annotations, bindings, and loose materials.
+
+### Does the course include the NASCLA Arkansas business book?
+
+No. The NASCLA Arkansas business and law book is not listed among the references for this online course.
+
+### Does the course include application assistance?
+
+No Application Service is listed as included. This product is an online Arkansas Class E HVACR exam-preparation course.
+
+### Can the course replace HVACR field experience?
+
+No. The course supports exam preparation but does not replace practical experience or any experience documentation required for licensing.
+
+### How should I use the course with the reference books?
+
+Keep the listed references available while completing lessons and practice questions. Use the course to review technical concepts and practice locating supporting information in the appropriate book.
+
+### Does enrolling guarantee a passing score?
+
+No. The course provides organized study guidance and practice-oriented preparation, but examination results depend on the candidate’s knowledge, preparation, reference-navigation ability, and performance.
+
+### Does passing the exam automatically issue a contractor license?
+
+No. Passing the applicable examination is one part of the licensing process. The applicant must also submit the required application and satisfy the requirements established by the appropriate Arkansas licensing authority.
 
 ## How does the Class E HVACR Contractor exam work?
 
@@ -54,13 +234,13 @@ The Class E HVACR Contractor license comes from the Arkansas HVACR Licensing Boa
 [**Online Practice Questions** Arkansas Class E HVACR Contractor Exam - Online Practice Que… $79.99](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/online-practice-exams/) · [**Live Virtual Training** Arkansas Class E HVACR Contractor Exam Prep - Live Virtual +… $595](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/live-training/) · [**Complete Book Package** Arkansas Class E HVACR Contractor Exam Book Package $845](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/book-package/) · [**Highlighted and Tabbed Books** Arkansas Class E HVACR Contractor Highlighted & Tabbed Book … $1,195](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/highlighted-tabbed/) · [**Books and Courses Rental** Arkansas Class E HVACR Contractor - Books & Courses Rental P… $1,620](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/rental-package/) · [**Ultimate Exam Prep Package** Arkansas Class E HVACR Contractor Ultimate Exam Prep Rental … $2,045](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Arkansas Class E HVACR Contract… $2,745](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/the-1-package/) [Compare every Class E HVACR Contractor package →](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/) [Choose a different license →](https://passyourhvacexam.com/)
 
 ### More Arkansas licenses
-[All Arkansas licenses](https://passyourhvacexam.com/arkansas/) · [Class A HVACR Contractor](https://passyourhvacexam.com/arkansas-class-a-hvacr-contractor/) · [Class B HVACR Contractor](https://passyourhvacexam.com/arkansas-class-b-hvacr-contractor/) · [Class C HVACR Contractor](https://passyourhvacexam.com/arkansas-class-c-hvacr-contractor/) · [Class D HVACR Contractor](https://passyourhvacexam.com/arkansas-class-d-hvacr-contractor/) · [Electrical Heating and A/C Installation Contractor](https://passyourhvacexam.com/arkansas-electrical-heating-ac-installation/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
+[All Arkansas licenses](https://passyourhvacexam.com/arkansas/) · [Class A HVACR Contractor](https://passyourhvacexam.com/arkansas-class-a-hvacr-contractor/) · [Class B HVACR Contractor](https://passyourhvacexam.com/arkansas-class-b-hvacr-contractor/) · [Class C HVACR Contractor](https://passyourhvacexam.com/arkansas-class-c-hvacr-contractor/) · [Class D HVACR Contractor](https://passyourhvacexam.com/arkansas-class-d-hvacr-contractor/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
 
 ## Questions before you buy
 
 ### How much is the Arkansas Class E HVACR Contractor Exam - Online Exam Prep?
 
-$295. The price at checkout is the one that applies, and it is shown before you pay.
+$295 to $595 depending on the option you pick. The price at checkout is the one that applies, and it is shown before you pay.
 
 ### What is included?
 

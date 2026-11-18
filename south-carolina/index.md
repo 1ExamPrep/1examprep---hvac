@@ -3,14 +3,14 @@ title: South Carolina HVAC License Exam Prep
 url: https://passyourhvacexam.com/south-carolina/
 updated: 2026-11-18
 site: Pass Your HVAC Exam
-description: South Carolina HVAC license exam prep: 4 licenses and 31 packages from $69.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
+description: South Carolina HVAC license exam prep: 1 license and 8 packages from $69.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
 
 [All states](https://passyourhvacexam.com/) /South Carolina
 
 # South Carolina HVAC license exam prep
 
-South Carolina HVAC licenses come from the South Carolina Department of Labor, Licensing and Regulation (LLR). We carry prep for 4 licenses in South Carolina, Commercial Air Conditioning Contractor, Heating Contractor and more, with 31 packages from $69.99 to $3,945. Pick your license below to compare books, courses and complete packages.
+South Carolina HVAC licenses come from the South Carolina Department of Labor, Licensing and Regulation (LLR). We carry prep for 1 license in South Carolina, Residential HVAC Contractor, with 8 packages from $69.99 to $3,575. Pick your license below to compare books, courses and complete packages.
 See the South Carolina licenses
 LicensesCompareHow licensing worksFAQSources
 
@@ -30,11 +30,11 @@ See the candidate bulletin
 
 Licenses here
 
-4
+1
 
 Packages
 
-31, from $69.99
+8, from $69.99
 
 [Official site](https://llr.sc.gov/)
 See the licenses
@@ -43,7 +43,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 ## Key takeaways
 
 - Residential HVAC contractors are licensed by the SC Residential Builders Commission; commercial air conditioning, heating and refrigeration by the SC Contractor's Licensing Board.
-- 31 packages covering 4 licenses in South Carolina, from $69.99 to $3,945.
+- 8 packages covering 1 license in South Carolina, from $69.99 to $3,575.
 - PSI gives the South Carolina exams.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
@@ -51,11 +51,8 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which South Carolina HVAC licenses do we cover?
 
-4 licenses and 31 packages. Pick one to compare every package for that exam.
+1 license and 8 packages. Pick one to compare every package for that exam.
 
-- [**Commercial Air Conditioning Contractor** 8 options from $89.99](https://passyourhvacexam.com/south-carolina-commercial-air-conditioning-contractor/)
-- [**Heating Contractor** 8 options from $124.99](https://passyourhvacexam.com/south-carolina-heating-contractor/)
-- [**Refrigeration Contractor** 7 options from $295](https://passyourhvacexam.com/south-carolina-refrigeration-contractor/)
 - [**Residential HVAC Contractor** 8 options from $69.99](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/)
 
 ## How do the South Carolina licenses compare?
@@ -63,9 +60,6 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 Starting price and the most complete package for each license.
 
 License | Options | From | Most complete
-[Commercial Air Conditioning Contractor](https://passyourhvacexam.com/south-carolina-commercial-air-conditioning-contractor/) | 8 | $89.99 | The 1 Package, $3,945
-[Heating Contractor](https://passyourhvacexam.com/south-carolina-heating-contractor/) | 8 | $124.99 | The 1 Package, $3,745
-[Refrigeration Contractor](https://passyourhvacexam.com/south-carolina-refrigeration-contractor/) | 7 | $295 | The 1 Package, $2,695
 [Residential HVAC Contractor](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/) | 8 | $69.99 | The 1 Package, $3,575
 
 ## How does HVAC licensing work in South Carolina?
@@ -91,11 +85,11 @@ Many HVAC trade exams are open book, but the rule depends on the exam. Your cand
 
 ### How much does South Carolina HVAC exam prep cost?
 
-Prep for the South Carolina licenses here runs from $69.99 to $3,945 across 31 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
+Prep for the South Carolina licenses here runs from $69.99 to $3,575 across 8 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
 
 ### Which South Carolina license should I study for?
 
-The one your approval or application names. 4 licenses are listed here: Commercial Air Conditioning Contractor; Heating Contractor; Refrigeration Contractor; Residential HVAC Contractor.
+The one your approval or application names. 1 license are listed here: Residential HVAC Contractor.
 
 ### Do I need EPA 608 certification as well?
 
@@ -113,25 +107,22 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 
 ### Popular South Carolina licenses
 
-- [Commercial Air Conditioning Contractor](https://passyourhvacexam.com/south-carolina-commercial-air-conditioning-contractor/)
-- [Heating Contractor](https://passyourhvacexam.com/south-carolina-heating-contractor/)
 - [Residential HVAC Contractor](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/)
-- [Refrigeration Contractor](https://passyourhvacexam.com/south-carolina-refrigeration-contractor/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
-- [Hawaii](https://passyourhvacexam.com/hawaii/)
 - [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
+- [Oklahoma](https://passyourhvacexam.com/oklahoma/)
 
 ### Also on this site
 

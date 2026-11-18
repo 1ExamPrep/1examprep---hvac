@@ -52,8 +52,8 @@ Online Exam Prep Course
 
 A self-study online course built around the exam.
 
-$195
-[Buy now](https://1examprep.com/search?type=product&q=New%20Jersey%20Business%20and%20Law%20-%20Online%20Exam%20Prep%20Course%20%5Bfor%20HVACR%20Contractors%5D) · [Details](https://passyourhvacexam.com/new-jersey-hvacr-business-and-law/online-course/)
+$195 (was $220) Save 11%
+[Buy now](https://1examprep.com/cart/31774440947769:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/new-jersey-hvacr-business-and-law/online-course/)
 
 ## How do the HVACR Contractor Business and Law options compare?
 
@@ -111,16 +111,16 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
 
 ### Also on this site
 

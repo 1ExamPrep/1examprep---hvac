@@ -12,9 +12,9 @@ Residential HVAC Contractor · Pre-Printed Tabs
 
 # South Carolina Residential HVAC Contractor Exam; Pre-Printed Tabs
 
-The South Carolina Residential HVAC Contractor Exam; Pre-Printed Tabs is pre-printed tabs for the reference books for the Residential HVAC Contractor exam (South Carolina), at $69.99. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
+The South Carolina Residential HVAC Contractor Exam; Pre-Printed Tabs is pre-printed tabs for the reference books for the Residential HVAC Contractor exam (South Carolina), at $69.99, 10% off the $77.99 list price. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep.
 
-$69.99 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=South%20Carolina%20Residential%20HVAC%20Contractor%20Exam%3B%20Pre-Printed%20Tabs)
+$69.99 (was $77.99) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/31381204205625:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep
@@ -22,7 +22,7 @@ $69.99 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Sou
 
 ## Key takeaways
 
-- Pre-Printed Tabs: $69.99.
+- Pre-Printed Tabs: $69.99, down from $77.99.
 - For the Residential HVAC Contractor exam; pre-printed tabs for the reference books.
 - Residential HVAC contractors are licensed by the SC Residential Builders Commission; commercial air conditioning, heating and refrigeration by the SC Contractor's Licensing Board.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
@@ -39,7 +39,21 @@ The Pre-Printed Tabs costs $69.99 and is written for the Residential HVAC Contra
 
 ## About this Residential HVAC Contractor package
 
-South Carolina Residential HVAC Contractor Exam; Pre-Printed Tabs is pre-printed tabs for the reference books for the South Carolina Residential HVAC Contractor exam. The South Carolina Department of Labor, Licensing and Regulation (LLR) licenses this work, and the candidate bulletin for your exam lists the references and editions allowed. Book packages ship free from Pass Your HVAC Exam by USPS Media Mail; online courses and practice questions arrive by email after purchase. Rental, Ultimate and 1 Package prices include a refundable book deposit, and those orders take up to 15 business days to prepare. Licensing exam questions are confidential, so the courses and practice questions are original material written to the same subjects. Buying study material does not register you for the exam; the board approves your application first.
+The South Carolina Residential HVAC Contractor Exam Pre-Printed Tabs by Pass Your HVAC Exam are designed for candidates preparing for the South Carolina Residential Builders Commission HVAC licensing examination. These durable, color-coded adhesive tabs correspond to critical sections within the approved reference books, including HVAC system design, ductwork, load calculations, refrigerant handling, and ventilation requirements. Aligned with the PSI-administered Residential HVAC Contractor exam, the tabs enable fast, efficient navigation through technical manuals and code materials during open-book testing. By organizing key topics such as energy efficiency standards and safety regulations, these pre-printed tabs enhance exam readiness, streamline study sessions, and ensure compliance with South Carolina’s HVAC licensing guidelines for residential mechanical contractors.
+
+South Carolina Residential HVAC pre printed tabs
+
+Includes pre printed tabs for the following:
+
+1. Manual J - Residential Load Calcs, reprinted 2006, Eighth Full Edition
+2. International Mechanical Code, 2021
+3. Code of Federal Regulations - 29 CFR Part 1926 (OSHA)
+4. Modern Refrigeration and Air Conditioning, 22nd Edition
+5. HVAC Duct Construction Standards, Metal and Flexible, 4th Edition 2020
+6. International Fuel Gas Code, 2021
+7. Residential Oil Burners, 3rd Ed.
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the Residential HVAC Contractor exam work?
 
@@ -53,7 +67,7 @@ The Residential HVAC Contractor license comes from the South Carolina Department
 [**Online Exam Prep Course** South Carolina Residential HVAC Contractor - Online Exam Pre… $295](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/online-course/) · [**Live Virtual Training** South Carolina Residential HVAC Contractor Exam Prep - Live … $595](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/live-training/) · [**Complete Book Package** South Carolina Residential HVAC Exam Book Package $1,245](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/book-package/) · [**Highlighted and Tabbed Books** South Carolina Residential HVAC Contractor Exam Complete Hig… $1,895](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/highlighted-tabbed/) · [**Books and Courses Rental** South Carolina Residential HVAC - Books & Courses Rental Pac… $2,485](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/rental-package/) · [**Ultimate Exam Prep Package** South Carolina Residential HVAC Contractor Ultimate Exam Pre… $3,210](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive South Carolina Residential HVAC… $3,575](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/the-1-package/) [Compare every Residential HVAC Contractor package →](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/) [Choose a different license →](https://passyourhvacexam.com/)
 
 ### More South Carolina licenses
-[All South Carolina licenses](https://passyourhvacexam.com/south-carolina/) · [Commercial Air Conditioning Contractor](https://passyourhvacexam.com/south-carolina-commercial-air-conditioning-contractor/) · [Heating Contractor](https://passyourhvacexam.com/south-carolina-heating-contractor/) · [Refrigeration Contractor](https://passyourhvacexam.com/south-carolina-refrigeration-contractor/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
+[All South Carolina licenses](https://passyourhvacexam.com/south-carolina/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
 
 ## Questions before you buy
 

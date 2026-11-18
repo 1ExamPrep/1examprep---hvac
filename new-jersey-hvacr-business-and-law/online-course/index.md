@@ -12,9 +12,9 @@ HVACR Contractor Business and Law · Online Exam Prep Course
 
 # New Jersey Business and Law - Online Exam Prep Course [for HVACR Contractors]
 
-The New Jersey Business and Law - Online Exam Prep Course [for HVACR Contractors] is a self-study online course built around the exam for the HVACR Contractor Business and Law exam (New Jersey), at $195. Online access arrives by email after purchase. Buy now goes straight to secure checkout at 1 Exam Prep.
+The New Jersey Business and Law - Online Exam Prep Course [for HVACR Contractors] is a self-study online course built around the exam for the HVACR Contractor Business and Law exam (New Jersey), at $195, 11% off the $220 list price. Online access arrives by email after purchase. Call (877) 775-9400 with questions first.
 
-$195 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=New%20Jersey%20Business%20and%20Law%20-%20Online%20Exam%20Prep%20Course%20%5Bfor%20HVACR%20Contractors%5D)
+$195 (was $220) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/31774440947769:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Online access arrives by email after purchase
@@ -22,7 +22,7 @@ $195 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=New%2
 
 ## Key takeaways
 
-- Online Exam Prep Course: $195.
+- Online Exam Prep Course: $195, down from $220.
 - For the HVACR Contractor Business and Law exam; a self-study online course built around the exam.
 - New Jersey licenses Master HVACR contractors through the State Board of Examiners of Master HVACR Contractors.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
@@ -39,7 +39,17 @@ The Online Exam Prep Course costs $195 and is written for the HVACR Contractor B
 
 ## About this HVACR Contractor Business and Law package
 
-New Jersey Business and Law - Online Exam Prep Course [for HVACR Contractors] is a self-study online course built around the exam for the New Jersey HVACR Contractor Business and Law exam. The New Jersey State Board of Examiners of Master HVACR Contractors licenses this work, and the candidate bulletin for your exam lists the references and editions allowed. Book packages ship free from Pass Your HVAC Exam by USPS Media Mail; online courses and practice questions arrive by email after purchase. Rental, Ultimate and 1 Package prices include a refundable book deposit, and those orders take up to 15 business days to prepare. Licensing exam questions are confidential, so the courses and practice questions are original material written to the same subjects. Buying study material does not register you for the exam; the board approves your application first.
+The New Jersey Business and Law Online Exam Prep Course for HVACR Contractors by Pass Your HVAC Exam is structured around the New Jersey Division of Consumer Affairs requirements for licensing in Heating, Ventilation, Air Conditioning, and Refrigeration. This course covers key topics from the state’s Business and Law reference manual, including contractor regulations, bonding, insurance, financial management, and safety compliance. Designed for candidates preparing for the New Jersey HVACR licensing examination, it emphasizes state-specific rules, CILB standards, and NASCLA-aligned business principles to ensure familiarity with both legal and operational frameworks. Participants gain targeted preparation for the law and business portion of the HVACR exam, which is required before certification by the New Jersey State Board of Examiners of HVACR Contractors.
+
+***This course is for HVACR contractors only***
+
+Get one step closer to becoming a **New Jersey HVACR Contractor **with a prep course designed by Pass Your HVAC Exam to help you conquer the required New Jersey PSI Business and Law examination.
+
+- 1-hour test-taking techniques and practice exams
+- Highlights and tabs locations for the reference materials
+- Book overview and instructional videos
+- Practice exams with hundreds of questions
+- 1 year of online access
 
 ## How does the HVACR Contractor Business and Law exam work?
 

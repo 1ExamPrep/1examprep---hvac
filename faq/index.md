@@ -10,18 +10,18 @@ description: Here are 20 answers about HVAC license exams: who issues the licens
 
 # HVAC license exam FAQ
 
-Here are 20 answers about HVAC license exams: who issues the license in each state, EPA 608 versus a state license, open-book rules, the testing providers, package types, rentals, shipping and ordering. Each of the 140 license pages and every state page adds questions of its own, so check yours too.
+Here are 20 answers about HVAC license exams: who issues the license in each state, EPA 608 versus a state license, open-book rules, the testing providers, package types, rentals, shipping and ordering. Each of the 49 license pages and every state page adds questions of its own, so check yours too.
 
 ## Key takeaways
 
-- 20 questions answered here, plus 7 more on each of the 140 license pages.
+- 20 questions answered here, plus 7 more on each of the 49 license pages.
 - Each state, and in some places each city, sets its own HVAC exam; the state page tells you who issues your license.
 - EPA Section 608 is federal and separate from the state license.
 - Rental, Ultimate and 1 Package prices include a refundable book deposit.
 
 Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
-How do you get an HVAC license? 6How does the HVAC exam work? 5How should you study for it? 4How does ordering work? 5Where are the questions for my state? 36
+How do you get an HVAC license? 6How does the HVAC exam work? 5How should you study for it? 4How does ordering work? 5Where are the questions for my state? 19
 
 ## How do you get an HVAC license?
 
@@ -115,37 +115,20 @@ The all-inclusive option: highlighted and tabbed rental books, a year of course 
 
 Every state page and license page ends with its own questions: the price range, open-book rules and who issues the license. Pick your state below.
 
-- [Alabama](https://passyourhvacexam.com/alabama/#faq)
-- [Arizona](https://passyourhvacexam.com/arizona/#faq)
 - [Arkansas](https://passyourhvacexam.com/arkansas/#faq)
-- [California](https://passyourhvacexam.com/california/#faq)
-- [Colorado](https://passyourhvacexam.com/colorado/#faq)
-- [Connecticut](https://passyourhvacexam.com/connecticut/#faq)
 - [Delaware](https://passyourhvacexam.com/delaware/#faq)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/#faq)
 - [Florida](https://passyourhvacexam.com/florida/#faq)
-- [Georgia](https://passyourhvacexam.com/georgia/#faq)
-- [Hawaii](https://passyourhvacexam.com/hawaii/#faq)
 - [Idaho](https://passyourhvacexam.com/idaho/#faq)
 - [Iowa](https://passyourhvacexam.com/iowa/#faq)
 - [Kentucky](https://passyourhvacexam.com/kentucky/#faq)
-- [Louisiana](https://passyourhvacexam.com/louisiana/#faq)
-- [Maine](https://passyourhvacexam.com/maine/#faq)
 - [Maryland](https://passyourhvacexam.com/maryland/#faq)
-- [Minnesota](https://passyourhvacexam.com/minnesota/#faq)
 - [Mississippi](https://passyourhvacexam.com/mississippi/#faq)
 - [Missouri](https://passyourhvacexam.com/missouri/#faq)
-- [Nebraska](https://passyourhvacexam.com/nebraska/#faq)
-- [Nevada](https://passyourhvacexam.com/nevada/#faq)
 - [New Jersey](https://passyourhvacexam.com/new-jersey/#faq)
-- [New Mexico](https://passyourhvacexam.com/new-mexico/#faq)
-- [North Carolina](https://passyourhvacexam.com/north-carolina/#faq)
 - [Ohio](https://passyourhvacexam.com/ohio/#faq)
 - [Oklahoma](https://passyourhvacexam.com/oklahoma/#faq)
-- [Oregon](https://passyourhvacexam.com/oregon/#faq)
 - [South Carolina](https://passyourhvacexam.com/south-carolina/#faq)
 - [Tennessee](https://passyourhvacexam.com/tennessee/#faq)
-- [Texas](https://passyourhvacexam.com/texas/#faq)
 - [Utah](https://passyourhvacexam.com/utah/#faq)
 - [Virginia](https://passyourhvacexam.com/virginia/#faq)
 - [Washington](https://passyourhvacexam.com/washington/#faq)
@@ -155,7 +138,7 @@ Every state page and license page ends with its own questions: the price range, 
 Ready to study?
 Find your license, then choose a package.
 
-Exam prep for 140 HVAC licenses in 35 states and DC, from $19.95. Buy buttons go straight to checkout.
+Exam prep for 49 HVAC licenses in 35 states and DC, from $29.99. Buy buttons go straight to checkout.
 [Find my license](https://passyourhvacexam.com/#states)
 
 ## Sources

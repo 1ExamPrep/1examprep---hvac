@@ -3,14 +3,14 @@ title: Ohio HVAC Exam Prep by License
 url: https://passyourhvacexam.com/ohio/
 updated: 2026-11-18
 site: Pass Your HVAC Exam
-description: Ohio HVAC license exam prep: 2 licenses and 2 packages from $250, with books, highlighted and tabbed sets, online courses and one-click checkout.
+description: Ohio HVAC license exam prep: 1 license and 1 package from $250, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
 
 [All states](https://passyourhvacexam.com/) /Ohio
 
 # Ohio HVAC license exam prep
 
-Ohio HVAC licenses come from the Ohio Construction Industry Licensing Board (OCILB). We carry prep for 2 licenses in Ohio, HVAC Contractor, Refrigeration Contractor (ICC), with 2 packages from $250 to $495. Pick your license below to compare books, courses and complete packages.
+Ohio HVAC licenses come from the Ohio Construction Industry Licensing Board (OCILB). We carry prep for 1 license in Ohio, HVAC Contractor, with 1 package from $250 to $250. Pick your license below to compare books, courses and complete packages.
 See the Ohio licenses
 LicensesCompareHow licensing worksFAQSources
 
@@ -30,11 +30,11 @@ See the candidate bulletin
 
 Licenses here
 
-2
+1
 
 Packages
 
-2, from $250
+1, from $250
 
 [Official site](https://com.ohio.gov/)
 See the licenses
@@ -43,7 +43,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 ## Key takeaways
 
 - The Ohio Construction Industry Licensing Board licenses HVAC and refrigeration contractors.
-- 2 packages covering 2 licenses in Ohio, from $250 to $495.
+- 1 package covering 1 license in Ohio, at $250.
 - PSI gives the Ohio HVAC contractor exam.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
@@ -51,10 +51,9 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Ohio HVAC licenses do we cover?
 
-2 licenses and 2 packages. Pick one to compare every package for that exam.
+1 license and 1 package. Pick one to compare every package for that exam.
 
 - [**HVAC Contractor** 1 option from $250](https://passyourhvacexam.com/ohio-hvac-contractor/)
-- [**Refrigeration Contractor (ICC)** 1 option from $495](https://passyourhvacexam.com/ohio-refrigeration-contractor-icc/)
 
 ## How do the Ohio licenses compare?
 
@@ -62,7 +61,6 @@ Starting price and the most complete package for each license.
 
 License | Options | From | Most complete
 [HVAC Contractor](https://passyourhvacexam.com/ohio-hvac-contractor/) | 1 | $250 | Online Exam Prep Course, $250
-[Refrigeration Contractor (ICC)](https://passyourhvacexam.com/ohio-refrigeration-contractor-icc/) | 1 | $495 | Complete Book Package, $495
 
 ## How does HVAC licensing work in Ohio?
 
@@ -87,11 +85,11 @@ Many HVAC trade exams are open book, but the rule depends on the exam. Your cand
 
 ### How much does Ohio HVAC exam prep cost?
 
-Prep for the Ohio licenses here runs from $250 to $495 across 2 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
+Prep for the Ohio licenses here runs from $250 to $250 across 1 package. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
 
 ### Which Ohio license should I study for?
 
-The one your approval or application names. 2 licenses are listed here: HVAC Contractor; Refrigeration Contractor (ICC).
+The one your approval or application names. 1 license are listed here: HVAC Contractor.
 
 ### Do I need EPA 608 certification as well?
 
@@ -110,22 +108,21 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 ### Popular Ohio licenses
 
 - [HVAC Contractor](https://passyourhvacexam.com/ohio-hvac-contractor/)
-- [Refrigeration Contractor (ICC)](https://passyourhvacexam.com/ohio-refrigeration-contractor-icc/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
-- [Hawaii](https://passyourhvacexam.com/hawaii/)
 - [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Oklahoma](https://passyourhvacexam.com/oklahoma/)
+- [South Carolina](https://passyourhvacexam.com/south-carolina/)
 
 ### Also on this site
 

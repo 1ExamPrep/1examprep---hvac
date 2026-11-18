@@ -3,14 +3,14 @@ title: Idaho HVAC Exam Prep by License
 url: https://passyourhvacexam.com/idaho/
 updated: 2026-11-18
 site: Pass Your HVAC Exam
-description: Idaho HVAC license exam prep: 4 licenses and 31 packages from $79.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
+description: Idaho HVAC license exam prep: 3 licenses and 20 packages from $79.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
 
 [All states](https://passyourhvacexam.com/) /Idaho
 
 # Idaho HVAC license exam prep
 
-Idaho HVAC licenses come from the Idaho HVAC Board in the Division of Occupational and Professional Licenses (DOPL). We carry prep for 4 licenses in Idaho, HVAC Specialty Journeyman, HVAC Journeyman and more, with 31 packages from $79.99 to $2,580. Pick your license below to compare books, courses and complete packages.
+Idaho HVAC licenses come from the Idaho HVAC Board in the Division of Occupational and Professional Licenses (DOPL). We carry prep for 3 licenses in Idaho, HVAC Specialty Journeyman, HVAC Journeyman and more, with 20 packages from $79.99 to $1,915. Pick your license below to compare books, courses and complete packages.
 See the Idaho licenses
 LicensesCompareHow licensing worksFAQSources
 
@@ -30,11 +30,11 @@ Approved books for several exams
 
 Licenses here
 
-4
+3
 
 Packages
 
-31, from $79.99
+20, from $79.99
 
 [Official site](https://dopl.idaho.gov/hvac/)
 See the licenses
@@ -43,7 +43,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 ## Key takeaways
 
 - The Idaho HVAC Board licenses apprentices, journeymen, specialty journeymen and contractors.
-- 31 packages covering 4 licenses in Idaho, from $79.99 to $2,580.
+- 20 packages covering 3 licenses in Idaho, from $79.99 to $1,915.
 - A contractor applicant first holds an Idaho journeyman or specialty journeyman license.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
@@ -51,12 +51,11 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Idaho HVAC licenses do we cover?
 
-4 licenses and 31 packages. Pick one to compare every package for that exam.
+3 licenses and 20 packages. Pick one to compare every package for that exam.
 
 - [**HVAC Specialty Journeyman** 7 options from $79.99](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/)
 - [**HVAC Journeyman** 7 options from $79.99](https://passyourhvacexam.com/idaho-hvac-journeyman/)
 - [**HVAC Contractor** 6 options from $95](https://passyourhvacexam.com/idaho-hvac-contractor/)
-- [**Limited Electrical: Refrigeration, Heating and A/C Installer** 11 options from $79.99](https://passyourhvacexam.com/idaho-limited-electrical-refrigeration-heating-ac-installer/)
 
 ## How do the Idaho licenses compare?
 
@@ -66,7 +65,6 @@ License | Options | From | Most complete
 [HVAC Specialty Journeyman](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/) | 7 | $79.99 | Ultimate Exam Prep Package, $965
 [HVAC Journeyman](https://passyourhvacexam.com/idaho-hvac-journeyman/) | 7 | $79.99 | Ultimate Exam Prep Package, $1,215
 [HVAC Contractor](https://passyourhvacexam.com/idaho-hvac-contractor/) | 6 | $95 | The 1 Package, $1,915
-[Limited Electrical: Refrigeration, Heating and A/C Installer](https://passyourhvacexam.com/idaho-limited-electrical-refrigeration-heating-ac-installer/) | 11 | $79.99 | The 1 Package, $2,580
 
 ## How does HVAC licensing work in Idaho?
 
@@ -91,11 +89,11 @@ Several exams in this state let you bring approved books, which is why exam-room
 
 ### How much does Idaho HVAC exam prep cost?
 
-Prep for the Idaho licenses here runs from $79.99 to $2,580 across 31 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
+Prep for the Idaho licenses here runs from $79.99 to $1,915 across 20 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
 
 ### Which Idaho license should I study for?
 
-The one your approval or application names. 4 licenses are listed here: HVAC Specialty Journeyman; HVAC Journeyman; HVAC Contractor; Limited Electrical: Refrigeration, Heating and A/C Installer.
+The one your approval or application names. 3 licenses are listed here: HVAC Specialty Journeyman; HVAC Journeyman; HVAC Contractor.
 
 ### Do I need EPA 608 certification as well?
 
@@ -113,25 +111,24 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 
 ### Popular Idaho licenses
 
-- [Limited Electrical: Refrigeration, Heating and A/C Installer](https://passyourhvacexam.com/idaho-limited-electrical-refrigeration-heating-ac-installer/)
 - [HVAC Specialty Journeyman](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/)
 - [HVAC Journeyman](https://passyourhvacexam.com/idaho-hvac-journeyman/)
 - [HVAC Contractor](https://passyourhvacexam.com/idaho-hvac-contractor/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
-- [Hawaii](https://passyourhvacexam.com/hawaii/)
 - [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
+- [Oklahoma](https://passyourhvacexam.com/oklahoma/)
+- [South Carolina](https://passyourhvacexam.com/south-carolina/)
 
 ### Also on this site
 

@@ -12,9 +12,9 @@ HVAC Contractor · Online Exam Prep Course
 
 # Ohio HVAC Contractor - Online Exam Prep Course
 
-The Ohio HVAC Contractor - Online Exam Prep Course is a self-study online course built around the exam for the HVAC Contractor exam (Ohio), at $250. Online access arrives by email after purchase. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
+The Ohio HVAC Contractor - Online Exam Prep Course is a self-study online course built around the exam for the HVAC Contractor exam (Ohio), at $250, 10% off the $279 list price. Online access arrives by email after purchase. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$250 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Ohio%20HVAC%20Contractor%20-%20Online%20Exam%20Prep%20Course)
+$250 (was $279) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/31786234118201:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Online access arrives by email after purchase
@@ -22,7 +22,7 @@ $250 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Ohio%
 
 ## Key takeaways
 
-- Online Exam Prep Course: $250.
+- Online Exam Prep Course: $250, down from $279.
 - For the HVAC Contractor exam; a self-study online course built around the exam.
 - The Ohio Construction Industry Licensing Board licenses HVAC and refrigeration contractors.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
@@ -39,7 +39,16 @@ The Online Exam Prep Course costs $250 and is written for the HVAC Contractor ex
 
 ## About this HVAC Contractor package
 
-Ohio HVAC Contractor - Online Exam Prep Course is a self-study online course built around the exam for the Ohio HVAC Contractor exam. The Ohio Construction Industry Licensing Board (OCILB) licenses this work, and the candidate bulletin for your exam lists the references and editions allowed. Book packages ship free from Pass Your HVAC Exam by USPS Media Mail; online courses and practice questions arrive by email after purchase. Rental, Ultimate and 1 Package prices include a refundable book deposit, and those orders take up to 15 business days to prepare. Licensing exam questions are confidential, so the courses and practice questions are original material written to the same subjects. Buying study material does not register you for the exam; the board approves your application first.
+The Ohio PSI HVAC Online Course offered by Pass Your HVAC Exam is designed to prepare candidates for the Ohio HVAC Contractor licensing exam administered by PSI Services LLC. This course provides a structured review of core HVAC trade concepts, covering heating, ventilation, air conditioning, and refrigeration systems in compliance with Ohio Administrative Code standards. It includes modules on system design, installation practices, load calculations, ductwork, fuel gas code, and safety regulations. Participants gain access to exam-style practice questions aligned with the PSI HVAC exam content outline, ensuring readiness for both theory and application-based test sections. Developed for contractors seeking licensure under the Ohio Construction Industry Licensing Board (OCILB), the course emphasizes current mechanical code references and competency standards for HVAC professionals.
+
+ Get one step closer to becoming a **Ohio HVAC Contractor** with a prep course designed by Pass Your HVAC Exam to help you conquer the required PSI computer based examination.
+
+- Test-taking techniques and tips
+- Highlights and tabs locations for reference materials
+- Practice Questions
+- 1 year of online access
+
+**Android and iOS Compatible - Complete the course on your phone, anytime or anywhere.**
 
 ## How does the HVAC Contractor exam work?
 
@@ -54,7 +63,7 @@ No other option is listed for this license yet.
 [Compare every HVAC Contractor package →](https://passyourhvacexam.com/ohio-hvac-contractor/) [Choose a different license →](https://passyourhvacexam.com/)
 
 ### More Ohio licenses
-[All Ohio licenses](https://passyourhvacexam.com/ohio/) · [Refrigeration Contractor (ICC)](https://passyourhvacexam.com/ohio-refrigeration-contractor-icc/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
+[All Ohio licenses](https://passyourhvacexam.com/ohio/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
 
 ## Questions before you buy
 

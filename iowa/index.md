@@ -3,14 +3,14 @@ title: Iowa HVAC Exam Prep by License
 url: https://passyourhvacexam.com/iowa/
 updated: 2026-11-18
 site: Pass Your HVAC Exam
-description: Iowa HVAC license exam prep: 3 licenses and 8 packages from $295, with books, highlighted and tabbed sets, online courses and one-click checkout.
+description: Iowa HVAC license exam prep: 2 licenses and 2 packages from $745, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
 
 [All states](https://passyourhvacexam.com/) /Iowa
 
 # Iowa HVAC license exam prep
 
-Iowa HVAC licenses come from the Iowa Plumbing and Mechanical Systems Board. We carry prep for 3 licenses in Iowa, Disconnecting and Reconnecting A/C and Refrigeration Systems, Journeyperson HVAC and Refrigeration with Gas and more, with 8 packages from $295 to $2,515. Pick your license below to compare books, courses and complete packages.
+Iowa HVAC licenses come from the Iowa Plumbing and Mechanical Systems Board. We carry prep for 2 licenses in Iowa, Journeyperson HVAC and Refrigeration with Gas, Master HVAC and Refrigeration with Gas, with 2 packages from $745 to $745. Pick your license below to compare books, courses and complete packages.
 See the Iowa licenses
 LicensesCompareHow licensing worksFAQSources
 
@@ -30,11 +30,11 @@ See the candidate bulletin
 
 Licenses here
 
-3
+2
 
 Packages
 
-8, from $295
+2, from $745
 
 [Official site](https://dial.iowa.gov/)
 See the licenses
@@ -43,7 +43,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 ## Key takeaways
 
 - Iowa licenses HVAC and refrigeration work at journeyperson and master level, with gas included in the license.
-- 8 packages covering 3 licenses in Iowa, from $295 to $2,515.
+- 2 packages covering 2 licenses in Iowa, at $745.
 - Disconnecting and reconnecting air conditioning and refrigeration systems is its own Iowa license.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
@@ -51,9 +51,8 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Iowa HVAC licenses do we cover?
 
-3 licenses and 8 packages. Pick one to compare every package for that exam.
+2 licenses and 2 packages. Pick one to compare every package for that exam.
 
-- [**Disconnecting and Reconnecting A/C and Refrigeration Systems** 6 options from $295](https://passyourhvacexam.com/iowa-disconnecting-reconnecting-ac-refrigeration/)
 - [**Journeyperson HVAC and Refrigeration with Gas** 1 option from $745](https://passyourhvacexam.com/iowa-journeyperson-hvac-refrigeration-gas/)
 - [**Master HVAC and Refrigeration with Gas** 1 option from $745](https://passyourhvacexam.com/iowa-master-hvac-refrigeration-gas/)
 
@@ -62,7 +61,6 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 Starting price and the most complete package for each license.
 
 License | Options | From | Most complete
-[Disconnecting and Reconnecting A/C and Refrigeration Systems](https://passyourhvacexam.com/iowa-disconnecting-reconnecting-ac-refrigeration/) | 6 | $295 | The 1 Package, $2,515
 [Journeyperson HVAC and Refrigeration with Gas](https://passyourhvacexam.com/iowa-journeyperson-hvac-refrigeration-gas/) | 1 | $745 | Complete Book Package, $745
 [Master HVAC and Refrigeration with Gas](https://passyourhvacexam.com/iowa-master-hvac-refrigeration-gas/) | 1 | $745 | Complete Book Package, $745
 
@@ -89,11 +87,11 @@ Many HVAC trade exams are open book, but the rule depends on the exam. Your cand
 
 ### How much does Iowa HVAC exam prep cost?
 
-Prep for the Iowa licenses here runs from $295 to $2,515 across 8 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
+Prep for the Iowa licenses here runs from $745 to $745 across 2 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
 
 ### Which Iowa license should I study for?
 
-The one your approval or application names. 3 licenses are listed here: Disconnecting and Reconnecting A/C and Refrigeration Systems; Journeyperson HVAC and Refrigeration with Gas; Master HVAC and Refrigeration with Gas.
+The one your approval or application names. 2 licenses are listed here: Journeyperson HVAC and Refrigeration with Gas; Master HVAC and Refrigeration with Gas.
 
 ### Do I need EPA 608 certification as well?
 
@@ -111,24 +109,23 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 
 ### Popular Iowa licenses
 
-- [Disconnecting and Reconnecting A/C and Refrigeration Systems](https://passyourhvacexam.com/iowa-disconnecting-reconnecting-ac-refrigeration/)
 - [Journeyperson HVAC and Refrigeration with Gas](https://passyourhvacexam.com/iowa-journeyperson-hvac-refrigeration-gas/)
 - [Master HVAC and Refrigeration with Gas](https://passyourhvacexam.com/iowa-master-hvac-refrigeration-gas/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
-- [Hawaii](https://passyourhvacexam.com/hawaii/)
 - [Idaho](https://passyourhvacexam.com/idaho/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
+- [Oklahoma](https://passyourhvacexam.com/oklahoma/)
+- [South Carolina](https://passyourhvacexam.com/south-carolina/)
 
 ### Also on this site
 

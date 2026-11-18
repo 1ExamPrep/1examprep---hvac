@@ -52,40 +52,40 @@ Online Exam Prep Course
 
 A self-study online course built around the exam.
 
-$295
-[Buy now](https://1examprep.com/search?type=product&q=Virginia%20Residential%20HVAC%20Tradesman%20-%20Online%20Exam%20Prep) · [Details](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/online-course/)
+$295 (was $395) Save 25%
+[Buy now](https://1examprep.com/cart/50675744112697:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/online-course/)
 
 Complete Book Package
 [Virginia Residential HVAC Tradesman Book Package](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/book-package/)
 
 Every reference book the exam is written to, new and unmarked.
 
-$745
-[Buy now](https://1examprep.com/search?type=product&q=Virginia%20Residential%20HVAC%20Tradesman%20Book%20Package) · [Details](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/book-package/)
+$745 (was $845) Save 12%  to $1,495
+[Buy now](https://1examprep.com/cart/50675695419449:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/book-package/)
 
 Highlighted and Tabbed Books
 [Virginia Residential HVAC Tradesman Highlighted & Tabbed Book Package](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/highlighted-tabbed/)
 
 The reference books already highlighted and tabbed.
 
-$1,495
-[Buy now](https://1examprep.com/search?type=product&q=Virginia%20Residential%20HVAC%20Tradesman%20Highlighted%20%26%20Tabbed%20Book%20Package) · [Details](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/highlighted-tabbed/)
+$1,495 (was $1,695) Save 12%  to $1,790
+[Buy now](https://1examprep.com/cart/50675758694457:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/highlighted-tabbed/)
 
 Ultimate Exam Prep Package
 [Virginia Residential HVAC Tradesman Ultimate Exam Prep Rental Package](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/ultimate-rental/)
 
 Highlighted and tabbed rental books, a year of course access and help with the application.
 
-$2,510
-[Buy now](https://1examprep.com/search?type=product&q=Virginia%20Residential%20HVAC%20Tradesman%20Ultimate%20Exam%20Prep%20Rental%20Package) · [Details](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/ultimate-rental/)
+$2,510 (was $2,910) Save 14%
+[Buy now](https://1examprep.com/cart/50675924205625:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/ultimate-rental/)
 
 The 1 Package (all-inclusive)
 [The 1 Package: All-Inclusive Virginia Residential HVAC Tradesman Licensing & Business Setup](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/the-1-package/)
 
 Everything in the ultimate package plus llc or corporation setup, ein filing and compliance guidance.
 
-$3,210
-[Buy now](https://1examprep.com/search?type=product&q=The%201%20Package%3A%20All-Inclusive%20Virginia%20Residential%20HVAC%20Tradesman%20Licensing%20%26%20Business%20Setup) · [Details](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/the-1-package/)
+$3,210 (was $3,710) Save 13%
+[Buy now](https://1examprep.com/cart/50675966804025:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com) · [Details](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/the-1-package/)
 
 ## How do the Residential HVAC Tradesman options compare?
 
@@ -143,22 +143,21 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 ### More in Virginia
 
-- [Refrigeration Contractor](https://passyourhvacexam.com/virginia-refrigeration-contractor/)
 - [Journeyman HVAC](https://passyourhvacexam.com/virginia-journeyman-hvac/)
 - [Master HVAC](https://passyourhvacexam.com/virginia-master-hvac/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
+- [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Mississippi](https://passyourhvacexam.com/mississippi/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
 
 ### Also on this site
 

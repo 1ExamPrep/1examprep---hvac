@@ -3,14 +3,14 @@ title: Mississippi HVAC License Exam Prep
 url: https://passyourhvacexam.com/mississippi/
 updated: 2026-11-18
 site: Pass Your HVAC Exam
-description: Mississippi HVAC license exam prep: 4 licenses and 14 packages from $295, with books, highlighted and tabbed sets, online courses and one-click checkout.
+description: Mississippi HVAC license exam prep: 2 licenses and 10 packages from $295, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
 
 [All states](https://passyourhvacexam.com/) /Mississippi
 
 # Mississippi HVAC license exam prep
 
-Mississippi HVAC licenses come from the Mississippi State Board of Contractors. We carry prep for 4 licenses in Mississippi, Ductwork for Heating, A/C and Ventilation Contractor, Refrigeration Contractor and more, with 14 packages from $295 to $3,795. Pick your license below to compare books, courses and complete packages.
+Mississippi HVAC licenses come from the Mississippi State Board of Contractors. We carry prep for 2 licenses in Mississippi, Residential HVAC Contractor, HVAC Contractor, with 10 packages from $295 to $3,795. Pick your license below to compare books, courses and complete packages.
 See the Mississippi licenses
 LicensesCompareHow licensing worksFAQSources
 
@@ -30,11 +30,11 @@ See the candidate bulletin
 
 Licenses here
 
-4
+2
 
 Packages
 
-14, from $295
+10, from $295
 
 [Official site](https://www.msboc.us/)
 See the licenses
@@ -43,7 +43,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 ## Key takeaways
 
 - The Mississippi State Board of Contractors licenses HVAC, residential HVAC, refrigeration and ductwork contractors.
-- 14 packages covering 4 licenses in Mississippi, from $295 to $3,795.
+- 10 packages covering 2 licenses in Mississippi, from $295 to $3,795.
 - Application accelerator packages add help with the Mississippi license application to the books.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
@@ -51,10 +51,8 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Mississippi HVAC licenses do we cover?
 
-4 licenses and 14 packages. Pick one to compare every package for that exam.
+2 licenses and 10 packages. Pick one to compare every package for that exam.
 
-- [**Ductwork for Heating, A/C and Ventilation Contractor** 2 options from $845](https://passyourhvacexam.com/mississippi-ductwork-heating-ac-ventilation/)
-- [**Refrigeration Contractor** 2 options from $845](https://passyourhvacexam.com/mississippi-refrigeration-contractor/)
 - [**Residential HVAC Contractor** 3 options from $1,445](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/)
 - [**HVAC Contractor** 7 options from $295](https://passyourhvacexam.com/mississippi-hvac-contractor/)
 
@@ -63,8 +61,6 @@ Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 Starting price and the most complete package for each license.
 
 License | Options | From | Most complete
-[Ductwork for Heating, A/C and Ventilation Contractor](https://passyourhvacexam.com/mississippi-ductwork-heating-ac-ventilation/) | 2 | $845 | Books and Application Accelerator, $1,295
-[Refrigeration Contractor](https://passyourhvacexam.com/mississippi-refrigeration-contractor/) | 2 | $845 | Books and Application Accelerator, $1,295
 [Residential HVAC Contractor](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/) | 3 | $1,445 | Books and Application Accelerator, $2,345
 [HVAC Contractor](https://passyourhvacexam.com/mississippi-hvac-contractor/) | 7 | $295 | The 1 Package, $3,795
 
@@ -91,11 +87,11 @@ Many HVAC trade exams are open book, but the rule depends on the exam. Your cand
 
 ### How much does Mississippi HVAC exam prep cost?
 
-Prep for the Mississippi licenses here runs from $295 to $3,795 across 14 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
+Prep for the Mississippi licenses here runs from $295 to $3,795 across 10 packages. Online courses and practice questions are the lowest-cost start; highlighted and tabbed books, Ultimate packages and The 1 Package cost more and do more.
 
 ### Which Mississippi license should I study for?
 
-The one your approval or application names. 4 licenses are listed here: Ductwork for Heating, A/C and Ventilation Contractor; Refrigeration Contractor; Residential HVAC Contractor; HVAC Contractor.
+The one your approval or application names. 2 licenses are listed here: Residential HVAC Contractor; HVAC Contractor.
 
 ### Do I need EPA 608 certification as well?
 
@@ -115,23 +111,21 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 
 - [HVAC Contractor](https://passyourhvacexam.com/mississippi-hvac-contractor/)
 - [Residential HVAC Contractor](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/)
-- [Ductwork for Heating, A/C and Ventilation Contractor](https://passyourhvacexam.com/mississippi-ductwork-heating-ac-ventilation/)
-- [Refrigeration Contractor](https://passyourhvacexam.com/mississippi-refrigeration-contractor/)
 
 ### Other states
 
-- [Alabama](https://passyourhvacexam.com/alabama/)
-- [Arizona](https://passyourhvacexam.com/arizona/)
 - [Arkansas](https://passyourhvacexam.com/arkansas/)
-- [California](https://passyourhvacexam.com/california/)
-- [Colorado](https://passyourhvacexam.com/colorado/)
-- [Connecticut](https://passyourhvacexam.com/connecticut/)
 - [Delaware](https://passyourhvacexam.com/delaware/)
-- [Washington DC](https://passyourhvacexam.com/washington-dc/)
 - [Florida](https://passyourhvacexam.com/florida/)
-- [Georgia](https://passyourhvacexam.com/georgia/)
-- [Hawaii](https://passyourhvacexam.com/hawaii/)
 - [Idaho](https://passyourhvacexam.com/idaho/)
+- [Iowa](https://passyourhvacexam.com/iowa/)
+- [Kentucky](https://passyourhvacexam.com/kentucky/)
+- [Maryland](https://passyourhvacexam.com/maryland/)
+- [Missouri](https://passyourhvacexam.com/missouri/)
+- [New Jersey](https://passyourhvacexam.com/new-jersey/)
+- [Ohio](https://passyourhvacexam.com/ohio/)
+- [Oklahoma](https://passyourhvacexam.com/oklahoma/)
+- [South Carolina](https://passyourhvacexam.com/south-carolina/)
 
 ### Also on this site
 

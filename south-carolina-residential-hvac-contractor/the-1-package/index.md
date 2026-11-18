@@ -12,9 +12,9 @@ Residential HVAC Contractor · The 1 Package (all-inclusive)
 
 # The 1 Package: All-Inclusive South Carolina Residential HVAC Contractor Exam, Licensing & Business Setup Solution
 
-The The 1 Package: All-Inclusive South Carolina Residential HVAC Contractor Exam, Licensing & Business Setup Solution is everything in the Ultimate package plus LLC or corporation setup, EIN filing and compliance guidance for the Residential HVAC Contractor exam (South Carolina), at $3,575. Books ship from our fulfillment center; online parts arrive by email.
+The The 1 Package: All-Inclusive South Carolina Residential HVAC Contractor Exam, Licensing & Business Setup Solution is everything in the Ultimate package plus LLC or corporation setup, EIN filing and compliance guidance for the Residential HVAC Contractor exam (South Carolina), at $3,575, 17% off the $4,300 list price. Call (877) 775-9400 with questions first.
 
-$3,575 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=The%201%20Package%3A%20All-Inclusive%20South%20Carolina%20Residential%20HVAC%20Contractor%20Exam%2C%20Licensing%20%26%20Business%20Setup%20Solution)
+$3,575 (was $4,300) Save 17% [Buy now, go to checkout](https://1examprep.com/cart/44409602211897:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center; online parts arrive by email
@@ -22,7 +22,7 @@ $3,575 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=The
 
 ## Key takeaways
 
-- The 1 Package (all-inclusive): $3,575.
+- The 1 Package (all-inclusive): $3,575, down from $4,300.
 - For the Residential HVAC Contractor exam; everything in the Ultimate package plus LLC or corporation setup, EIN filing and compliance guidance.
 - Residential HVAC contractors are licensed by the SC Residential Builders Commission; commercial air conditioning, heating and refrigeration by the SC Contractor's Licensing Board.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
@@ -39,7 +39,158 @@ The The 1 Package (all-inclusive) costs $3,575 and is written for the Residentia
 
 ## About this Residential HVAC Contractor package
 
-The 1 Package: All-Inclusive South Carolina Residential HVAC Contractor Exam, Licensing & Business Setup Solution is everything in the Ultimate package plus LLC or corporation setup, EIN filing and compliance guidance for the South Carolina Residential HVAC Contractor exam. The South Carolina Department of Labor, Licensing and Regulation (LLR) licenses this work, and the candidate bulletin for your exam lists the references and editions allowed. Book packages ship free from Pass Your HVAC Exam by USPS Media Mail; online courses and practice questions arrive by email after purchase. Rental, Ultimate and 1 Package prices include a refundable book deposit, and those orders take up to 15 business days to prepare. Licensing exam questions are confidential, so the courses and practice questions are original material written to the same subjects. Buying study material does not register you for the exam; the board approves your application first.
+The 1 Package: All-Inclusive South Carolina Residential HVAC Contractor Exam, Licensing & Business Setup Solution is designed for students who want a complete preparation and business setup package for the South Carolina Residential HVAC licensing path. This package combines highlighted and tabbed rental reference books, business and trade self study courses, live and recorded classes, Application Service, business formation support, EIN filing support, contractor compliance guidance, and a credit for the first year of the $10,000 bond.
+
+This package is built for students preparing for the South Carolina Residential HVAC technical exam and the South Carolina residential business and law exam. It is also designed for individuals who want help moving beyond exam preparation into the business setup steps needed to operate professionally. Instead of only receiving study materials, students receive an all-inclusive preparation package that supports exam readiness, licensing organization, and business formation planning.
+
+The South Carolina Residential HVAC exam is an open-book test, which means students need more than general trade knowledge. They must know how to use the approved references, locate information quickly, understand code language, interpret tables, review calculation concepts, and apply trade knowledge under exam conditions. The included books are highlighted and tabbed to support organized study and reference navigation.
+
+This package includes business and trade self study courses along with live and recorded classes. Students can use the self study courses to work through material at their own pace, attend live instruction for guided review, and revisit recorded classes to reinforce important topics. The package also includes Application Service and business setup support, giving students a more complete path from exam preparation to licensing and business readiness.
+
+### What You Get
+
+- **Included Book(s):** Manual J - Residential Load Calcs, reprinted 2016, Eighth Full Edition; International Mechanical Code, 2021; Code of Federal Regulations - 29 CFR Part 1926 (OSHA); Modern Refrigeration and Air Conditioning, 22nd edition; HVAC Duct Construction Standards, Metal and Flexible, 2005, 3rd Edition; International Fuel Gas Code, 2018; Residential Oil Burners, 3rd Edition; Ductulator; and South Carolina - NASCLA Contractors Guide to Business, Law and Project Management, South Carolina Residential Builders, 8th edition.
+- **Highlighted and Tabbed Rental Books:** All included rental books are highlighted and tabbed for exam preparation.
+- **Course Access:** 1 year of course access.
+- **Included Courses:** Business and trade self study courses.
+- **Live and Recorded Classes:** Includes live class access and recorded class review.
+- **Application Service:** Included with this package.
+- **Business Formation:** LLC or Corporation formation support to help establish the customer’s business entity so they are legally structured and ready to operate as a residential HVAC contractor in South Carolina.
+- **EIN Filing with the IRS:** Assistance obtaining the Employer Identification Number, which helps the business open business bank accounts, manage taxes properly, hire employees, and operate the contracting business professionally.
+- **Contractor Compliance Guidance:** Assistance understanding compliance requirements necessary for South Carolina residential HVAC contractors so the business is positioned for long-term success.
+- **Bond Credit:** Includes a credit for the first year of the $10,000 bond.
+- **Package Pricing:** $2,725 plus $850 deposit = $3,575.
+
+### Exam Details
+
+The South Carolina Residential HVAC technical exam is part of the licensing process for applicants pursuing a Residential HVAC Installer and Repairer license through the South Carolina Residential Builders Commission. The exam is administered through PSI after the applicant has received examination eligibility from the Commission.
+
+The Residential HVAC technical exam contains 80 questions. Candidates are allowed 240 minutes to complete the exam. A score of 52 correct answers, or 65%, is required to pass the technical portion.
+
+The technical exam covers residential HVAC trade knowledge, including air conditioning and heat pump equipment, LP gas, natural gas, piping, fuel oil appliances, fuel oil piping, ductwork, and related trades. Candidates should be prepared to review heating and cooling principles, refrigerants, load calculations, testing, adjusting and balancing, controls, furnaces and heaters, chimneys, flues, vents, combustion air, ventilation, exhaust, safety, insulation, hangers, supports, sound, vibration, and residential installation topics.
+
+South Carolina Residential HVAC applicants must also prepare for the Business Management and Law for Residential Builders exam unless their individual licensing path provides otherwise. The business and law exam focuses on contractor business responsibilities, including licensing law, contracts, project management, estimating, financial management, tax basics, liens, insurance, bonding, labor requirements, environmental rules, and day-to-day business operations.
+
+This all-inclusive package supports both exam areas by including residential HVAC trade references, the South Carolina residential business and law reference, business and trade self study courses, live and recorded classes, and Application Service.
+
+### Open Book Test
+
+The South Carolina Residential HVAC technical exam is an open book test. Candidates may use permitted reference books during the exam. Books may be highlighted, underlined, and indexed, and permanent tabs are allowed. Books must not contain loose papers, removable sticky notes, extra attached pages, or unapproved notes.
+
+This package includes highlighted and tabbed rental books to support open-book exam preparation. Highlighting and tabs help students identify important sections, but students should still practice using each book before exam day. Open-book testing requires speed, organization, and familiarity with the reference materials.
+
+Students should become comfortable with each book’s table of contents, index, chapter layout, definitions, charts, tables, and illustrations. Many exam questions require the student to identify the correct reference, locate the proper section, understand the question, and apply the information correctly. The more familiar students are with the books, the more prepared they can feel during the exam.
+
+### Licensing Steps
+
+South Carolina Residential HVAC applicants must apply through the South Carolina Residential Builders Commission. Applicants seeking licensure by examination must submit the required application materials, document qualifying experience, and receive approval before scheduling the required exams through PSI.
+
+The state requires applicants to meet experience requirements before examination eligibility is issued. Once eligibility is approved, candidates may schedule the required exam through PSI. Examination fees are paid directly to PSI, and exams cannot be scheduled until the Commission issues examination eligibility.
+
+The standard examination path includes the Residential HVAC technical exam and the Business Management and Law for Residential Builders exam. The technical exam measures residential HVAC trade knowledge, while the business and law exam measures knowledge of contractor business practices, state requirements, project management, contracts, financial responsibilities, and legal obligations.
+
+Some applicants may qualify for a technical examination waiver based on specific qualifying licenses or credentials recognized by South Carolina. Even when a technical exam waiver applies, the business management and law exam and work experience requirements may still apply. Applicants should follow the current instructions from the South Carolina Residential Builders Commission for their individual licensing path.
+
+This 1 Package includes Application Service to help students move through the licensing preparation process with additional support. It also includes business formation support, EIN filing support, contractor compliance guidance, and a credit for the first year of the $10,000 bond.
+
+### State Requirements
+
+The South Carolina Residential Builders Commission handles Residential HVAC Installer and Repairer licensing for residential HVAC work under its jurisdiction. Individuals seeking licensure must meet the Commission’s application, experience, and examination requirements.
+
+Residential HVAC work includes air conditioning and heat pump equipment, LP and natural gas systems, related piping, fuel oil appliances and piping, ductwork, and associated trade work. Candidates preparing for the license should be ready to demonstrate practical residential HVAC knowledge and the ability to use required references during an open-book exam.
+
+For applicants pursuing licensure by examination, the Commission must approve eligibility before exams can be scheduled. Applicants should be prepared to submit experience documentation and follow the Commission’s application instructions. The business management and law exam is part of the licensing process for residential applicants and should be studied alongside the trade exam.
+
+Business setup is also an important part of operating professionally. This package includes LLC or Corporation formation support, EIN filing with the IRS, and contractor compliance guidance to help students prepare for the business side of residential HVAC contracting in South Carolina.
+
+### Reference Books
+
+- **Included Book: Manual J - Residential Load Calcs, reprinted 2016, Eighth Full Edition**
+A residential load calculation reference used to study heating and cooling load principles, building envelope conditions, residential sizing concepts, and load calculation procedures.
+- **Included Book: International Mechanical Code, 2021**
+A mechanical code reference covering mechanical equipment, ventilation, exhaust systems, duct systems, chimneys, vents, combustion air, appliances, and related installation requirements.
+- **Included Book: Code of Federal Regulations - 29 CFR Part 1926 (OSHA)**
+A construction safety reference covering OSHA standards for construction work, jobsite safety practices, hazard awareness, protective equipment, and safety responsibilities relevant to HVAC work.
+- **Included Book: Modern Refrigeration and Air Conditioning, 22nd edition**
+A technical HVAC reference covering refrigeration principles, air conditioning systems, heat pumps, controls, components, service concepts, troubleshooting, and applied HVAC knowledge.
+- **Included Book: HVAC Duct Construction Standards, Metal and Flexible, 2005, 3rd Edition**
+A duct construction reference covering metal ductwork, flexible ductwork, reinforcement, supports, fabrication practices, sealing, air distribution, and installation standards.
+- **Included Book: International Fuel Gas Code, 2018**
+A fuel gas code reference covering gas piping, appliances, combustion air, venting, installation requirements, safety provisions, and fuel gas system rules.
+- **Included Book: Residential Oil Burners, 3rd Edition**
+A residential oil heat reference covering oil burner equipment, fuel oil systems, burner operation, combustion, controls, service procedures, and installation concepts.
+- **Included Book: Ductulator**
+A duct sizing tool used to support airflow review, friction rate understanding, duct sizing, and air distribution preparation for residential HVAC work.
+- **Included Book: South Carolina - NASCLA Contractors Guide to Business, Law and Project Management, South Carolina Residential Builders, 8th edition**
+A South Carolina residential business and law reference covering contractor business practices, licensing responsibilities, project management, contracts, estimating, financial management, insurance, bonding, liens, and regulatory topics.
+
+### Test Information and Study Materials
+
+This 1 Package combines rental books, online courses, live instruction, recorded classes, licensing application support, and business setup support into one exam and business readiness solution. Students can use the highlighted and tabbed books to practice reference navigation while using the self study courses and class materials to review the content in an organized format.
+
+For the Residential HVAC trade exam, students should focus on load calculations, ducts, air conditioning equipment, heat pumps, furnaces, refrigerants, fuel gas, LP gas, fuel oil, piping, ventilation, exhaust, combustion air, chimneys, flues, vents, controls, insulation, supports, balancing, and jobsite safety. These topics appear across several references, so students should practice matching each question type to the most useful reference book.
+
+Manual J supports residential load calculation preparation. The International Mechanical Code supports mechanical system requirements. The International Fuel Gas Code supports fuel gas, combustion air, appliance, and venting review. OSHA 29 CFR Part 1926 supports construction safety preparation. Modern Refrigeration and Air Conditioning supports broader HVAC system understanding. HVAC Duct Construction Standards and the Ductulator support duct sizing and construction review. Residential Oil Burners supports oil heat preparation.
+
+For the business and law exam, the South Carolina NASCLA Contractors Guide to Business, Law and Project Management for South Carolina Residential Builders supports review of contracts, licensing rules, estimating, financial management, project management, insurance, bonding, liens, employment requirements, taxes, and regulatory responsibilities.
+
+The included live and recorded classes provide another layer of preparation. Live classes give students guided review, while recorded classes allow students to revisit important material during their course access period. The business and trade self study courses help students create a study routine and stay focused on the topics most relevant to the licensing exams.
+
+### How Pass Your HVAC Exam Helps You Reach Your Goal
+
+Pass Your HVAC Exam helps South Carolina Residential HVAC Contractor students prepare with organized study guidance, trade-focused review, reference navigation support, and structured course materials. This 1 Package is designed for students who want more than books and videos. It supports exam preparation, licensing organization, and business setup in one all-inclusive package.
+
+The highlighted and tabbed rental books help students become familiar with the references used for open-book exam preparation. Since the South Carolina Residential HVAC exam is open book, learning how to use the references is a major part of studying. Students should be comfortable finding code sections, HVAC tables, duct information, load calculation material, fuel gas rules, oil burner topics, OSHA safety requirements, and business law information.
+
+The trade self study course supports preparation in residential HVAC areas such as ducts, heating and cooling principles, equipment, refrigerants, load calculations, piping, safety, controls, ventilation, fuel gas, LP gas, fuel oil, combustion air, and system installation concepts. The business self study course supports preparation for South Carolina residential business and law topics, including contractor responsibilities, contracts, financial practices, project management, liens, insurance, bonding, and licensing rules.
+
+The live and recorded classes give students multiple ways to review. Students can use live instruction for guided class support and recorded classes for reinforcement. This helps students revisit challenging topics, review at their own pace, and build a more consistent preparation routine.
+
+Application Service is included with this package to help students move through the licensing preparation process with added support. Business Formation, EIN Filing with the IRS, and Contractor Compliance Guidance are also included to help students prepare for the business side of residential HVAC contracting. The package also includes a credit for the first year of the $10,000 bond.
+
+No course, book set, class, application service, or business setup package can guarantee a passing score, licensing approval, business approval, revenue, or a specific outcome. This package is designed to support focused preparation and professional organization by combining highlighted and tabbed references, self study courses, live and recorded classes, Application Service, business formation support, EIN filing support, contractor compliance guidance, and bond credit support.
+
+### FAQ Section
+
+### What is included in The 1 Package for South Carolina Residential HVAC?
+
+This package includes highlighted and tabbed rental books, business and trade self study courses, live and recorded classes, 1 year of course access, Application Service, Business Formation, EIN Filing with the IRS, Contractor Compliance Guidance, and a credit for the first year of the $10,000 bond.
+
+### How much does this all-inclusive package cost?
+
+The package pricing is $2,725 plus an $850 deposit, for a total of $3,575.
+
+### Are the books highlighted and tabbed?
+
+Yes. All included rental books are highlighted and tabbed for South Carolina Residential HVAC exam preparation.
+
+### How long is the course access?
+
+This package includes 1 year of course access.
+
+### Does this package include live and recorded classes?
+
+Yes. This package includes live and recorded classes, giving students guided review and the ability to revisit class material during their study period.
+
+### Does this package include Application Service?
+
+Yes. Application Service is included with this 1 Package.
+
+### Does this package include business setup services?
+
+Yes. This package includes Business Formation, EIN Filing with the IRS, and Contractor Compliance Guidance to support students preparing to operate professionally as South Carolina residential HVAC contractors.
+
+### Does this package include bond support?
+
+Yes. This package includes a credit for the first year of the $10,000 bond.
+
+### Is the South Carolina Residential HVAC technical exam open book?
+
+Yes. The South Carolina Residential HVAC technical exam is open book. Candidates may use permitted references that follow the exam rules for highlighting, underlining, indexing, and permanent tabs.
+
+### Does this package help with both the trade exam and the business and law exam?
+
+Yes. This package includes HVAC trade references, the South Carolina residential business and law reference, business and trade self study courses, and live and recorded classes to support preparation for both exam areas.
 
 ## How does the Residential HVAC Contractor exam work?
 
@@ -53,7 +204,7 @@ The Residential HVAC Contractor license comes from the South Carolina Department
 [**Pre-Printed Tabs** South Carolina Residential HVAC Contractor Exam; Pre-Printed… $69.99](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/tabs/) · [**Online Exam Prep Course** South Carolina Residential HVAC Contractor - Online Exam Pre… $295](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/online-course/) · [**Live Virtual Training** South Carolina Residential HVAC Contractor Exam Prep - Live … $595](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/live-training/) · [**Complete Book Package** South Carolina Residential HVAC Exam Book Package $1,245](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/book-package/) · [**Highlighted and Tabbed Books** South Carolina Residential HVAC Contractor Exam Complete Hig… $1,895](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/highlighted-tabbed/) · [**Books and Courses Rental** South Carolina Residential HVAC - Books & Courses Rental Pac… $2,485](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/rental-package/) · [**Ultimate Exam Prep Package** South Carolina Residential HVAC Contractor Ultimate Exam Pre… $3,210](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/ultimate-rental/) [Compare every Residential HVAC Contractor package →](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/) [Choose a different license →](https://passyourhvacexam.com/)
 
 ### More South Carolina licenses
-[All South Carolina licenses](https://passyourhvacexam.com/south-carolina/) · [Commercial Air Conditioning Contractor](https://passyourhvacexam.com/south-carolina-commercial-air-conditioning-contractor/) · [Heating Contractor](https://passyourhvacexam.com/south-carolina-heating-contractor/) · [Refrigeration Contractor](https://passyourhvacexam.com/south-carolina-refrigeration-contractor/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
+[All South Carolina licenses](https://passyourhvacexam.com/south-carolina/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
 
 ## Questions before you buy
 

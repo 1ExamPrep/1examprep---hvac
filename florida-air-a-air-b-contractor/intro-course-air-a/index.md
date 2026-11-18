@@ -12,9 +12,9 @@ Class A and Class B Air Conditioning Contractor (Air A, Air B) · Introduction C
 
 # Introduction to Becoming a Florida Air A Contractor
 
-The Introduction to Becoming a Florida Air A Contractor is a short introduction to becoming a licensed contractor in the state for the Class A and Class B Air Conditioning Contractor (Air A, Air B) exam (Florida), at $79.99. Books ship from our fulfillment center, 1 Exam Prep. Call (877) 775-9400 with questions first.
+The Introduction to Becoming a Florida Air A Contractor is a short introduction to becoming a licensed contractor in the state for the Class A and Class B Air Conditioning Contractor (Air A, Air B) exam (Florida), at $79.99, 38% off the $129.99 list price. Books ship from our fulfillment center, 1 Exam Prep.
 
-$79.99 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Introduction%20to%20Becoming%20a%20Florida%20Air%20A%20Contractor)
+$79.99 (was $129.99) Save 38% [Buy now, go to checkout](https://1examprep.com/cart/31000868356153:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep
@@ -22,7 +22,7 @@ $79.99 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Int
 
 ## Key takeaways
 
-- Introduction Course: $79.99.
+- Introduction Course: $79.99, down from $129.99.
 - For the Class A and Class B Air Conditioning Contractor (Air A, Air B) exam; a short introduction to becoming a licensed contractor in the state.
 - The Florida Construction Industry Licensing Board certifies Class A and Class B air conditioning contractors statewide.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
@@ -39,7 +39,22 @@ The Introduction Course costs $79.99 and is written for the Class A and Class B 
 
 ## About this Class A and Class B Air Conditioning Contractor (Air A, Air B) package
 
-Introduction to Becoming a Florida Air A Contractor is a short introduction to becoming a licensed contractor in the state for the Florida Class A and Class B Air Conditioning Contractor (Air A, Air B) exam. The Florida Construction Industry Licensing Board (CILB) licenses this work, and the candidate bulletin for your exam lists the references and editions allowed. Book packages ship free from Pass Your HVAC Exam by USPS Media Mail; online courses and practice questions arrive by email after purchase. Rental, Ultimate and 1 Package prices include a refundable book deposit, and those orders take up to 15 business days to prepare. Licensing exam questions are confidential, so the courses and practice questions are original material written to the same subjects. Buying study material does not register you for the exam; the board approves your application first.
+The *Introduction to Becoming a Florida Air A Contractor* course from Pass Your HVAC Exam provides foundational guidance for individuals pursuing a Class A Air Conditioning Contractor license regulated by the Florida Department of Business and Professional Regulation (DBPR) and the Construction Industry Licensing Board (CILB). This course explains the application process, outlines state licensing requirements, and introduces candidates to the Business and Finance exam as well as the trade knowledge examination administered by the DBPR. Covering essential topics such as HVAC system design, code compliance, and mechanical contractor classification, it serves as a primer for those preparing to advance toward full HVAC certification and licensure in Florida through approved examination pathways. The material aligns with Florida statutes governing mechanical and air conditioning contractors, helping students understand the scope, testing content, and professional standards needed for licensure preparation through Pass Your HVAC Exam resources.
+
+Get started on your path to becoming a licensed Florida Air A Contractor by learning everything you need to know with an informative introductory online course developed by experts in the field.
+
+**Topics covered in our Introduction to Becoming a Florida Air A Contractor course include: **
+
+- Introduction to Pass Your HVAC Exam
+- Benefits of becoming a licensed Air A Contractor
+- Steps required to get your license
+- Scope of the required exams
+- Required books for your exams
+- Sample highlights of key areas in the required books
+- Sample simulated exam practice questions
+- The next steps and how Pass Your HVAC Exam can help you get licensed
+
+### **Take your first step toward success today!**
 
 ## How does the Class A and Class B Air Conditioning Contractor (Air A, Air B) exam work?
 
@@ -51,10 +66,10 @@ The Class A and Class B Air Conditioning Contractor (Air A, Air B) license comes
 
 ## Other Class A and Class B Air Conditioning Contractor (Air A, Air B) options
 
-[**Pre-Printed Tabs** Florida Air A or Air B Contractor Exam; Pre-Printed Tabs (Ta… $101.99](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs/) · [**Pre-Printed Tabs and Highlights** Florida Air A or Air B Contractor Exam; Pre-Printed Tabs and… $150](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs-highlights/) · [**Flash Cards** Florida Air A or B Contractor Exam Prep Study Flash Cards $65](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards/) · [**Flash Cards** Florida Air A/B Contractor + Business & Finance Flash Card C… $99](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards-2/) · [**Online Practice Questions** Florida Air A Contractor Exam - Online Practice Questions $79.99](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-a/) · [**Online Practice Questions** Florida Air B Contractor Exam - Online Practice Questions $79.99](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-b/) · [**Introduction Course** Introduction to Becoming a Florida Air B Contractor $79.99](https://passyourhvacexam.com/florida-air-a-air-b-contractor/intro-course-air-b/) · [**Online Exam Prep Course** Florida Air A Contractor Trade Exam - Online Exam Prep Cours… $395](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-course-air-a/) [Compare every Class A and Class B Air Conditioning Contractor (Air A, Air B) package →](https://passyourhvacexam.com/florida-air-a-air-b-contractor/) [Choose a different license →](https://passyourhvacexam.com/)
+[**Pre-Printed Tabs** Florida Air A or Air B Contractor Exam; Pre-Printed Tabs (Ta… $101.99](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs/) · [**Pre-Printed Tabs and Highlights** Florida Air A or Air B Contractor Exam; Pre-Printed Tabs and… $150](https://passyourhvacexam.com/florida-air-a-air-b-contractor/tabs-highlights/) · [**Flash Cards** Florida Air A or B Contractor Exam Prep Study Flash Cards $65](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards/) · [**Flash Cards** Florida Air A/B Contractor + Business & Finance Flash Card C… $99](https://passyourhvacexam.com/florida-air-a-air-b-contractor/flash-cards-2/) · [**Online Practice Questions** Florida Air A Contractor Exam - Online Practice Questions $79.99](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-practice-exams-air-a/) · [**Online Exam Prep Course** Florida Air A Contractor Trade Exam - Online Exam Prep Cours… $395](https://passyourhvacexam.com/florida-air-a-air-b-contractor/online-course-air-a/) · [**Complete Book Package** Florida Air A and Air B Contractor Exam Complete Book Set - … $1,645](https://passyourhvacexam.com/florida-air-a-air-b-contractor/book-package/) · [**Highlighted and Tabbed Books** Florida Air A or Air B Contractor Exam Complete Book Set - T… $2,195](https://passyourhvacexam.com/florida-air-a-air-b-contractor/highlighted-tabbed/) [Compare every Class A and Class B Air Conditioning Contractor (Air A, Air B) package →](https://passyourhvacexam.com/florida-air-a-air-b-contractor/) [Choose a different license →](https://passyourhvacexam.com/)
 
 ### More Florida licenses
-[All Florida licenses](https://passyourhvacexam.com/florida/) · [Rooftop Solar Heating Specialty Contractor](https://passyourhvacexam.com/florida-rooftop-solar-heating-specialty/) · [County Class A Air Conditioning Contractor (MCE1B)](https://passyourhvacexam.com/florida-county-class-a-air-conditioning-mce1b/) · [County Class B Air Conditioning Contractor (MDE1B)](https://passyourhvacexam.com/florida-county-class-b-air-conditioning-mde1b/) · [Palm Beach County HARV Contractor](https://passyourhvacexam.com/florida-palm-beach-harv/) · [Broward County Class B Air Conditioning Contractor](https://passyourhvacexam.com/florida-broward-class-b-air-conditioning/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
+[All Florida licenses](https://passyourhvacexam.com/florida/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
 
 ## Questions before you buy
 

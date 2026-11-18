@@ -12,9 +12,9 @@ HVACR Unlimited Contractor · Pre-Printed Tabs
 
 # Oklahoma Unlimited HVAC Contractor Exam; Pre-Printed Tabs
 
-The Oklahoma Unlimited HVAC Contractor Exam; Pre-Printed Tabs is pre-printed tabs for the reference books for the HVACR Unlimited Contractor exam (Oklahoma), at $64.99. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
+The Oklahoma Unlimited HVAC Contractor Exam; Pre-Printed Tabs is pre-printed tabs for the reference books for the HVACR Unlimited Contractor exam (Oklahoma), at $64.99, 10% off the $72.25 list price. Books ship from our fulfillment center, 1 Exam Prep. Buy now goes straight to secure checkout at 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$64.99 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Oklahoma%20Unlimited%20HVAC%20Contractor%20Exam%3B%20Pre-Printed%20Tabs)
+$64.99 (was $72.25) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/31873880260665:1?attributes%5BSite%5D=passyourhvacexam.com&ref=passyourhvacexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep
@@ -22,7 +22,7 @@ $64.99 [Buy now, go to checkout](https://1examprep.com/search?type=product&q=Okl
 
 ## Key takeaways
 
-- Pre-Printed Tabs: $64.99.
+- Pre-Printed Tabs: $64.99, down from $72.25.
 - For the HVACR Unlimited Contractor exam; pre-printed tabs for the reference books.
 - The trade exam is open book: 90 questions in 240 minutes, passing score 70 percent (63 correct).
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
@@ -39,7 +39,23 @@ The Pre-Printed Tabs costs $64.99 and is written for the HVACR Unlimited Contrac
 
 ## About this HVACR Unlimited Contractor package
 
-Oklahoma Unlimited HVAC Contractor Exam; Pre-Printed Tabs is pre-printed tabs for the reference books for the Oklahoma HVACR Unlimited Contractor exam. The Oklahoma Construction Industries Board (CIB) licenses this work, and the candidate bulletin for your exam lists the references and editions allowed. Book packages ship free from Pass Your HVAC Exam by USPS Media Mail; online courses and practice questions arrive by email after purchase. Rental, Ultimate and 1 Package prices include a refundable book deposit, and those orders take up to 15 business days to prepare. Licensing exam questions are confidential, so the courses and practice questions are original material written to the same subjects. Buying study material does not register you for the exam; the board approves your application first.
+The Oklahoma Unlimited HVAC Contractor Exam; Pre-Printed Tabs by Pass Your HVAC Exam is an organizational aid aligned with the Oklahoma Construction Industries Board (CIB) licensing requirements. These tabs correspond to the reference books used in the Unlimited Mechanical and HVAC Contractor exams, covering subjects such as heating, air conditioning, ventilation systems, refrigeration, and mechanical code compliance. Each pre-printed label is designed for use with the official trade and business reference manuals recognized by PSI, the state’s designated testing vendor. These tabs allow candidates to efficiently locate key topics like load calculations, ductwork standards, fuel gas piping, and system design criteria. Pass Your HVAC Exam’s materials follow the latest CIB guidelines for unlimited mechanical certification, ensuring compliance with Oklahoma administrative code and mechanical licensing laws for both commercial and residential applications.
+
+Includes tabs for the following books:
+
+1. 2018 International Mechanical Code
+
+2. 2018 International Fuel Gas Code
+
+3. Modern Refrigeration and Air Conditioning, 22nd Edition
+
+4. Manual N - Load Calculations for Small Commercial Buildings, 5th Edition
+
+5. Mathematics for Plumbers and Pipefitters
+
+6. Code of Federal Regulations, OSHA 29 Part 1926
+
+*NOTE: TABS ONLY. NO HIGHLIGHTS FOR THE BOOKS ARE INCLUDED*
 
 ## How does the HVACR Unlimited Contractor exam work?
 
@@ -56,7 +72,7 @@ The HVACR Unlimited Contractor license comes from the Oklahoma Construction Indu
 [**Online Practice Questions** Oklahoma HVACR Unlimited Contractor Exam - Online Practice Q… $79.99](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/online-practice-exams/) · [**Online Exam Prep Course** Oklahoma HVACR Unlimited Contractor - Online Exam Prep Cours… $295](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/online-course/) · [**Live Virtual Training** Oklahoma HVACR Unlimited Contractor Exam Prep - Live Virtual… $595](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/live-training/) · [**Complete Book Package** Oklahoma HVACR Unlimited Contractor Exam Book Package $995](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/book-package/) · [**Highlighted and Tabbed Books** Oklahoma HVACR Unlimited Contractor Highlighted & Tabbed Boo… $1,395](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/highlighted-tabbed/) · [**Books and Courses Rental** Oklahoma HVACR Unlimited Contractor - Book Rental Package $2,020](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/rental-package/) · [**Ultimate Exam Prep Package** Oklahoma HVACR Unlimited Contractor Ultimate Exam Prep Renta… $2,745](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/ultimate-rental/) · [**The 1 Package (all-inclusive)** The 1 Package: All-Inclusive Oklahoma HVACR Unlimited Contra… $3,645](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/the-1-package/) [Compare every HVACR Unlimited Contractor package →](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/) [Choose a different license →](https://passyourhvacexam.com/)
 
 ### More Oklahoma licenses
-[All Oklahoma licenses](https://passyourhvacexam.com/oklahoma/) · [Refrigeration Journeyman](https://passyourhvacexam.com/oklahoma-refrigeration-journeyman/) · [Refrigeration Contractor](https://passyourhvacexam.com/oklahoma-refrigeration-contractor/) · [HVACR Limited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/) · [HVACR Unlimited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-journeyman/) · [HVACR Limited Contractor](https://passyourhvacexam.com/oklahoma-hvacr-limited-contractor/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
+[All Oklahoma licenses](https://passyourhvacexam.com/oklahoma/) · [HVACR Limited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/) · [HVACR Unlimited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-journeyman/) · [HVACR Limited Contractor](https://passyourhvacexam.com/oklahoma-hvacr-limited-contractor/) · [HVAC exam FAQ](https://passyourhvacexam.com/faq/) · [Study tips](https://passyourhvacexam.com/blog/)
 
 ## Questions before you buy
 
