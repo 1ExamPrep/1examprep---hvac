@@ -195,7 +195,9 @@ def head_extra(path, title, desc, image, rel, noindex=False, extra_ld=(), page_t
 ICON_PHONE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>'
 ICON_SEARCH = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>'
 def nav_tools(cta_html):
-    return ('<div class="nav-tools"><a class="nav-phone" href="tel:%s" aria-label="Call %s">%s<span>%s</span></a>'
+    es = ('<a class="nav-lang" data-lang href="https://translate.google.com/translate?sl=en&amp;tl=es&amp;u=%s" hreflang="es" lang="es" rel="nofollow noopener" aria-label="Ver esta p&aacute;gina en espa&ntilde;ol">'
+          '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg><span>Espa&ntilde;ol</span></a>' % esc(SITE or "https://passyourhvacexam.com/"))
+    return ('<div class="nav-tools">' + es + '<a class="nav-phone" href="tel:%s" aria-label="Call %s">%s<span>%s</span></a>'
             '<button type="button" class="nav-search" data-sopen aria-label="Search the site">%s</button>%s</div>' % (CFG["phoneTel"], CFG["phone"], ICON_PHONE, esc(CFG["phone"]), ICON_SEARCH, cta_html))
 POPULAR = ["florida-air-a-air-b-contractor", "arizona-cr-39-air-conditioning-refrigeration", "oklahoma-hvacr-unlimited-contractor", "north-carolina-heating-group-2-contractor", "georgia-conditioned-air-class-ii-unrestricted", "maryland-master-hvacr-contractor"]
 def footer(rel):
