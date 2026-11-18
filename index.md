@@ -155,6 +155,13 @@ Start with an online course, get the reference books highlighted and tabbed, or 
 
 Buy now opens secure checkout at 1 Exam Prep. Books ship free and online courses arrive by email, so you can start the same day.
 
+## What is new on the blog?
+
+Study plans and HVAC licensing news, each post checked against the board that sets the rule.
+
+[November 18, 2026**Best HVAC License Exam Prep Books for Refrigeration Certification: Pass Your HVAC Exam vs Competitors** Preparing for a refrigeration certification HVAC license exam requires focused study materials that cover mechanical refrigeration theory, relevant.](https://passyourhvacexam.com/blog/best-hvac-refrigeration-license-exam-prep-books/)
+[See every post](https://passyourhvacexam.com/blog/)
+
 ## What do people ask before buying?
 
 ### Which HVAC license do I need?

@@ -14,7 +14,7 @@ This blog has study plans, state licensing rules and exam strategy for HVAC, ref
 
 ## Key takeaways
 
-- 0 posts so far, written for HVAC, refrigeration and heating license candidates.
+- 1 post so far, written for HVAC, refrigeration and heating license candidates.
 - Topics cover study strategy, using the references and state HVAC licensing rules.
 - Exam prep for 49 HVAC licenses in 35 states and DC, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
@@ -22,8 +22,15 @@ This blog has study plans, state licensing rules and exam strategy for HVAC, ref
 Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourhvacexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
+[
+Latest
 
-No posts yet. The first one is on its way.
+## Best HVAC License Exam Prep Books for Refrigeration Certification: Pass Your HVAC Exam vs Competitors
+
+Preparing for a refrigeration certification HVAC license exam requires focused study materials that cover mechanical refrigeration theory, relevant state codes, and typical exam formats, including both trade and business law sections. Pass Your HVAC Exam specializes in this niche, offering books and
+
+November 18, 2026 10 min read
+](https://passyourhvacexam.com/blog/best-hvac-refrigeration-license-exam-prep-books/)
 
 ## Where should you start if your HVAC exam is coming up?
 
