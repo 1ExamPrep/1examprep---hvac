@@ -14,3 +14,5 @@
 })();
 /* Mark the current license in the side index. */
 (function(){var p=location.pathname.replace(/index\.html$/,"");document.querySelectorAll(".tx-rail a").forEach(function(a){var h=a.pathname.replace(/index\.html$/,"");if(h!=="/"&&p.indexOf(h)===0)a.setAttribute("aria-current","page");});})();
+/* State card pictures come from the store; show the logo mark if one fails to load. */
+(function(){document.querySelectorAll(".hv-st-img img").forEach(function(i){function f(){if(i.dataset.fb)return;i.dataset.fb=1;i.src="/shared/logo-mark.png";}i.addEventListener("error",f);if(i.complete&&!i.naturalWidth)f();});})();

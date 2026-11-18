@@ -20,6 +20,7 @@ sys.path.insert(0, os.path.join(ROOT, "tools"))
 import schemakit
 import blogkit
 import hvclass as vaclass, hvcopy as vacopy  # the Virginia names are kept so the shared code reads the same in every repo
+STATE_IMG = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "tools", "state_images.json")))
 
 tpl = open(os.path.join(ROOT, "store", "template.html"), encoding="utf-8").read()
 ptpl = open(os.path.join(ROOT, "store", "product.html"), encoding="utf-8").read()
@@ -381,7 +382,9 @@ def home_main():
     for g, gname, _ in vaclass.GROUPS:
         if g == "books" or not classes_in(g): continue
         cl, ps, lo, hi = state_stats(g)
-        rows.append('<li><a class="va-lic" href="%s"><b>%s</b><span class="va-n">%s &middot; %s</span><span class="va-p"><small>from</small> %s</span></a></li>' % (state_url(g), esc(gname), plural(len(cl), "license"), plural(len(ps), "package"), money(lo)))
+        img = STATE_IMG.get(g, "")
+        pic = ('<span class="hv-st-img"><img src="%s" alt="%s HVAC exam prep package" width="160" height="160" loading="lazy" decoding="async"></span>' % (esc(img + ("&" if "?" in img else "?") + "width=320"), esc(gname))) if img else ""
+        rows.append('<li><a class="va-lic hv-st" href="%s">%s<span class="hv-st-t"><b>%s</b><span class="va-n">%s &middot; %s</span><span class="va-p"><small>from</small> %s</span></span></a></li>' % (state_url(g), pic, esc(gname), plural(len(cl), "license"), plural(len(ps), "package"), money(lo)))
     states_sec = ('<section id="states" class="va-group" aria-labelledby="h-states"><div class="wrap"><h2 id="h-states">Which states do we cover?</h2><p class="sub-h">%d states and Washington DC. Each state page names the board that issues the license and lists every package for its exams.</p><ul class="va-lics hv-states">%s</ul></div></section>'
                   % (n_states - 1, "".join(rows)))
     trs = []
