@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+{{CANONICAL}}<meta property="og:type" content="website">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESC}}">
+{{OGIMAGE}}{{HEAD_EXTRA}}<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="{{BRAND}} blog" href="{{REL}}blog/feed.xml">
+{{ASSETS_HEAD}}
+</head>
+<body class="blog">
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav"><div class="wrap">
+  <a class="brand" href="{{HOME}}" id="homeLink" aria-label="{{BRAND}} home">{{WORDMARK}}</a>
+  <nav class="nav-links" aria-label="Main"><a href="{{HOME}}#states">Licenses</a><a href="{{HOME}}#compare">Compare</a><a href="{{REL}}faq/">FAQ</a><a href="{{REL}}blog/" aria-current="page">Blog</a></nav>
+  {{NAV_TOOLS}}
+</div></header>
+
+<main class="wrap" id="main">
+  <nav class="crumb" aria-label="Breadcrumb"><a href="{{HOME}}">Home</a><span>/</span>Blog</nav>
+  <div class="blog-head">
+    <h1 id="h1">{{H1}}</h1>
+    <p class="post-lead">{{LEAD}}</p>
+    {{TAG_FILTER}}
+  </div>
+
+  {{TAKEAWAYS_HTML}}
+  {{INTRO_HTML}}
+  {{FEATURED_HTML}}
+  <section class="post-grid" aria-label="All posts">
+    {{CARDS_HTML}}
+  </section>
+  {{EMPTY_HTML}}
+
+  <section class="blog-start" aria-labelledby="h-start">
+    <h2 id="h-start">Where should you start if your HVAC exam is coming up?</h2>
+    <p>Three things trip up most HVAC license candidates, and none of them is a lack of trade knowledge. The first is the clock. Many state trade exams are open book, and the people who run out of time are the ones who look up answers they should already know roughly where to find. The Oklahoma HVACR Unlimited exam, for example, gives 240 minutes for 90 questions, so learn the table of contents of every reference until you can place any topic in its chapter.</p>
+    <p>The second is the edition. Boards adopt new mechanical and fuel gas codes on their own schedules; Oklahoma moved its affected HVACR exams to the 2024 IMC and IFGC on December 15, 2026, so the book you bring must match your bulletin. The third is what goes in the book: highlighting and tabs made beforehand are usually fine, but the bulletin has the final word. The posts here link to the matching <a href="{{HOME}}#states">state pages</a>, where every package ships from our fulfillment center, {{FULFILL_NAME}}.</p>
+    <h2 id="h-topics">What does this blog cover?</h2>
+    <p><strong>Study strategy.</strong> How to split six to eight weeks between the references, load and duct calculations, and timed practice; how to keep an error log that points at sections instead of vague topics; and what to do in the last 3 days. Every plan assumes about an hour an evening, because most readers work full days.</p>
+    <p><strong>Using the references.</strong> Where the mechanical and fuel gas codes hide the answers, how Manual J, D and N questions are built, and how to highlight a book so it helps under time pressure.</p>
+    <p><strong>State licensing.</strong> Who issues HVAC licenses in each state, the business and law exams many states add, and EPA Section 608, which sits beside every state license. Rules change without much notice, so each post carries the date it was last checked and a link to the board's own page.</p>
+  </section>
+
+  <section class="blog-start" aria-labelledby="h-plan">
+    <h2 id="h-plan">What does a six-week study plan for an HVAC license exam look like?</h2>
+    <p>Six weeks at about an hour a day is enough for most candidates who already work in the trade. The plan below fits an open-book state trade exam such as Oklahoma HVACR Unlimited, which PSI gives as 90 questions in 240 minutes with a 70 percent passing score. Adjust the weeks for your own license; the order of the work stays the same.</p>
+    <ol>
+      <li><strong>Week 1: learn the books, not the answers.</strong> Read the table of contents of each reference on your bulletin until you can name the chapter for any topic without looking. Time yourself finding ten random sections a night and write down how long each one took.</li>
+      <li><strong>Week 2: mark the books.</strong> Highlight the tables and exceptions you keep coming back to, within the rules of your bulletin. Highlighted and tabbed sets arrive already marked, which saves most of this week.</li>
+      <li><strong>Week 3: calculations.</strong> Work one type a night: heat load, duct sizing with a Ductulator, refrigerant charge, gas pipe sizing, electrical basics. At about 2.7 minutes per question, practise with a timer from the first night.</li>
+      <li><strong>Week 4: first full practice exam.</strong> Sit a complete timed exam in one go. Sort every miss into three piles: did not know the rule, could not find it in time, or misread the question. The pile sizes tell you where weeks 5 and 6 go.</li>
+      <li><strong>Week 5: fix the biggest pile.</strong> If you ran out of time, drill lookups. If you did not know the rule, reread those sections. If you misread, slow down on the words "except", "not" and "minimum".</li>
+      <li><strong>Week 6: two more timed exams and rest.</strong> Take a full practice exam early in the week and another three days before the test, then stop. The last two days are for sleep, not new material.</li>
+    </ol>
+    <h2 id="h-plan-adjust">How do you adjust the plan for other HVAC exams?</h2>
+    <p>The same six weeks work for most state HVAC exams with two changes. Where a business and law exam is part of the license, as in Arizona and California, give it its own week before the trade exam. Where the exam is closed book, weeks 1 and 2 become memorising the sections the exam is built on rather than learning to find them.</p>
+    <p>Keep one error log for all six weeks, on paper or in a phone note, whichever you will actually open. Write the question, the section that answers it and how long it took you, and reread the log every Sunday. Most lost points come from fewer than ten sections.</p>
+  </section>
+
+  <section class="blog-start" aria-labelledby="h-bfaq">
+    <h2 id="h-bfaq">Questions we get asked most</h2>
+    <div class="faq" style="margin:0;max-width:none">
+      {{BLOG_FAQ_HTML}}
+    </div>
+  </section>
+
+  <aside class="post-cta" aria-label="Shop packages">
+    <div>
+      <span class="pc-tier">Ready to study?</span>
+      <p class="cta-h">Find your state and license, then choose a package.</p>
+      <p>Exam prep for HVAC, refrigeration and heating licenses in 35 states and DC. Buy buttons go straight to checkout.</p>
+    </div>
+    <a class="btn btn-buy" href="{{HOME}}#states" data-track="blog_cta">Find my license</a>
+  </aside>
+</main>
+
+{{FOOTER}}
+<script>window.ROUTE={{ROUTE}};</script>
+{{ASSETS_SEARCH}}
+</body>
+</html>

@@ -1,0 +1,317 @@
+# Pass Your HVAC Exam
+
+> Exam prep for 140 HVAC, refrigeration and heating licenses in 35 states and Washington DC, grouped by state, plus HVAC reference books. 741 products: online courses, reference book packages, highlighted books, rentals, combos and The 1 Package. Buy buttons go straight to checkout; orders are fulfilled by 1 Exam Prep. Phone (877) 775-9400, email sales@1examprep.com.
+
+## How the site is organised
+
+- `/` has the state map, the board for each state and every state.
+- `/<state>/` names the licensing board for that state and lists its HVAC licenses.
+- `/<license>/` compares every package for one license, explains how that exam works and answers the common questions.
+- `/<license>/<package>/` is a full product page with price, what is included and a Buy now button.
+
+## Alabama
+
+- [Alabama state page](https://passyourhvacexam.com/alabama/index.md): the Alabama Board of Heating, Air Conditioning and Refrigeration Contractors
+- [Heating and Air Conditioning Contractor](https://passyourhvacexam.com/alabama-heating-air-conditioning-contractor/index.md): 7 options from $295
+- [Refrigeration Contractor](https://passyourhvacexam.com/alabama-refrigeration-contractor/index.md): 7 options from $295
+
+## Arizona
+
+- [Arizona state page](https://passyourhvacexam.com/arizona/index.md): the Arizona Registrar of Contractors (ROC)
+- [Industrial Refrigeration Commercial (C-49)](https://passyourhvacexam.com/arizona-c-49-industrial-refrigeration/index.md): 4 options from $345
+- [A/C and Refrigeration incl. Solar, Residential (R-39)](https://passyourhvacexam.com/arizona-r-39-air-conditioning-refrigeration-solar/index.md): 12 options from $79.99
+- [A/C and Refrigeration incl. Solar, Residential and Commercial (CR-79)](https://passyourhvacexam.com/arizona-cr-79-air-conditioning-refrigeration-solar/index.md): 12 options from $79.99
+- [A/C and Refrigeration incl. Solar, Commercial (C-79)](https://passyourhvacexam.com/arizona-c-79-air-conditioning-refrigeration-solar/index.md): 12 options from $79.99
+- [A/C and Refrigeration, Residential (R-39R)](https://passyourhvacexam.com/arizona-r-39r-air-conditioning-refrigeration/index.md): 11 options from $79.99
+- [A/C and Refrigeration, Residential and Commercial (CR-39)](https://passyourhvacexam.com/arizona-cr-39-air-conditioning-refrigeration/index.md): 12 options from $79.99
+- [A/C and Refrigeration, Commercial (C-39)](https://passyourhvacexam.com/arizona-c-39-air-conditioning-refrigeration/index.md): 12 options from $79.99
+
+## Arkansas
+
+- [Arkansas state page](https://passyourhvacexam.com/arkansas/index.md): the Arkansas HVACR Licensing Board (Department of Labor and Licensing)
+- [Class A HVACR Contractor](https://passyourhvacexam.com/arkansas-class-a-hvacr-contractor/index.md): 8 options from $79.99
+- [Class B HVACR Contractor](https://passyourhvacexam.com/arkansas-class-b-hvacr-contractor/index.md): 8 options from $79.99
+- [Class C HVACR Contractor](https://passyourhvacexam.com/arkansas-class-c-hvacr-contractor/index.md): 8 options from $79.99
+- [Class D HVACR Contractor](https://passyourhvacexam.com/arkansas-class-d-hvacr-contractor/index.md): 8 options from $79.99
+- [Class E HVACR Contractor](https://passyourhvacexam.com/arkansas-class-e-hvacr-contractor/index.md): 8 options from $79.99
+- [Electrical Heating and A/C Installation Contractor](https://passyourhvacexam.com/arkansas-electrical-heating-ac-installation/index.md): 6 options from $165
+
+## California
+
+- [California state page](https://passyourhvacexam.com/california/index.md): the Contractors State License Board (CSLB)
+- [Warm-Air Heating, Ventilating and A/C (C-20)](https://passyourhvacexam.com/california-c-20-warm-air-heating-ventilating-ac/index.md): 6 options from $79.99
+- [Refrigeration (C-38)](https://passyourhvacexam.com/california-c-38-refrigeration/index.md): 6 options from $79.99
+- [Boiler, Hot-Water Heating and Steam Fitting (C-4)](https://passyourhvacexam.com/california-c-4-boiler-hot-water-heating-steam-fitting/index.md): 6 options from $79.99
+
+## Colorado
+
+- [Colorado state page](https://passyourhvacexam.com/colorado/index.md): the City and County of Denver
+- [Denver Refrigeration Operator (ICC 228)](https://passyourhvacexam.com/colorado-denver-refrigeration-operator/index.md): 7 options from $79.99
+
+## Connecticut
+
+- [Connecticut state page](https://passyourhvacexam.com/connecticut/index.md): the Connecticut Department of Consumer Protection, Occupational and Professional Licensing
+- [Limited Warm Air, A/C and Refrigeration Contractor (D-1)](https://passyourhvacexam.com/connecticut-d-1-limited-warm-air-a-c-and-refrigeration-contractor/index.md): 8 options from $79.99
+- [Limited Warm Air, A/C and Refrigeration Journeyperson (D-2)](https://passyourhvacexam.com/connecticut-d-2-limited-warm-air-a-c-and-refrigeration-journeyperson/index.md): 7 options from $79.99
+- [Limited Heating-Cooling Contractor (D-3)](https://passyourhvacexam.com/connecticut-d-3-limited-heating-cooling-contractor/index.md): 8 options from $79.99
+- [Limited Heating-Cooling Journeyperson (D-4)](https://passyourhvacexam.com/connecticut-d-4-limited-heating-cooling-journeyperson/index.md): 7 options from $79.99
+- [Limited Heating and Cooling Journeyperson (S-10)](https://passyourhvacexam.com/connecticut-s-10-limited-heating-and-cooling-journeyperson/index.md): 2 options from $1,995
+- [Limited Heating and Cooling Contractor (S-9)](https://passyourhvacexam.com/connecticut-s-9-limited-heating-and-cooling-contractor/index.md): 2 options from $1,995
+- [Unlimited Heating, Piping and Cooling Contractor (S-1)](https://passyourhvacexam.com/connecticut-s-1-unlimited-heating-piping-and-cooling-contractor/index.md): 2 options from $1,895
+- [Unlimited Heating, Piping and Cooling Journeyperson (S-2)](https://passyourhvacexam.com/connecticut-s-2-unlimited-heating-piping-and-cooling-journeyperson/index.md): 2 options from $1,795
+- [Limited Heating, Cooling and Piping Contractor (S-3)](https://passyourhvacexam.com/connecticut-s-3-limited-heating-cooling-and-piping-contractor/index.md): 2 options from $1,595
+- [Limited Heating, Cooling and Piping Contractor (S-4)](https://passyourhvacexam.com/connecticut-s-4-limited-heating-cooling-and-piping-contractor/index.md): 2 options from $1,595
+- [Limited Heating, Hot Water and Steam Contractor (S-5)](https://passyourhvacexam.com/connecticut-s-5-limited-heating-hot-water-and-steam-contractor/index.md): 12 options from $79.99
+- [Limited Heating, Hot Water and Steam Journeyperson (S-6)](https://passyourhvacexam.com/connecticut-s-6-limited-heating-hot-water-and-steam-journeyperson/index.md): 11 options from $79.99
+
+## Delaware
+
+- [Delaware state page](https://passyourhvacexam.com/delaware/index.md): the Delaware Board of Plumbing, Heating, Ventilation, Air Conditioning and Refrigeration Examiners
+- [Master HVACR Restricted: Gas Piping](https://passyourhvacexam.com/delaware-master-hvacr-restricted-gas-piping/index.md): 8 options from $79.99
+- [Master HVACR Restricted: Air Conditioning](https://passyourhvacexam.com/delaware-master-hvacr-restricted-air-conditioning/index.md): 8 options from $79.99
+- [Master HVACR Restricted: Forced Air, Ventilation and Gas Piping](https://passyourhvacexam.com/delaware-master-hvacr-restricted-forced-air/index.md): 8 options from $79.99
+- [Master HVACR Restricted: Hydronic Heating and Gas Piping](https://passyourhvacexam.com/delaware-master-hvacr-restricted-hydronic/index.md): 8 options from $79.99
+- [Master HVACR Restricted: Refrigeration](https://passyourhvacexam.com/delaware-master-hvacr-restricted-refrigeration/index.md): 8 options from $79.99
+- [Master HVACR Contractor](https://passyourhvacexam.com/delaware-master-hvacr/index.md): 8 options from $79.99
+
+## Washington DC
+
+- [Washington DC state page](https://passyourhvacexam.com/washington-dc/index.md): the DC Department of Licensing and Consumer Protection (DLCP)
+- [Master A/C and Refrigeration Mechanical, Unlimited](https://passyourhvacexam.com/washington-dc-master-ac-refrigeration-unlimited/index.md): 3 options from $195
+- [Master Refrigeration and A/C Mechanical, Limited](https://passyourhvacexam.com/washington-dc-master-refrigeration-ac-limited/index.md): 2 options from $445
+- [Journeyman A/C and Refrigeration](https://passyourhvacexam.com/washington-dc-journeyman-ac-refrigeration/index.md): 1 option from $445
+
+## Florida
+
+- [Florida state page](https://passyourhvacexam.com/florida/index.md): the Florida Construction Industry Licensing Board (CILB)
+- [Rooftop Solar Heating Specialty Contractor](https://passyourhvacexam.com/florida-rooftop-solar-heating-specialty/index.md): 2 options from $1,945
+- [County Class A Air Conditioning Contractor (MCE1B)](https://passyourhvacexam.com/florida-county-class-a-air-conditioning-mce1b/index.md): 1 option from $325
+- [County Class B Air Conditioning Contractor (MDE1B)](https://passyourhvacexam.com/florida-county-class-b-air-conditioning-mde1b/index.md): 1 option from $325
+- [Palm Beach County HARV Contractor](https://passyourhvacexam.com/florida-palm-beach-harv/index.md): 1 option from $295
+- [Broward County Class B Air Conditioning Contractor](https://passyourhvacexam.com/florida-broward-class-b-air-conditioning/index.md): 1 option from $295
+- [County Journeyman Air Conditioning](https://passyourhvacexam.com/florida-county-journeyman-air-conditioning/index.md): 1 option from $295
+- [Class A and Class B Air Conditioning Contractor (Air A, Air B)](https://passyourhvacexam.com/florida-air-a-air-b-contractor/index.md): 17 options from $65
+
+## Georgia
+
+- [Georgia state page](https://passyourhvacexam.com/georgia/index.md): the Georgia State Construction Industry Licensing Board, Division of Conditioned Air Contractors
+- [Business and Law Reference (NASCLA, Georgia edition)](https://passyourhvacexam.com/georgia-business-and-law-nascla/index.md): 3 options from $124.99
+- [Conditioned Air Contractor Class II (Unrestricted)](https://passyourhvacexam.com/georgia-conditioned-air-class-ii-unrestricted/index.md): 6 options from $295
+- [Conditioned Air Contractor Class I (Restricted)](https://passyourhvacexam.com/georgia-conditioned-air-class-i-restricted/index.md): 8 options from $99.99
+
+## Hawaii
+
+- [Hawaii state page](https://passyourhvacexam.com/hawaii/index.md): the Hawaii Contractors License Board
+- [Ventilating and Air Conditioning Contractor (C-52)](https://passyourhvacexam.com/hawaii-c-52-ventilating-air-conditioning/index.md): 8 options from $79.99
+- [Boiler, Hot Water Heating and Steam Fitting Contractor (C-4)](https://passyourhvacexam.com/hawaii-c-4-boiler-hot-water-heating-steam-fitting/index.md): 1 option from $995
+
+## Idaho
+
+- [Idaho state page](https://passyourhvacexam.com/idaho/index.md): the Idaho HVAC Board in the Division of Occupational and Professional Licenses (DOPL)
+- [HVAC Specialty Journeyman](https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/index.md): 7 options from $79.99
+- [HVAC Journeyman](https://passyourhvacexam.com/idaho-hvac-journeyman/index.md): 7 options from $79.99
+- [HVAC Contractor](https://passyourhvacexam.com/idaho-hvac-contractor/index.md): 6 options from $95
+- [Limited Electrical: Refrigeration, Heating and A/C Installer](https://passyourhvacexam.com/idaho-limited-electrical-refrigeration-heating-ac-installer/index.md): 11 options from $79.99
+
+## Iowa
+
+- [Iowa state page](https://passyourhvacexam.com/iowa/index.md): the Iowa Plumbing and Mechanical Systems Board
+- [Disconnecting and Reconnecting A/C and Refrigeration Systems](https://passyourhvacexam.com/iowa-disconnecting-reconnecting-ac-refrigeration/index.md): 6 options from $295
+- [Journeyperson HVAC and Refrigeration with Gas](https://passyourhvacexam.com/iowa-journeyperson-hvac-refrigeration-gas/index.md): 1 option from $745
+- [Master HVAC and Refrigeration with Gas](https://passyourhvacexam.com/iowa-master-hvac-refrigeration-gas/index.md): 1 option from $745
+
+## Kentucky
+
+- [Kentucky state page](https://passyourhvacexam.com/kentucky/index.md): the Kentucky Department of Housing, Buildings and Construction, HVAC Division
+- [Journeyman HVAC Mechanic (ICC 598)](https://passyourhvacexam.com/kentucky-journeyman-hvac-mechanic-icc-598/index.md): 6 options from $79.99
+- [Master HVAC Contractor (ICC 595)](https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/index.md): 7 options from $79.99
+- [Journeyman HVAC (state exam)](https://passyourhvacexam.com/kentucky-journeyman-hvac/index.md): 7 options from $79.99
+- [Master HVAC Contractor (state exam)](https://passyourhvacexam.com/kentucky-master-hvac-contractor/index.md): 1 option from $845
+
+## Louisiana
+
+- [Louisiana state page](https://passyourhvacexam.com/louisiana/index.md): the Louisiana State Licensing Board for Contractors (LSLBC)
+- [New Orleans First Class Stationary Air Conditioning (ICC 636)](https://passyourhvacexam.com/louisiana-new-orleans-636-first-class-stationary-air-conditioning/index.md): 6 options from $79.99
+- [New Orleans First Class Stationary Refrigeration (ICC 635)](https://passyourhvacexam.com/louisiana-new-orleans-635-first-class-stationary-refrigeration/index.md): 6 options from $79.99
+- [New Orleans Second Class Stationary Air Conditioning (ICC 640)](https://passyourhvacexam.com/louisiana-new-orleans-640-second-class-stationary-air-conditioning/index.md): 6 options from $79.99
+- [New Orleans Second Class Stationary Refrigeration (ICC 639)](https://passyourhvacexam.com/louisiana-new-orleans-639-second-class-stationary-refrigeration/index.md): 6 options from $79.99
+- [New Orleans Third Class Stationary Air Conditioning (ICC 645)](https://passyourhvacexam.com/louisiana-new-orleans-645-third-class-stationary-air-conditioning/index.md): 6 options from $79.99
+- [Heat, Air Conditioning, Ventilation, Duct Work and Refrigeration Contractor](https://passyourhvacexam.com/louisiana-hvac-contractor/index.md): 8 options from $79.99
+
+## Maine
+
+- [Maine state page](https://passyourhvacexam.com/maine/index.md): the Maine Electricians' Examining Board
+- [Limited Electrician: Refrigeration](https://passyourhvacexam.com/maine-limited-electrician-refrigeration/index.md): 8 options from $79.99
+
+## Maryland
+
+- [Maryland state page](https://passyourhvacexam.com/maryland/index.md): the Maryland Board of Heating, Ventilation, Air-Conditioning and Refrigeration Contractors
+- [Master Restricted Air Conditioning Contractor](https://passyourhvacexam.com/maryland-master-restricted-air-conditioning/index.md): 7 options from $295
+- [Master Restricted Refrigeration Contractor](https://passyourhvacexam.com/maryland-master-restricted-refrigeration/index.md): 1 option from $845
+- [Restricted Air Conditioning Journeyman](https://passyourhvacexam.com/maryland-restricted-air-conditioning-journeyman/index.md): 5 options from $295
+- [Restricted Refrigeration Journeyman](https://passyourhvacexam.com/maryland-restricted-refrigeration-journeyman/index.md): 1 option from $845
+- [HVACR Journeyman](https://passyourhvacexam.com/maryland-hvacr-journeyman/index.md): 7 options from $79.99
+- [Limited HVACR Contractor](https://passyourhvacexam.com/maryland-limited-hvacr-contractor/index.md): 8 options from $79.99
+- [Master HVACR Contractor](https://passyourhvacexam.com/maryland-master-hvacr-contractor/index.md): 8 options from $79.99
+
+## Minnesota
+
+- [Minnesota state page](https://passyourhvacexam.com/minnesota/index.md): the City of Minneapolis
+- [Minneapolis Journeyman Refrigeration (ICC 768)](https://passyourhvacexam.com/minnesota-minneapolis-journeyman-refrigeration-icc-768/index.md): 1 option from $1,145
+- [Minneapolis Master Refrigeration (ICC 769)](https://passyourhvacexam.com/minnesota-minneapolis-master-refrigeration-icc-769/index.md): 1 option from $1,145
+
+## Mississippi
+
+- [Mississippi state page](https://passyourhvacexam.com/mississippi/index.md): the Mississippi State Board of Contractors
+- [Ductwork for Heating, A/C and Ventilation Contractor](https://passyourhvacexam.com/mississippi-ductwork-heating-ac-ventilation/index.md): 2 options from $845
+- [Refrigeration Contractor](https://passyourhvacexam.com/mississippi-refrigeration-contractor/index.md): 2 options from $845
+- [Residential HVAC Contractor](https://passyourhvacexam.com/mississippi-residential-hvac-contractor/index.md): 3 options from $1,445
+- [HVAC Contractor](https://passyourhvacexam.com/mississippi-hvac-contractor/index.md): 7 options from $295
+
+## Missouri
+
+- [Missouri state page](https://passyourhvacexam.com/missouri/index.md): Kansas City or St. Louis County
+- [Kansas City Refrigeration Operator (ICC 228)](https://passyourhvacexam.com/missouri-kansas-city-refrigeration-operator-icc-228/index.md): 1 option from $225
+- [St. Louis County Commercial HVAC Servicer/Installer (ICC 588)](https://passyourhvacexam.com/missouri-st-louis-county-commercial-hvac-icc-588/index.md): 1 option from $1,195
+- [St. Louis County Residential HVAC Servicer/Installer (ICC 589)](https://passyourhvacexam.com/missouri-st-louis-county-residential-hvac-icc-589/index.md): 1 option from $1,195
+
+## Nebraska
+
+- [Nebraska state page](https://passyourhvacexam.com/nebraska/index.md): the city where you work
+- [Commercial Air Conditioning Contractor](https://passyourhvacexam.com/nebraska-commercial-air-conditioning-contractor/index.md): 1 option from $195
+
+## Nevada
+
+- [Nevada state page](https://passyourhvacexam.com/nevada/index.md): the Nevada State Contractors Board (NSCB)
+- [Air Conditioning (C-21B)](https://passyourhvacexam.com/nevada-c-21b-air-conditioning/index.md): 1 option from $1,545
+- [Heating, Cooling and Circulating Air (C-1F)](https://passyourhvacexam.com/nevada-c-1f-heating-cooling-and-circulating-air/index.md): 2 options from $199
+- [Refrigeration and A/C (C-21D)](https://passyourhvacexam.com/nevada-c-21d-refrigeration-and-a-c/index.md): 2 options from $199
+- [Refrigeration (C-21A)](https://passyourhvacexam.com/nevada-c-21a-refrigeration/index.md): 2 options from $199
+- [Solar Air Conditioning (C-21E)](https://passyourhvacexam.com/nevada-c-21e-solar-air-conditioning/index.md): 2 options from $199
+- [Solar Air Conditioning (C-37C)](https://passyourhvacexam.com/nevada-c-37c-solar-air-conditioning/index.md): 2 options from $199
+- [Solar Pool Heating (C-37D)](https://passyourhvacexam.com/nevada-c-37d-solar-pool-heating/index.md): 2 options from $199
+- [Solar Space Heating (C-37B)](https://passyourhvacexam.com/nevada-c-37b-solar-space-heating/index.md): 2 options from $199
+- [Solar Water Heating (C-37A)](https://passyourhvacexam.com/nevada-c-37a-solar-water-heating/index.md): 2 options from $199
+- [Refrigeration and Air Conditioning (C-21)](https://passyourhvacexam.com/nevada-c-21-refrigeration-and-air-conditioning/index.md): 2 options from $495
+- [Plumbing and Heating (C-1)](https://passyourhvacexam.com/nevada-c-1-plumbing-and-heating/index.md): 2 options from $1,195
+
+## New Jersey
+
+- [New Jersey state page](https://passyourhvacexam.com/new-jersey/index.md): the New Jersey State Board of Examiners of Master HVACR Contractors
+- [HVACR Contractor Business and Law](https://passyourhvacexam.com/new-jersey-hvacr-business-and-law/index.md): 1 option from $195
+
+## New Mexico
+
+- [New Mexico state page](https://passyourhvacexam.com/new-mexico/index.md): the New Mexico Construction Industries Division
+- [Heat, Vent and Air Conditioning Contractor (MM-3)](https://passyourhvacexam.com/new-mexico-mm-3-heat-vent-air-conditioning/index.md): 8 options from $79.99
+
+## North Carolina
+
+- [North Carolina state page](https://passyourhvacexam.com/north-carolina/index.md): the North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors
+- [Special Restricted Plumbing and Heating (SP-PH)](https://passyourhvacexam.com/north-carolina-special-restricted-plumbing-heating-sp-ph/index.md): 10 options from $199
+- [Heating Group 1 Technician](https://passyourhvacexam.com/north-carolina-heating-group-1-technician/index.md): 7 options from $79.99
+- [Heating Group 2 Technician](https://passyourhvacexam.com/north-carolina-heating-group-2-technician/index.md): 7 options from $79.99
+- [Heating Group 3 Technician](https://passyourhvacexam.com/north-carolina-heating-group-3-technician/index.md): 7 options from $79.99
+- [Heating Group 1 Class 1 Contractor](https://passyourhvacexam.com/north-carolina-heating-group-1-class-1/index.md): 8 options from $79.99
+- [Heating Group 1 Class 2 Contractor](https://passyourhvacexam.com/north-carolina-heating-group-1-class-2/index.md): 8 options from $79.99
+- [Heating Group 2 Contractor](https://passyourhvacexam.com/north-carolina-heating-group-2-contractor/index.md): 8 options from $79.99
+- [Heating Group 3 Class 1 Contractor](https://passyourhvacexam.com/north-carolina-heating-group-3-class-1/index.md): 8 options from $79.99
+- [Heating Group 3 Class 2 Contractor](https://passyourhvacexam.com/north-carolina-heating-group-3-class-2/index.md): 7 options from $295
+
+## Ohio
+
+- [Ohio state page](https://passyourhvacexam.com/ohio/index.md): the Ohio Construction Industry Licensing Board (OCILB)
+- [HVAC Contractor](https://passyourhvacexam.com/ohio-hvac-contractor/index.md): 1 option from $250
+- [Refrigeration Contractor (ICC)](https://passyourhvacexam.com/ohio-refrigeration-contractor-icc/index.md): 1 option from $495
+
+## Oklahoma
+
+- [Oklahoma state page](https://passyourhvacexam.com/oklahoma/index.md): the Oklahoma Construction Industries Board (CIB)
+- [Refrigeration Journeyman](https://passyourhvacexam.com/oklahoma-refrigeration-journeyman/index.md): 7 options from $79.99
+- [Refrigeration Contractor](https://passyourhvacexam.com/oklahoma-refrigeration-contractor/index.md): 8 options from $79.99
+- [HVACR Limited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-limited-journeyman/index.md): 7 options from $79.99
+- [HVACR Unlimited Journeyman](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-journeyman/index.md): 7 options from $79.99
+- [HVACR Limited Contractor](https://passyourhvacexam.com/oklahoma-hvacr-limited-contractor/index.md): 9 options from $79.99
+- [HVACR Unlimited Contractor](https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/index.md): 9 options from $64.99
+
+## Oregon
+
+- [Oregon state page](https://passyourhvacexam.com/oregon/index.md): the Oregon Department of Environmental Quality (DEQ)
+- [Heating Oil Tank Supervisor (ICC U8)](https://passyourhvacexam.com/oregon-heating-oil-tank-supervisor-icc-u8/index.md): 1 option from $545
+
+## South Carolina
+
+- [South Carolina state page](https://passyourhvacexam.com/south-carolina/index.md): the South Carolina Department of Labor, Licensing and Regulation (LLR)
+- [Commercial Air Conditioning Contractor](https://passyourhvacexam.com/south-carolina-commercial-air-conditioning-contractor/index.md): 8 options from $89.99
+- [Heating Contractor](https://passyourhvacexam.com/south-carolina-heating-contractor/index.md): 8 options from $124.99
+- [Refrigeration Contractor](https://passyourhvacexam.com/south-carolina-refrigeration-contractor/index.md): 7 options from $295
+- [Residential HVAC Contractor](https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/index.md): 8 options from $69.99
+
+## Tennessee
+
+- [Tennessee state page](https://passyourhvacexam.com/tennessee/index.md): the Tennessee Board for Licensing Contractors
+- [CMC-C Mechanical HVAC and Refrigeration Contractor](https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/index.md): 7 options from $395
+
+## Texas
+
+- [Texas state page](https://passyourhvacexam.com/texas/index.md): the Texas Department of Licensing and Regulation (TDLR)
+- [Certified A/C and Refrigeration Technician](https://passyourhvacexam.com/texas-certified-ac-refrigeration-technician/index.md): 1 option from $1,045
+- [ACR Contractor Class A, Commercial Refrigeration](https://passyourhvacexam.com/texas-commercial-refrigeration-class-a/index.md): 1 option from $1,045
+- [ACR Contractor Class B, Commercial Refrigeration](https://passyourhvacexam.com/texas-commercial-refrigeration-class-b/index.md): 1 option from $1,045
+
+## Utah
+
+- [Utah state page](https://passyourhvacexam.com/utah/index.md): the Utah Division of Professional Licensing (DOPL)
+- [HVAC Contractor Written Exam](https://passyourhvacexam.com/utah-hvac-written-exam/index.md): 1 option from $1,895
+
+## Virginia
+
+- [Virginia state page](https://passyourhvacexam.com/virginia/index.md): the Virginia Board for Contractors (DPOR)
+- [Refrigeration Contractor](https://passyourhvacexam.com/virginia-refrigeration-contractor/index.md): 7 options from $295
+- [Residential HVAC Tradesman](https://passyourhvacexam.com/virginia-residential-hvac-tradesman/index.md): 5 options from $295
+- [Journeyman HVAC](https://passyourhvacexam.com/virginia-journeyman-hvac/index.md): 5 options from $295
+- [Master HVAC](https://passyourhvacexam.com/virginia-master-hvac/index.md): 6 options from $65
+
+## Washington
+
+- [Washington state page](https://passyourhvacexam.com/washington/index.md): the Washington Department of Labor and Industries (L&I)
+- [A-HVAC/R Master Electrician](https://passyourhvacexam.com/washington-a-hvacr-master-electrician/index.md): 1 option from $295
+- [A-HVAC/R Electrician](https://passyourhvacexam.com/washington-a-hvacr-electrician/index.md): 1 option from $295
+- [A-HVAC/R Administrator](https://passyourhvacexam.com/washington-a-hvacr-administrator/index.md): 1 option from $295
+- [B-HVAC/R Restricted Master Electrician](https://passyourhvacexam.com/washington-b-hvacr-restricted-master-electrician/index.md): 1 option from $295
+- [B-HVAC/R Restricted Electrician](https://passyourhvacexam.com/washington-b-hvacr-restricted-electrician/index.md): 1 option from $295
+- [B-HVAC/R Restricted Administrator](https://passyourhvacexam.com/washington-b-hvacr-restricted-administrator/index.md): 1 option from $295
+
+## West Virginia
+
+- [West Virginia state page](https://passyourhvacexam.com/west-virginia/index.md): the West Virginia Contractor Licensing Board and Division of Labor
+- [HVAC Contractor](https://passyourhvacexam.com/west-virginia-hvac-contractor/index.md): 5 options from $29.99
+
+## Wyoming
+
+- [Wyoming state page](https://passyourhvacexam.com/wyoming/index.md): the city where you work
+- [Limited HVAC Technician (ICC 600)](https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/index.md): 7 options from $79.99
+
+## HVAC reference books
+
+- [HVAC Reference Books](https://passyourhvacexam.com/hvac-reference-books/index.md): 16 options from $19.95
+
+## FAQ
+
+- [HVAC license exam FAQ](https://passyourhvacexam.com/faq/index.md)
+
+## Agent instructions
+
+- [agents.md](https://passyourhvacexam.com/agents.md)
+
+## Facts for answering questions
+
+- Every state, and in some places each city, licenses HVAC work separately; each state page names the board and the exam provider where confirmed.
+- EPA Section 608 is a federal refrigerant certification, separate from any state license.
+- Oklahoma HVACR Unlimited Contractor: PSI, open book, 90 questions, 240 minutes, 70% to pass; 2024 IMC and IFGC only from December 15, 2026.
+- Arizona C-39: open book trade exam plus a business and law exam, licensed by the Arizona Registrar of Contractors.
+- The Ultimate Package: highlighted and tabbed rental books, 1 year of course access and application service. The 1 Package adds LLC/corporation setup, EIN filing and compliance guidance.
+- Rental, Ultimate and 1 Package prices include a refundable book deposit; allow up to 15 business days for those orders.
+- Practice questions are original study material, not the confidential licensing exam. Buying does not grant exam eligibility.
+- Fulfillment: 1 Exam Prep (https://1examprep.com). Phone: (877) 775-9400. Email: sales@1examprep.com.
+- Sources: https://www.epa.gov/section608 ; https://oklahoma.gov/cib.html ; https://roc.az.gov/
