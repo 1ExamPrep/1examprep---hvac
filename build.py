@@ -199,12 +199,14 @@ def nav_tools(cta_html):
             '<button type="button" class="nav-search" data-sopen aria-label="Search the site">%s</button>%s</div>' % (CFG["phoneTel"], CFG["phone"], ICON_PHONE, esc(CFG["phone"]), ICON_SEARCH, cta_html))
 POPULAR = ["florida-air-a-air-b-contractor", "arizona-cr-39-air-conditioning-refrigeration", "oklahoma-hvacr-unlimited-contractor", "north-carolina-heating-group-2-contractor", "georgia-conditioned-air-class-ii-unrestricted", "maryland-master-hvacr-contractor"]
 def footer(rel):
+    return _footer(rel).replace("{{FOOTLOGO}}", '<img class="brand-img" src="%sshared/logo-nav-light.png" alt="%s" width="208" height="69" decoding="async">' % (rel or "/", esc(BRAND)))
+def _footer(rel):
     home = rel or "./"
     soc = "".join('<li><a href="%s" rel="noopener" target="_blank">%s</a></li>' % (esc(u), k.capitalize()) for k, u in CFG.get("social", {}).items() if u)
     pop = "".join('<li><a href="%s%s/">%s</a></li>' % (rel, s_, esc(state_name(CLASSES[s_]["group"]) + " " + CLASSES[s_]["name"].split(" (")[0])) for s_ in POPULAR if s_ in CLASSES)
     sts = "".join('<li><a href="%s">%s</a></li>' % (state_url(g, rel), esc(n)) for g, n, _ in vaclass.GROUPS if g != "books" and classes_in(g))
     return ('<footer class="site-footer"><div class="wrap"><div class="cols">'
-            '<div><a class="brand" href="%s">{{WORDMARK}}</a><p>%s</p><p class="contact"><a href="tel:%s">%s</a><a href="mailto:%s">%s</a></p></div>'
+            '<div><a class="brand" href="%s">{{FOOTLOGO}}</a><p>%s</p><p class="contact"><a href="tel:%s">%s</a><a href="mailto:%s">%s</a></p></div>'
             '<nav aria-label="Popular licenses"><h2>Popular licenses</h2><ul>%s<li><a href="%s#states">All %d licenses</a></li></ul></nav>'
             '<nav aria-label="States" class="foot-states"><h2>States</h2><ul>%s</ul></nav>'
             '<nav aria-label="Help"><h2>Help</h2><ul><li><a href="%sfaq/">FAQ</a></li><li><a href="%sblog/">Blog</a></li><li><a href="%shvac-reference-books/">Reference books</a></li><li><a href="%ssearch/">Search</a></li>%s</ul></nav></div>'

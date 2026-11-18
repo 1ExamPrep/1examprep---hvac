@@ -127,9 +127,10 @@ a{color:var(--accent-text)}
 @media (min-width:1100px){main#main{position:relative}.tx-qf{position:absolute;right:max(1.2rem,calc((100vw - 1180px)/2));top:1.6rem;width:300px;z-index:6}.hero--class .wrap>*{max-width:calc(100% - 340px)}.tx-tabs .wrap{padding-right:340px}}
 @media (max-width:1099px){.tx-qf{width:min(1180px,100% - 2rem);margin:1.4rem auto 0}}
 .site-footer{background:var(--ink);color:#c9d6ea}.site-footer a{color:#c9d6ea}.site-footer h2{color:#fff}
-.foot-states ul{columns:3;column-gap:1.2rem}.foot-states li{break-inside:avoid}
-.site-footer .cols{grid-template-columns:1.2fr .9fr 1.6fr .7fr}
-@media (max-width:860px){.site-footer .cols{grid-template-columns:1fr 1fr}.foot-states ul{columns:2}}
+.site-footer .foot-states ul{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:1.2rem;row-gap:.4rem}
+.site-footer .cols{grid-template-columns:1.1fr .9fr 2fr .7fr}
+@media (max-width:1100px){.site-footer .cols{grid-template-columns:1fr 1fr}.site-footer .foot-states{grid-column:1/-1;order:3}}
+@media (max-width:520px){.site-footer .cols{grid-template-columns:1fr}.site-footer .foot-states ul{grid-template-columns:repeat(2,minmax(0,1fr))}}
 /* state cards with a product picture */
 .va-lics .va-lic.hv-st{display:flex;flex-flow:row nowrap;align-items:center;gap:.9rem;padding:.75rem 2.4rem .75rem .75rem}
 .va-lics .va-lic.hv-st .hv-st-img{display:block;flex:0 0 76px;width:76px;height:76px;border-radius:12px;overflow:hidden;background:var(--soft);border:1px solid var(--line)}
