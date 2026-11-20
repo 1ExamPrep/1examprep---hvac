@@ -1,7 +1,7 @@
 ---
 title: HVAC License Exam FAQ: 20 Answers
 url: https://passyourhvacexam.com/faq/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: Here are 20 answers about HVAC license exams: who issues the license in each state, EPA 608 versus a state license, open-book rules, the testing providers.
 ---
@@ -19,7 +19,7 @@ Here are 20 answers about HVAC license exams: who issues the license in each sta
 - EPA Section 608 is federal and separate from the state license.
 - Rental, Ultimate and 1 Package prices include a refundable book deposit.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 How do you get an HVAC license? 6How does the HVAC exam work? 5How should you study for it? 4How does ordering work? 5Where are the questions for my state? 19
 
@@ -147,7 +147,7 @@ Exam prep for 49 HVAC licenses in 35 states and DC, from $29.99. Buy buttons go 
 - [Oklahoma Construction Industries Board](https://oklahoma.gov/cib.html)
 - [Arizona Registrar of Contractors](https://roc.az.gov/)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

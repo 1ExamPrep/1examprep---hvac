@@ -1,7 +1,7 @@
 ---
 title: Virginia HVAC License Exam Prep
 url: https://passyourhvacexam.com/virginia/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: Virginia HVAC license exam prep: 3 licenses and 16 packages from $65, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - Refrigeration contractor prep is listed separately from the HVAC tradesman licenses.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Virginia HVAC licenses do we cover?
 
@@ -142,7 +142,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [Virginia DPOR (official site)](https://www.dpor.virginia.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

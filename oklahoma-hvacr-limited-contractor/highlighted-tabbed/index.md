@@ -1,7 +1,7 @@
 ---
 title: OK HVACR Limited Contractor Highlighted and Tabbed Books
 url: https://passyourhvacexam.com/oklahoma-hvacr-limited-contractor/highlighted-tabbed/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: Highlighted and Tabbed Books for the Oklahoma HVACR Limited Contractor exam: the reference books already highlighted and tabbed. $1,595. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,595 (was $1,895) Save 16% [Buy now, go to checkout](https://1examprep.com/car
 - The HVACR Unlimited Contractor trade exam is open book: 90 questions in 240 minutes, with a 70 percent passing score (63 correct).
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -276,7 +276,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

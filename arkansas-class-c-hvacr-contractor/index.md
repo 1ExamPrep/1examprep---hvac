@@ -1,7 +1,7 @@
 ---
 title: Arkansas Class C HVACR Contractor Exam Prep
 url: https://passyourhvacexam.com/arkansas-class-c-hvacr-contractor/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: Class C HVACR Contractor exam prep for Arkansas: 8 options from $79.99 to $3,345, including books and courses rental, complete book package, highlighted and.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Prov proctors the Arkansas HVACR exams, and the board must approve you before you can sit for one.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 Class C HVACR Contractor packages
 
@@ -200,7 +200,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [AR HVACR Board (official site)](https://labor.arkansas.gov/labor/code-enforcement/hvac-r/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

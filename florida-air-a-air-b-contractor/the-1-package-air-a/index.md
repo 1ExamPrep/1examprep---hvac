@@ -1,7 +1,7 @@
 ---
 title: Florida Air A, Air B The 1 Package
 url: https://passyourhvacexam.com/florida-air-a-air-b-contractor/the-1-package-air-a/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: The 1 Package (all-inclusive) for the Florida Class A and Class B Air Conditioning Contractor (Air A, Air B) exam: everything in the Ultimate package plus.
 ---
@@ -27,7 +27,7 @@ $4,395 (was $5,395) Save 19% [Buy now, go to checkout](https://1examprep.com/car
 - The Florida Construction Industry Licensing Board certifies Class A and Class B air conditioning contractors statewide.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -277,7 +277,7 @@ It adds help with the state license application plus LLC or corporation setup, E
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

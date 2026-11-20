@@ -1,7 +1,7 @@
 ---
 title: Oklahoma HVAC License Exam Prep
 url: https://passyourhvacexam.com/oklahoma/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: Oklahoma HVAC license exam prep: 4 licenses and 32 packages from $64.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - From December 15, 2026 the affected HVACR exams use the 2024 International Mechanical Code and International Fuel Gas Code only.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Oklahoma HVAC licenses do we cover?
 
@@ -146,7 +146,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

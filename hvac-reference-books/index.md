@@ -1,7 +1,7 @@
 ---
 title: HVAC Reference Books Exam Prep
 url: https://passyourhvacexam.com/hvac-reference-books/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: HVAC Reference Books exam prep for HVAC reference books: 4 options from $75 to $295, including reference book. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Check the candidate bulletin for your exam to see which editions it allows.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## 4 HVAC Reference Books packages
 
@@ -159,7 +159,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

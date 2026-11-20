@@ -1,7 +1,7 @@
 ---
 title: MO St. Louis County Residential HVAC Servicer/Installer
 url: https://passyourhvacexam.com/missouri-st-louis-county-residential-hvac-icc-589/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: St. Louis County Residential HVAC Servicer/Installer (ICC 589) exam prep for Missouri: 1 option at $1,195, including complete book package. One-click.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Both use ICC exams: 228 for Kansas City refrigeration operators, 588 and 589 for St. Louis County HVAC.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 St. Louis County Residential HVAC Servicer/Installer (ICC 589) package
 
@@ -134,7 +134,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [St. Louis County (official site)](https://stlouiscountymo.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

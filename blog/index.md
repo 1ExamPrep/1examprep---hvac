@@ -1,7 +1,7 @@
 ---
 title: HVAC License Exam Blog: Study Tips and State Rules
 url: https://passyourhvacexam.com/blog/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: Study plans, state HVAC licensing rules and exam strategy for HVAC, refrigeration and heating license exams, from Pass Your HVAC Exam.
 ---
@@ -19,7 +19,7 @@ This blog has study plans, state licensing rules and exam strategy for HVAC, ref
 - Exam prep for 49 HVAC licenses in 35 states and DC, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourhvacexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
 [
@@ -101,7 +101,7 @@ Exam prep for HVAC, refrigeration and heating licenses in 35 states and DC. Buy 
 - [Oklahoma Construction Industries Board](https://oklahoma.gov/cib.html)
 - [Arizona Registrar of Contractors](https://roc.az.gov/)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Maryland HVACR Journeyman Complete Book Package
 url: https://passyourhvacexam.com/maryland-hvacr-journeyman/book-package/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: Complete Book Package for the Maryland HVACR Journeyman exam: every reference book the exam is written to, new and unmarked. $795. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $795 (was $895) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/50
 - Maryland licenses master, master restricted, limited and journeyman HVACR, with restricted licenses for air conditioning or refrigeration only.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -268,7 +268,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MD HVACR Board (official site)](https://www.labor.maryland.gov/license/hvacr/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Idaho HVAC Specialty Journeyman Highlighted and Tabbed Books
 url: https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/highlighted-tabbed/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: Highlighted and Tabbed Books for the Idaho HVAC Specialty Journeyman exam: the reference books already highlighted and tabbed. $245. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $245 (was $445) Save 45% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The Idaho HVAC Board licenses apprentices, journeymen, specialty journeymen and contractors.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -226,7 +226,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Idaho DOPL HVAC Board (official site)](https://dopl.idaho.gov/hvac/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

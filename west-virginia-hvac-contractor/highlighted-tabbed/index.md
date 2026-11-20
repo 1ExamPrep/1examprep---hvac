@@ -1,7 +1,7 @@
 ---
 title: West Virginia HVAC Contractor Highlighted and Tabbed Books
 url: https://passyourhvacexam.com/west-virginia-hvac-contractor/highlighted-tabbed/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your HVAC Exam
 description: Highlighted and Tabbed Books for the West Virginia HVAC Contractor exam: the reference books already highlighted and tabbed. $525. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $525 (was $725) Save 28% [Buy now, go to checkout](https://1examprep.com/cart/46
 - West Virginia requires an HVAC technician certification from the Division of Labor for HVAC work.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -275,7 +275,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [WV Division of Labor: Prov exams](https://labor.wv.gov/article/prov-exam-inc)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 18, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
