@@ -90,6 +90,19 @@ Manage the clock and the books. Answer what you know first, flag the long lookup
 
 You need EPA 608 to buy or handle refrigerant, which covers almost all HVAC work, and many states also require it before they issue a license. There are four types: Type I for small appliances, Type II for high-pressure systems, Type III for low-pressure systems and Universal for all three. Most techs go for Universal. The test is closed book and multiple choice, and the certification never expires. It is a smart first step because it opens doors to jobs while you build hours.
 
+## Where can you read about other licenses?
+
+Licensing rules change from state to state and trade to trade, so we answer the most searched questions for each one in its own post. If you work across state lines or hold more than one trade license, these companion posts cover the other exams our sites prepare you for:
+
+- [Texas contractor license: 15 questions answered](https://passyourtexascontractorexam.com/blog/texas-contractor-license-questions-answered/)
+- [Virginia contractor license: 15 questions answered](https://passyourvirginiacontractorexam.com/blog/virginia-contractor-license-questions-answered/)
+- [Nevada contractor license: 15 questions answered](https://passyournevadacontractorexam.com/blog/nevada-contractor-license-questions-answered/)
+- [Mississippi contractor license: 15 questions answered](https://passyourmississippicontractorexam.com/blog/mississippi-contractor-license-questions-answered/)
+- [Florida contractor exam: 15 questions answered](https://passyourfloridacontractorexam.com/blog/florida-contractor-exam-questions-answered/)
+- [Master electrician exam: 15 questions answered](https://passyourmasterelectricianexam.com/blog/master-electrician-exam-questions-answered/)
+- [Plumbing license exam: 15 questions answered](https://passyourplumbingexam.com/blog/plumbing-license-exam-questions-answered/)
+- [NASCLA exam: 15 questions answered](https://passyournasclaexam.com/blog/nascla-exam-questions-answered/)
+
 ## Frequently asked questions
 
 Quick answers to a few more questions people ask about the exam and license.
