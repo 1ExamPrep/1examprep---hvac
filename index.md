@@ -1,7 +1,7 @@
 ---
 title: HVAC License Exam Prep by State | Pass Your HVAC Exam
 url: https://passyourhvacexam.com/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Exam prep for 49 HVAC, refrigeration and heating licenses in 35 states and DC: books, highlighted and tabbed sets, online courses and live classes.
 ---
@@ -27,7 +27,7 @@ Tap your state. Each state page names the board that issues HVAC licenses, expla
 - Highlighted and tabbed books save the most time on open-book exams such as Arizona C-39 and Oklahoma HVACR.
 - Every Buy now button goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What do HVAC candidates buy most?
 
@@ -159,7 +159,7 @@ Buy now opens secure checkout at 1 Exam Prep. Books ship free and online courses
 
 Study plans and HVAC licensing news, each post checked against the board that sets the rule.
 
-[November 18, 2026**Best HVAC License Exam Prep Books for Refrigeration Certification: Pass Your HVAC Exam vs Competitors** Preparing for a refrigeration certification HVAC license exam requires focused study materials that cover mechanical refrigeration theory, relevant.](https://passyourhvacexam.com/blog/best-hvac-refrigeration-license-exam-prep-books/)
+[November 23, 2026**HVAC License Exam: 15 Questions People Ask, Answered** How long does it take to get an HVAC license, is the test hard, is it open book and what is the difference between EPA 608 and a state license?.](https://passyourhvacexam.com/blog/hvac-license-exam-questions-answered/) · [November 18, 2026**Best HVAC License Exam Prep Books for Refrigeration Certification: Pass Your HVAC Exam vs Competitors** Preparing for a refrigeration certification HVAC license exam requires focused study materials that cover mechanical refrigeration theory, relevant.](https://passyourhvacexam.com/blog/best-hvac-refrigeration-license-exam-prep-books/)
 [See every post](https://passyourhvacexam.com/blog/)
 
 ## What do people ask before buying?
@@ -202,7 +202,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [Oklahoma Construction Industries Board](https://oklahoma.gov/cib.html)
 - [Arizona Registrar of Contractors](https://roc.az.gov/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ## Your exam date is not moving. *Start today.*
 

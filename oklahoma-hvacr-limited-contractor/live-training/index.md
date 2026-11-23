@@ -1,7 +1,7 @@
 ---
 title: Oklahoma HVACR Limited Contractor Live Virtual Training
 url: https://passyourhvacexam.com/oklahoma-hvacr-limited-contractor/live-training/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Live Virtual Training for the Oklahoma HVACR Limited Contractor exam: live virtual classes with an instructor plus the self-study course. $595. One-click.
 ---
@@ -27,7 +27,7 @@ $595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The HVACR Unlimited Contractor trade exam is open book: 90 questions in 240 minutes, with a 70 percent passing score (63 correct).
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -297,7 +297,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

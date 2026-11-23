@@ -1,7 +1,7 @@
 ---
 title: MD Master HVACR Contractor Highlighted and Tabbed Books
 url: https://passyourhvacexam.com/maryland-master-hvacr-contractor/highlighted-tabbed/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Highlighted and Tabbed Books for the Maryland Master HVACR Contractor exam: the reference books already highlighted and tabbed. $1,195. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,195 (was $1,395) Save 14% [Buy now, go to checkout](https://1examprep.com/car
 - Maryland licenses master, master restricted, limited and journeyman HVACR, with restricted licenses for air conditioning or refrigeration only.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -251,7 +251,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MD HVACR Board (official site)](https://www.labor.maryland.gov/license/hvacr/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: DE Live Virtual Training Master HVACR Restricted: Hydronic
 url: https://passyourhvacexam.com/delaware-master-hvacr-restricted-hydronic/live-training/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Live Virtual Training for the Delaware Master HVACR Restricted: Hydronic Heating and Gas Piping exam: live virtual classes with an instructor plus the.
 ---
@@ -27,7 +27,7 @@ $595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Delaware issues a Master HVACR license plus restricted master licenses for air conditioning, refrigeration, forced air, hydronic heating and gas piping.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -266,7 +266,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DE PHVACR Board (official site)](https://dpr.delaware.gov/boards/plumbers/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

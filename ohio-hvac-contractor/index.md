@@ -1,7 +1,7 @@
 ---
 title: Ohio HVAC Contractor Exam Prep
 url: https://passyourhvacexam.com/ohio-hvac-contractor/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: HVAC Contractor exam prep for Ohio: 1 option at $250, including online exam prep course. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - PSI gives the Ohio HVAC contractor exam.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 HVAC Contractor package
 
@@ -133,7 +133,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Ohio OCILB (official site)](https://com.ohio.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

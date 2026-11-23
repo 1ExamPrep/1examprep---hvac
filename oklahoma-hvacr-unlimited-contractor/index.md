@@ -1,7 +1,7 @@
 ---
 title: Oklahoma HVACR Unlimited Contractor Exam Prep
 url: https://passyourhvacexam.com/oklahoma-hvacr-unlimited-contractor/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: HVACR Unlimited Contractor exam prep for Oklahoma: 9 options from $64.99 to $3,645, including books and courses rental, complete book package, highlighted.
 ---
@@ -45,7 +45,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - PSI gives the exam for the Oklahoma Construction Industries Board.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## 9 HVACR Unlimited Contractor packages
 
@@ -218,7 +218,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Florida Air A, Air B Introduction Course
 url: https://passyourhvacexam.com/florida-air-a-air-b-contractor/intro-course-air-a/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Introduction Course for the Florida Class A and Class B Air Conditioning Contractor (Air A, Air B) exam: a short introduction to becoming a licensed.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $129.99) Save 38% [Buy now, go to checkout](https://1examprep.com/ca
 - The Florida Construction Industry Licensing Board certifies Class A and Class B air conditioning contractors statewide.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Introduction Course include?
 
@@ -102,7 +102,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Kentucky Master HVAC Contractor Ultimate Exam Prep Package
 url: https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/ultimate-rental/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Ultimate Exam Prep Package for the Kentucky Master HVAC Contractor (ICC 595) exam: highlighted and tabbed rental books, a year of course access and help with.
 ---
@@ -27,7 +27,7 @@ $2,010 (was $2,410) Save 17% [Buy now, go to checkout](https://1examprep.com/car
 - Kentucky licenses Master HVAC Contractors and Journeyman HVAC Mechanics.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -237,7 +237,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [KY HBC (official site)](https://dhbc.ky.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

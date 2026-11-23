@@ -1,7 +1,7 @@
 ---
 title: Kentucky Master HVAC Contractor Online Practice Questions
 url: https://passyourhvacexam.com/kentucky-master-hvac-contractor-icc-595/online-practice-exams/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Online Practice Questions for the Kentucky Master HVAC Contractor (ICC 595) exam: online practice questions with explanations. $79.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $120) Save 33% [Buy now, go to checkout](https://1examprep.com/cart/
 - Kentucky licenses Master HVAC Contractors and Journeyman HVAC Mechanics.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Questions include?
 
@@ -330,7 +330,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [KY HBC (official site)](https://dhbc.ky.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

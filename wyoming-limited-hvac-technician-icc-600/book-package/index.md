@@ -1,7 +1,7 @@
 ---
 title: WY Limited HVAC Technician (ICC 600) Complete Book Package
 url: https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/book-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Complete Book Package for the Wyoming Limited HVAC Technician (ICC 600) exam: every reference book the exam is written to, new and unmarked. $225. One-click.
 ---
@@ -27,7 +27,7 @@ $225 (was $325) Save 31% [Buy now, go to checkout](https://1examprep.com/cart/45
 - Wyoming has no statewide HVAC license; cities that license HVAC technicians use ICC exams such as the 600 Limited HVAC Technician.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -240,7 +240,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

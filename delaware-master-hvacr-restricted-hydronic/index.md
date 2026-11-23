@@ -1,7 +1,7 @@
 ---
 title: DE Master HVACR Restricted: Hydronic Heating and Gas Piping
 url: https://passyourhvacexam.com/delaware-master-hvacr-restricted-hydronic/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Master HVACR Restricted: Hydronic Heating and Gas Piping exam prep for Delaware: 8 options from $79.99 to $2,915, including books and courses rental.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - A restricted license covers a narrower scope of work than the full Master HVACR license, with its own exam.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 Master HVACR Restricted: Hydronic Heating and Gas Piping packages
 
@@ -200,7 +200,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [DE PHVACR Board (official site)](https://dpr.delaware.gov/boards/plumbers/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

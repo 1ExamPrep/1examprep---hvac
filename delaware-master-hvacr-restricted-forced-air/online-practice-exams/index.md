@@ -1,7 +1,7 @@
 ---
 title: DE Online Practice Questions Master HVACR Restricted:
 url: https://passyourhvacexam.com/delaware-master-hvacr-restricted-forced-air/online-practice-exams/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Online Practice Questions for the Delaware Master HVACR Restricted: Forced Air, Ventilation and Gas Piping exam: online practice questions with explanations.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $120) Save 33% [Buy now, go to checkout](https://1examprep.com/cart/
 - Delaware issues a Master HVACR license plus restricted master licenses for air conditioning, refrigeration, forced air, hydronic heating and gas piping.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Questions include?
 
@@ -322,7 +322,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DE PHVACR Board (official site)](https://dpr.delaware.gov/boards/plumbers/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

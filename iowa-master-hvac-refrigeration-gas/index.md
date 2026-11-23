@@ -1,7 +1,7 @@
 ---
 title: Iowa Master HVAC and Refrigeration with Gas Exam Prep
 url: https://passyourhvacexam.com/iowa-master-hvac-refrigeration-gas/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Master HVAC and Refrigeration with Gas exam prep for Iowa: 1 option at $745, including complete book package. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Disconnecting and reconnecting air conditioning and refrigeration systems is its own Iowa license.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 Master HVAC and Refrigeration with Gas package
 
@@ -133,7 +133,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [IA PMSB (official site)](https://dial.iowa.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

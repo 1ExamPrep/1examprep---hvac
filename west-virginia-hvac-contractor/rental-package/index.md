@@ -1,7 +1,7 @@
 ---
 title: West Virginia HVAC Contractor Books and Courses Rental
 url: https://passyourhvacexam.com/west-virginia-hvac-contractor/rental-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Books and Courses Rental for the West Virginia HVAC Contractor exam: the reference books on rental plus the online course, returned after your exam. $899.
 ---
@@ -27,7 +27,7 @@ $899 (was $1,299) Save 31% [Buy now, go to checkout](https://1examprep.com/cart/
 - West Virginia requires an HVAC technician certification from the Division of Labor for HVAC work.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -292,7 +292,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [WV Division of Labor: Prov exams](https://labor.wv.gov/article/prov-exam-inc)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

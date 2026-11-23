@@ -1,7 +1,7 @@
 ---
 title: Arkansas Class C HVACR Contractor Books and Courses Rental
 url: https://passyourhvacexam.com/arkansas-class-c-hvacr-contractor/rental-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Books and Courses Rental for the Arkansas Class C HVACR Contractor exam: the reference books on rental plus the online course, returned after your exam.
 ---
@@ -27,7 +27,7 @@ $2,220 (was $2,520) Save 12% [Buy now, go to checkout](https://1examprep.com/car
 - Arkansas HVACR licenses run from Class A to Class E; Class A has no limit on BTUH or horsepower.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -295,7 +295,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [AR HVACR Board (official site)](https://labor.arkansas.gov/labor/code-enforcement/hvac-r/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

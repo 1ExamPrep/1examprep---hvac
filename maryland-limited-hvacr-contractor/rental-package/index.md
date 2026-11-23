@@ -1,7 +1,7 @@
 ---
 title: Maryland Limited HVACR Contractor Books and Courses Rental
 url: https://passyourhvacexam.com/maryland-limited-hvacr-contractor/rental-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: Books and Courses Rental for the Maryland Limited HVACR Contractor exam: the reference books on rental plus the online course, returned after your exam.
 ---
@@ -27,7 +27,7 @@ $1,490 (was $1,790) Save 17% [Buy now, go to checkout](https://1examprep.com/car
 - Maryland licenses master, master restricted, limited and journeyman HVACR, with restricted licenses for air conditioning or refrigeration only.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -279,7 +279,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [MD HVACR Board (official site)](https://www.labor.maryland.gov/license/hvacr/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

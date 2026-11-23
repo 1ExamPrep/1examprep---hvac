@@ -1,7 +1,7 @@
 ---
 title: TN The 1 Package CMC-C Mechanical HVAC and Refrigeration
 url: https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/the-1-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your HVAC Exam
 description: The 1 Package (all-inclusive) for the Tennessee CMC-C Mechanical HVAC and Refrigeration Contractor exam: everything in the Ultimate package plus LLC or.
 ---
@@ -27,7 +27,7 @@ $3,275 (was $3,775) Save 13% [Buy now, go to checkout](https://1examprep.com/car
 - The Tennessee CMC-C classification covers mechanical HVAC and refrigeration contracting.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -288,7 +288,7 @@ It adds help with the state license application plus LLC or corporation setup, E
 - [TN Contractors Board (official site)](https://www.tn.gov/commerce/regboards/contractors.html)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
