@@ -1,7 +1,7 @@
 ---
 title: TN Ultimate Exam Prep Package CMC-C Mechanical HVAC and
 url: https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/ultimate-rental/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Ultimate Exam Prep Package for the Tennessee CMC-C Mechanical HVAC and Refrigeration Contractor exam: highlighted and tabbed rental books, a year of course.
 ---
@@ -27,7 +27,7 @@ $2,710 (was $3,110) Save 13% [Buy now, go to checkout](https://1examprep.com/car
 - The Tennessee CMC-C classification covers mechanical HVAC and refrigeration contracting.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -292,7 +292,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [TN Contractors Board (official site)](https://www.tn.gov/commerce/regboards/contractors.html)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

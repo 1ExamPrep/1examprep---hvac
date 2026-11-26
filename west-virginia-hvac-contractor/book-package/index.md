@@ -1,7 +1,7 @@
 ---
 title: West Virginia HVAC Contractor Complete Book Package
 url: https://passyourhvacexam.com/west-virginia-hvac-contractor/book-package/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Complete Book Package for the West Virginia HVAC Contractor exam: every reference book the exam is written to, new and unmarked. $375. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $375 (was $417) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/46
 - West Virginia requires an HVAC technician certification from the Division of Labor for HVAC work.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -252,7 +252,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [WV Division of Labor: Prov exams](https://labor.wv.gov/article/prov-exam-inc)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

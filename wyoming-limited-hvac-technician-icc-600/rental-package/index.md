@@ -1,7 +1,7 @@
 ---
 title: Wyoming Limited HVAC Technician Books and Courses Rental
 url: https://passyourhvacexam.com/wyoming-limited-hvac-technician-icc-600/rental-package/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Books and Courses Rental for the Wyoming Limited HVAC Technician (ICC 600) exam: the reference books on rental plus the online course, returned after your.
 ---
@@ -27,7 +27,7 @@ $720 (was $1,020) Save 29% [Buy now, go to checkout](https://1examprep.com/cart/
 - Wyoming has no statewide HVAC license; cities that license HVAC technicians use ICC exams such as the 600 Limited HVAC Technician.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -213,7 +213,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

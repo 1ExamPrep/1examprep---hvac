@@ -1,7 +1,7 @@
 ---
 title: Arkansas Class D HVACR Contractor Complete Book Package
 url: https://passyourhvacexam.com/arkansas-class-d-hvacr-contractor/book-package/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Complete Book Package for the Arkansas Class D HVACR Contractor exam: every reference book the exam is written to, new and unmarked. $645. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $645 (was $745) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Arkansas HVACR licenses run from Class A to Class E; Class A has no limit on BTUH or horsepower.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -275,7 +275,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [AR HVACR Board (official site)](https://labor.arkansas.gov/labor/code-enforcement/hvac-r/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

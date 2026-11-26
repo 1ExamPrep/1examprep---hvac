@@ -1,7 +1,7 @@
 ---
 title: DE Books and Courses Rental Master HVACR Restricted: Gas
 url: https://passyourhvacexam.com/delaware-master-hvacr-restricted-gas-piping/rental-package/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Books and Courses Rental for the Delaware Master HVACR Restricted: Gas Piping exam: the reference books on rental plus the online course, returned after your.
 ---
@@ -27,7 +27,7 @@ $890 (was $1,290) Save 31% [Buy now, go to checkout](https://1examprep.com/cart/
 - Delaware issues a Master HVACR license plus restricted master licenses for air conditioning, refrigeration, forced air, hydronic heating and gas piping.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -281,7 +281,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [DE PHVACR Board (official site)](https://dpr.delaware.gov/boards/plumbers/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

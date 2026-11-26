@@ -1,7 +1,7 @@
 ---
 title: Idaho HVAC Specialty Journeyman Online Practice Questions
 url: https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/online-practice-exams/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Online Practice Questions for the Idaho HVAC Specialty Journeyman exam: online practice questions with explanations. $79.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $120) Save 33% [Buy now, go to checkout](https://1examprep.com/cart/
 - The Idaho HVAC Board licenses apprentices, journeymen, specialty journeymen and contractors.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Questions include?
 
@@ -315,7 +315,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Idaho DOPL HVAC Board (official site)](https://dopl.idaho.gov/hvac/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

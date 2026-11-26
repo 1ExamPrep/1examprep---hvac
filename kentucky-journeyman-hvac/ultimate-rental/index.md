@@ -1,7 +1,7 @@
 ---
 title: KY Journeyman HVAC (state exam) Ultimate Exam Prep Package
 url: https://passyourhvacexam.com/kentucky-journeyman-hvac/ultimate-rental/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Ultimate Exam Prep Package for the Kentucky Journeyman HVAC (state exam) exam: highlighted and tabbed rental books, a year of course access and help with the.
 ---
@@ -27,7 +27,7 @@ $2,110 (was $2,510) Save 16% [Buy now, go to checkout](https://1examprep.com/car
 - Kentucky licenses Master HVAC Contractors and Journeyman HVAC Mechanics.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -260,7 +260,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [KY HBC (official site)](https://dhbc.ky.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

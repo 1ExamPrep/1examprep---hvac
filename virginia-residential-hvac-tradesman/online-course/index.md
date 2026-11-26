@@ -1,7 +1,7 @@
 ---
 title: Virginia Residential HVAC Tradesman Online Exam Prep Course
 url: https://passyourhvacexam.com/virginia-residential-hvac-tradesman/online-course/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Online Exam Prep Course for the Virginia Residential HVAC Tradesman exam: a self-study online course built around the exam. $295. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/50
 - The Virginia Board for Contractors certifies HVAC tradesmen as journeyman and master, plus residential HVAC tradesman.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -270,7 +270,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Virginia DPOR (official site)](https://www.dpor.virginia.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

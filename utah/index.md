@@ -1,7 +1,7 @@
 ---
 title: Utah HVAC Exam Prep by License
 url: https://passyourhvacexam.com/utah/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Utah HVAC license exam prep: 1 license and 1 package from $1,895, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - The book package covers the Utah HVAC written exam references.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Utah HVAC licenses do we cover?
 
@@ -136,7 +136,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [Utah DOPL (official site)](https://dopl.utah.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

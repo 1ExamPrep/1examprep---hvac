@@ -1,7 +1,7 @@
 ---
 title: SC Residential HVAC Contractor Online Exam Prep Course
 url: https://passyourhvacexam.com/south-carolina-residential-hvac-contractor/online-course/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Online Exam Prep Course for the South Carolina Residential HVAC Contractor exam: a self-study online course built around the exam. $295. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/19
 - Residential HVAC contractors are licensed by the SC Residential Builders Commission; commercial air conditioning, heating and refrigeration by the SC Contractor's Licensing Board.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -216,7 +216,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [SC LLR (official site)](https://llr.sc.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

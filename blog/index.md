@@ -1,7 +1,7 @@
 ---
 title: HVAC License Exam Blog: Study Tips and State Rules
 url: https://passyourhvacexam.com/blog/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your HVAC Exam
 description: Study plans, state HVAC licensing rules and exam strategy for HVAC, refrigeration and heating license exams, from Pass Your HVAC Exam.
 ---
@@ -15,24 +15,32 @@ This blog has study plans, state licensing rules and exam strategy for HVAC, ref
 
 ## Key takeaways
 
-- 2 posts so far, written for HVAC, refrigeration and heating license candidates.
+- 3 posts so far, written for HVAC, refrigeration and heating license candidates.
 - Topics: epa 608, hvac exam, hvac license, mechanical contractor.
 - Exam prep for 49 HVAC licenses in 35 states and DC, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourhvacexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
 [
 Latest
 
+## Which HVAC Licensing Books Cover Business and Law Sections Thoroughly?
+
+If you’re preparing for HVAC licensing exams, especially the business and law portions, choosing the right study materials can make all the difference. The business and law sections require understanding state contractor licensing laws, business management, contracts, labor regulations, safety rules
+
+November 26, 2026 8 min read
+](https://passyourhvacexam.com/blog/hvac-licensing-books-business-law/)
+[
+HVAC License Exam: 15 Questions People Ask, Answ
+
+November 23, 2026 7 min read
+
 ## HVAC License Exam: 15 Questions People Ask, Answered
 
 How long does it take to get an HVAC license, is the test hard, is it open book and what is the difference between EPA 608 and a state license? Straight answers to the 15 questions HVAC techs search most. Each answer is short, plain and checked against the official board and exam sources.
-
-November 23, 2026 7 min read
-](https://passyourhvacexam.com/blog/hvac-license-exam-questions-answered/)
-[
+](https://passyourhvacexam.com/blog/hvac-license-exam-questions-answered/) · [
 
 November 18, 2026 10 min read
 
@@ -110,7 +118,7 @@ Exam prep for HVAC, refrigeration and heating licenses in 35 states and DC. Buy 
 - [Oklahoma Construction Industries Board](https://oklahoma.gov/cib.html)
 - [Arizona Registrar of Contractors](https://roc.az.gov/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
