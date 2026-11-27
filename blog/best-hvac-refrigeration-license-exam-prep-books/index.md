@@ -1,7 +1,7 @@
 ---
 title: Best HVAC License Exam Prep Books for Refrigeration Certification: Pass Your HVAC Exam vs Competitors
 url: https://passyourhvacexam.com/blog/best-hvac-refrigeration-license-exam-prep-books/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Preparing for a refrigeration certification HVAC license exam requires focused study materials that cover mechanical refrigeration theory, relevant state.
 ---
@@ -21,7 +21,7 @@ Preparing for a refrigeration certification HVAC license exam requires focused s
 - Tabbed and highlighted books plus realistic practice exams help maximize exam performance, especially in open-book tests.
 - Self-study with generic books is time-consuming and risky without strong HVAC and code knowledge.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## Best HVAC License Exam Prep Books for Refrigeration Certification: Pass Your HVAC Exam vs Competitors
 

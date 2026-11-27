@@ -1,7 +1,7 @@
 ---
 title: Maryland HVAC License Exam Prep
 url: https://passyourhvacexam.com/maryland/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Maryland HVAC license exam prep: 3 licenses and 23 packages from $79.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - PSI gives the Maryland HVACR exams.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Maryland HVAC licenses do we cover?
 
@@ -142,7 +142,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [MD HVACR Board (official site)](https://www.labor.maryland.gov/license/hvacr/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Washington A-HVAC/R Administrator Complete Book Package
 url: https://passyourhvacexam.com/washington-a-hvacr-administrator/book-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Complete Book Package for the Washington A-HVAC/R Administrator exam: every reference book the exam is written to, new and unmarked. $295. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Washington's HVAC/R electrical specialties cover the electrical side of HVAC and refrigeration work.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -304,7 +304,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Washington L&I (official site)](https://lni.wa.gov/licensing-permits/electrical/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

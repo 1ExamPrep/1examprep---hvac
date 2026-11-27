@@ -1,7 +1,7 @@
 ---
 title: TN CMC-C Mechanical HVAC and Refrigeration Contractor
 url: https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: CMC-C Mechanical HVAC and Refrigeration Contractor exam prep for Tennessee: 7 options from $395 to $3,275, including books and courses rental, complete book.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Prov gives the Tennessee CMC-C trade exam.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## 7 CMC-C Mechanical HVAC and Refrigeration Contractor packages
 
@@ -187,7 +187,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [TN Contractors Board (official site)](https://www.tn.gov/commerce/regboards/contractors.html)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

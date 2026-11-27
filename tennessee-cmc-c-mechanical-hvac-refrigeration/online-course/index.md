@@ -1,7 +1,7 @@
 ---
 title: TN Online Exam Prep Course CMC-C Mechanical HVAC and
 url: https://passyourhvacexam.com/tennessee-cmc-c-mechanical-hvac-refrigeration/online-course/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Online Exam Prep Course for the Tennessee CMC-C Mechanical HVAC and Refrigeration Contractor exam: a self-study online course built around the exam. $395.
 ---
@@ -27,7 +27,7 @@ $395 (was $495) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/30
 - The Tennessee CMC-C classification covers mechanical HVAC and refrigeration contracting.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -279,7 +279,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TN Contractors Board (official site)](https://www.tn.gov/commerce/regboards/contractors.html)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

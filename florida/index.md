@@ -1,7 +1,7 @@
 ---
 title: Florida HVAC License Exam Prep
 url: https://passyourhvacexam.com/florida/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Florida HVAC license exam prep: 1 license and 12 packages from $65, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - Pearson VUE gives the state Air A and Air B trade exams.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Florida HVAC licenses do we cover?
 
@@ -137,7 +137,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: OK HVACR Unlimited Journeyman Ultimate Exam Prep Package
 url: https://passyourhvacexam.com/oklahoma-hvacr-unlimited-journeyman/ultimate-rental/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Ultimate Exam Prep Package for the Oklahoma HVACR Unlimited Journeyman exam: highlighted and tabbed rental books, a year of course access and help with the.
 ---
@@ -27,7 +27,7 @@ $1,845 (was $2,445) Save 25% [Buy now, go to checkout](https://1examprep.com/car
 - The HVACR Unlimited Contractor trade exam is open book: 90 questions in 240 minutes, with a 70 percent passing score (63 correct).
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -348,7 +348,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

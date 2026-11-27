@@ -1,7 +1,7 @@
 ---
 title: HVAC License Exam Prep by State | Pass Your HVAC Exam
 url: https://passyourhvacexam.com/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Exam prep for 49 HVAC, refrigeration and heating licenses in 35 states and DC: books, highlighted and tabbed sets, online courses and live classes.
 ---
@@ -27,7 +27,7 @@ Tap your state. Each state page names the board that issues HVAC licenses, expla
 - Highlighted and tabbed books save the most time on open-book exams such as Arizona C-39 and Oklahoma HVACR.
 - Every Buy now button goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What do HVAC candidates buy most?
 
@@ -202,7 +202,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [Oklahoma Construction Industries Board](https://oklahoma.gov/cib.html)
 - [Arizona Registrar of Contractors](https://roc.az.gov/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ## Your exam date is not moving. *Start today.*
 

@@ -1,7 +1,7 @@
 ---
 title: Florida Air A, Air B Books and Courses Rental
 url: https://passyourhvacexam.com/florida-air-a-air-b-contractor/rental-package-air-a/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Books and Courses Rental for the Florida Class A and Class B Air Conditioning Contractor (Air A, Air B) exam: the reference books on rental plus the online.
 ---
@@ -27,7 +27,7 @@ $2,999 (was $3,333) Save 10% [Buy now, go to checkout](https://1examprep.com/car
 - The Florida Construction Industry Licensing Board certifies Class A and Class B air conditioning contractors statewide.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -309,7 +309,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

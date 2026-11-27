@@ -1,7 +1,7 @@
 ---
 title: Idaho HVAC Specialty Journeyman Ultimate Exam Prep Package
 url: https://passyourhvacexam.com/idaho-hvac-specialty-journeyman/ultimate-rental/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Ultimate Exam Prep Package for the Idaho HVAC Specialty Journeyman exam: highlighted and tabbed rental books, a year of course access and help with the.
 ---
@@ -27,7 +27,7 @@ $965 (was $1,365) Save 29% [Buy now, go to checkout](https://1examprep.com/cart/
 - The Idaho HVAC Board licenses apprentices, journeymen, specialty journeymen and contractors.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -221,7 +221,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Idaho DOPL HVAC Board (official site)](https://dopl.idaho.gov/hvac/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

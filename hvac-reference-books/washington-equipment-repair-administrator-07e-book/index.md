@@ -1,7 +1,7 @@
 ---
 title: Washington Equipment Repair Administrator 07E Book Package
 url: https://passyourhvacexam.com/hvac-reference-books/washington-equipment-repair-administrator-07e-book/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Reference Book for the HVAC HVAC Reference Books exam: a reference book used on HVAC licensing exams. $295. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - These reference books sit beside the state exam prep and show up on many HVAC exam reference lists.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Reference Book include?
 
@@ -340,7 +340,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

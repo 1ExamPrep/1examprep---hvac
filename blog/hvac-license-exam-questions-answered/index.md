@@ -1,7 +1,7 @@
 ---
 title: HVAC License Exam: 15 Common Questions Answered
 url: https://passyourhvacexam.com/blog/hvac-license-exam-questions-answered/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: HVAC license answers: how long it takes, hours needed, license types, master HVAC, EPA 608 vs state licenses, open-book rules and how to study and pass.
 ---
@@ -22,7 +22,7 @@ How long does it take to get an HVAC license, is the test hard, is it open book 
 - Most states want two to five years of supervised work before a contractor or master exam.
 - Oklahoma's HVACR Unlimited exam is 90 questions in 240 minutes with a 70 percent pass mark, a good picture of what to expect.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 An HVAC license comes from your state or local board and usually takes two to five years of supervised work plus a trade exam. EPA 608 is a separate federal certification for handling refrigerant. Many HVAC trade exams are open book, with a pass mark around 70 percent. Here are the 15 questions HVAC techs search most.
 

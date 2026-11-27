@@ -1,7 +1,7 @@
 ---
 title: Virginia Journeyman HVAC Exam Prep
 url: https://passyourhvacexam.com/virginia-journeyman-hvac/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Journeyman HVAC exam prep for Virginia: 5 options from $295 to $1,685, including books and courses rental, complete book package, highlighted and tabbed.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Refrigeration contractor prep is listed separately from the HVAC tradesman licenses.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## 5 Journeyman HVAC packages
 
@@ -170,7 +170,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Virginia DPOR (official site)](https://www.dpor.virginia.gov/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

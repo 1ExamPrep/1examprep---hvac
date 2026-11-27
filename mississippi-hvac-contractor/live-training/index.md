@@ -1,7 +1,7 @@
 ---
 title: Mississippi HVAC Contractor Live Virtual Training
 url: https://passyourhvacexam.com/mississippi-hvac-contractor/live-training/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Live Virtual Training for the Mississippi HVAC Contractor exam: live virtual classes with an instructor plus the self-study course. $595. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The Mississippi State Board of Contractors licenses HVAC, residential HVAC, refrigeration and ductwork contractors.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -268,7 +268,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MS Board of Contractors (official site)](https://www.msboc.us/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

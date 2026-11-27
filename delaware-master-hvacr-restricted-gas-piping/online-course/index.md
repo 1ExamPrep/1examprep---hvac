@@ -1,7 +1,7 @@
 ---
 title: DE Online Exam Prep Course Master HVACR Restricted: Gas
 url: https://passyourhvacexam.com/delaware-master-hvacr-restricted-gas-piping/online-course/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your HVAC Exam
 description: Online Exam Prep Course for the Delaware Master HVACR Restricted: Gas Piping exam: a self-study online course built around the exam. $295. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Delaware issues a Master HVACR license plus restricted master licenses for air conditioning, refrigeration, forced air, hydronic heating and gas piping.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -259,7 +259,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DE PHVACR Board (official site)](https://dpr.delaware.gov/boards/plumbers/)
 - [EPA Section 608 technician certification](https://www.epa.gov/section608)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
